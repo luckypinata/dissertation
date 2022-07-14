@@ -7,13 +7,7 @@ require(tibble)
 states <- read.csv("data/index.csv", sep = ";") # 2017 - 2021
 unique_states <- unique(states$Country)
 
-banks <- read.csv("data/banks.csv")
-
-# function to get all banks for each state
-# use www.swiftbic.com
-# maybe some wrangling
-
-banks <- function(states = unique_states) {
+banks <- function(states = unique_states) { # function to get all banks for each state
   
   banks_tibble <- list()
   
@@ -37,15 +31,23 @@ banks <- function(states = unique_states) {
   banks_tibble <<- do.call("rbind", banks_tibble) %>%
     as_tibble()
   
-  write.csv(banks_tibble, "data/banks.csv") # writes in wide format for some reason...
+  # perform some wrangling? will the names translate into accurate maps searches?
   
 }
+
+write.csv(banks_tibble, "data/banks.csv")
 
 # function to find number of branches for each state
 # google maps function
 # load("gmaps.rda")
+banks <- read.csv("data/banks.csv")
+load("gmaps.rda")
 
+branches <- function(banks) {#function}
 
+  
+  
+  
 """
 url_1 <- "https://www.swiftbic.com/banks-in-MEXICO.html"
 html_1 <- read_html(url_1)
