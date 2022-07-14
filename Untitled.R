@@ -34,15 +34,11 @@ banks <- function(states = unique_states) { # function to get all banks for each
       
       html <- read_html(url)
       
-      print(html)
-      
-      table_2 <<- html_table(html)[[1]] %>% as_tibble()
+      table_2 <- html_table(html)[[1]] %>% as_tibble()
       
       table_1 <- rbind(table_1, table_2)
       
-      print(class(table_1))
-      
-      print(nrow(table_1))
+      #print(nrow(table_1))
       
       j <- j + 1
       
