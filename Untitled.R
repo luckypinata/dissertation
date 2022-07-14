@@ -1,31 +1,50 @@
-
 require(rvest)
 require(dplyr)
 require(tidyverse)
 require(data.table)
+require(tibble)
 
-states <- read.csv("/Users/gummoxxx/Library/Mobile Documents/com~apple~CloudDocs/DISSERTATION/data/index.csv", sep = ";") # 2017 - 2021
+states <- read.csv("data/index.csv", sep = ";") # 2017 - 2021
 unique_states <- unique(states$Country)
 
-load("gmaps.rda")
-
-# function to get unique states for which there is an index 
-# (load .csv file, unique())
+banks <- read.csv("data/banks.csv")
 
 # function to get all banks for each state
 # use www.swiftbic.com
 # maybe some wrangling
 
-# function to find number of branches for each state
-
-res <- function(unique_states, banks) {
+banks <- function(states = unique_states) {
   
+  banks_tibble <- list()
   
+  for (i in 1:length(states)) {
+    
+    url <- sprintf("https://www.swiftbic.com/banks-in-%s.html", toupper(states[i]))
+    
+    print(url)
+    
+    html <- read_html(url)
+    
+    table <- html_table(html)[[1]] %>% 
+      as_tibble()
+    
+    table$country <- rep(states[i], nrow(table))
+    
+    banks_tibble[[i]] <- table
+    
+  }
   
+  banks_tibble <<- do.call("rbind", banks_tibble) %>%
+    as_tibble()
   
-  
+  write.csv(banks_tibble, "data/banks.csv") # writes in wide format for some reason...
   
 }
+
+# function to find number of branches for each state
+# google maps function
+# load("gmaps.rda")
+
 
 """
 url_1 <- "https://www.swiftbic.com/banks-in-MEXICO.html"
