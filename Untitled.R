@@ -30,11 +30,11 @@ bank_asset_concentration_scraper <- function(indicator, timeframe) {
   
   banks_df[[1]] <- r[[2]]
   
-  n_pages <- r[[1]][2]
+  n_pages <- as.integer(r[[1]][2])
   
   #print(nrow(banks_df[[1]]))
   
-  for (j in 2:as.integer(n_pages)) {
+  for (j in 2:n_pages) {
     
     url <- paste0(api_endpoint, i, t, "&format=json&page=", j)
     
