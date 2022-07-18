@@ -1,0 +1,1331 @@
+n;indicator.id;indicator.value;country.id;country.value;countryiso3code;date;value;unit;obs_status;decimal
+1;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZH;Africa Eastern and Southern;AFE;2021;NA;;;0
+2;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZH;Africa Eastern and Southern;AFE;2020; 1.257987e+10;;;0
+3;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZH;Africa Eastern and Southern;AFE;2019; 1.382234e+10;;;0
+4;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZH;Africa Eastern and Southern;AFE;2018; 1.359147e+10;;;0
+5;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZH;Africa Eastern and Southern;AFE;2017; 1.003544e+10;;;0
+6;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZI;Africa Western and Central;AFW;2021;NA;;;0
+7;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZI;Africa Western and Central;AFW;2020; 1.650859e+10;;;0
+8;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZI;Africa Western and Central;AFW;2019; 1.718584e+10;;;0
+9;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZI;Africa Western and Central;AFW;2018; 1.550198e+10;;;0
+10;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZI;Africa Western and Central;AFW;2017; 1.766242e+10;;;0
+11;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);1A;Arab World;ARB;2021;NA;;;0
+12;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);1A;Arab World;ARB;2020; 3.793000e+10;;;0
+13;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);1A;Arab World;ARB;2019; 3.897938e+10;;;0
+14;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);1A;Arab World;ARB;2018; 3.376667e+10;;;0
+15;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);1A;Arab World;ARB;2017; 3.006343e+10;;;0
+16;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S3;Caribbean small states;CSS;2021;NA;;;0
+17;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S3;Caribbean small states;CSS;2020; 2.455082e+09;;;0
+18;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S3;Caribbean small states;CSS;2019; 4.005096e+09;;;0
+19;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S3;Caribbean small states;CSS;2018; 2.835138e+09;;;0
+20;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S3;Caribbean small states;CSS;2017; 2.014802e+09;;;0
+21;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);B8;Central Europe and the Baltics;CEB;2021;NA;;;0
+22;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);B8;Central Europe and the Baltics;CEB;2020; 2.147921e+11;;;0
+23;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);B8;Central Europe and the Baltics;CEB;2019; 1.516058e+11;;;0
+24;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);B8;Central Europe and the Baltics;CEB;2018;-2.119424e+10;;;0
+25;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);B8;Central Europe and the Baltics;CEB;2017; 2.897894e+10;;;0
+26;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V2;Early-demographic dividend;EAR;2021;NA;;;0
+27;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V2;Early-demographic dividend;EAR;2020; 1.996806e+11;;;0
+28;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V2;Early-demographic dividend;EAR;2019; 2.131650e+11;;;0
+29;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V2;Early-demographic dividend;EAR;2018; 2.230736e+11;;;0
+30;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V2;Early-demographic dividend;EAR;2017; 2.126833e+11;;;0
+31;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);Z4;East Asia & Pacific;EAS;2021;NA;;;0
+32;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);Z4;East Asia & Pacific;EAS;2020; 5.896700e+11;;;0
+33;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);Z4;East Asia & Pacific;EAS;2019; 5.363135e+11;;;0
+34;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);Z4;East Asia & Pacific;EAS;2018; 6.002951e+11;;;0
+35;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);Z4;East Asia & Pacific;EAS;2017; 5.583362e+11;;;0
+36;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);4E;East Asia & Pacific (excluding high income);EAP;2021;NA;;;0
+37;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);4E;East Asia & Pacific (excluding high income);EAP;2020; 3.019641e+11;;;0
+38;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);4E;East Asia & Pacific (excluding high income);EAP;2019; 2.591087e+11;;;0
+39;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);4E;East Asia & Pacific (excluding high income);EAP;2018; 3.112877e+11;;;0
+40;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);4E;East Asia & Pacific (excluding high income);EAP;2017; 2.400460e+11;;;0
+41;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T4;East Asia & Pacific (IDA & IBRD countries);TEA;2021;NA;;;0
+42;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T4;East Asia & Pacific (IDA & IBRD countries);TEA;2020; 3.019578e+11;;;0
+43;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T4;East Asia & Pacific (IDA & IBRD countries);TEA;2019; 2.590788e+11;;;0
+44;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T4;East Asia & Pacific (IDA & IBRD countries);TEA;2018; 3.112857e+11;;;0
+45;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T4;East Asia & Pacific (IDA & IBRD countries);TEA;2017; 2.400588e+11;;;0
+46;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XC;Euro area;EMU;2021;NA;;;0
+47;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XC;Euro area;EMU;2020; 9.512623e+10;;;0
+48;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XC;Euro area;EMU;2019; 2.988872e+10;;;0
+49;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XC;Euro area;EMU;2018;-5.668675e+09;;;0
+50;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XC;Euro area;EMU;2017; 4.887047e+11;;;0
+51;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);Z7;Europe & Central Asia;ECS;2021;NA;;;0
+52;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);Z7;Europe & Central Asia;ECS;2020; 1.209389e+11;;;0
+53;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);Z7;Europe & Central Asia;ECS;2019; 2.719620e+11;;;0
+54;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);Z7;Europe & Central Asia;ECS;2018;-2.680277e+11;;;0
+55;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);Z7;Europe & Central Asia;ECS;2017; 9.030362e+11;;;0
+56;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);7E;Europe & Central Asia (excluding high income);ECA;2021;NA;;;0
+57;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);7E;Europe & Central Asia (excluding high income);ECA;2020; 3.956822e+10;;;0
+58;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);7E;Europe & Central Asia (excluding high income);ECA;2019; 7.026916e+10;;;0
+59;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);7E;Europe & Central Asia (excluding high income);ECA;2018; 4.340628e+10;;;0
+60;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);7E;Europe & Central Asia (excluding high income);ECA;2017; 6.627490e+10;;;0
+61;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T7;Europe & Central Asia (IDA & IBRD countries);TEC;2021;NA;;;0
+62;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T7;Europe & Central Asia (IDA & IBRD countries);TEC;2020; 6.173740e+10;;;0
+63;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T7;Europe & Central Asia (IDA & IBRD countries);TEC;2019; 9.838370e+10;;;0
+64;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T7;Europe & Central Asia (IDA & IBRD countries);TEC;2018; 6.969324e+10;;;0
+65;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T7;Europe & Central Asia (IDA & IBRD countries);TEC;2017; 8.444997e+10;;;0
+66;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EU;European Union;EUU;2021;NA;;;0
+67;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EU;European Union;EUU;2020; 3.207040e+11;;;0
+68;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EU;European Union;EUU;2019; 1.813018e+11;;;0
+69;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EU;European Union;EUU;2018;-2.621683e+10;;;0
+70;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EU;European Union;EUU;2017; 5.361638e+11;;;0
+71;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);F1;Fragile and conflict affected situations;FCS;2021;NA;;;0
+72;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);F1;Fragile and conflict affected situations;FCS;2020; 1.973144e+10;;;0
+73;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);F1;Fragile and conflict affected situations;FCS;2019; 1.938113e+10;;;0
+74;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);F1;Fragile and conflict affected situations;FCS;2018; 2.017727e+10;;;0
+75;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);F1;Fragile and conflict affected situations;FCS;2017; 2.430923e+10;;;0
+76;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XE;Heavily indebted poor countries (HIPC);HPC;2021;NA;;;0
+77;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XE;Heavily indebted poor countries (HIPC);HPC;2020; 2.260727e+10;;;0
+78;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XE;Heavily indebted poor countries (HIPC);HPC;2019; 2.708854e+10;;;0
+79;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XE;Heavily indebted poor countries (HIPC);HPC;2018; 2.839810e+10;;;0
+80;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XE;Heavily indebted poor countries (HIPC);HPC;2017; 2.955987e+10;;;0
+81;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XD;High income;;2021;NA;;;0
+82;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XD;High income;;2020; 7.160761e+11;;;0
+83;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XD;High income;;2019; 9.372288e+11;;;0
+84;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XD;High income;;2018; 3.290363e+11;;;0
+85;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XD;High income;;2017; 1.653833e+12;;;0
+86;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XF;IBRD only;IBD;2021;NA;;;0
+87;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XF;IBRD only;IBD;2020; 5.307952e+11;;;0
+88;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XF;IBRD only;IBD;2019; 5.712466e+11;;;0
+89;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XF;IBRD only;IBD;2018; 6.026779e+11;;;0
+90;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XF;IBRD only;IBD;2017; 5.259686e+11;;;0
+91;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZT;IDA & IBRD total;IBT;2021;NA;;;0
+92;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZT;IDA & IBRD total;IBT;2020; 5.698391e+11;;;0
+93;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZT;IDA & IBRD total;IBT;2019; 6.161596e+11;;;0
+94;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZT;IDA & IBRD total;IBT;2018; 6.476974e+11;;;0
+95;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZT;IDA & IBRD total;IBT;2017; 5.764047e+11;;;0
+96;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XH;IDA blend;IDB;2021;NA;;;0
+97;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XH;IDA blend;IDB;2020; 1.112504e+10;;;0
+98;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XH;IDA blend;IDB;2019; 1.197450e+10;;;0
+99;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XH;IDA blend;IDB;2018; 1.181643e+10;;;0
+100;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XH;IDA blend;IDB;2017; 1.469101e+10;;;0
+101;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XI;IDA only;IDX;2021;NA;;;0
+102;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XI;IDA only;IDX;2020; 2.791881e+10;;;0
+103;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XI;IDA only;IDX;2019; 3.293850e+10;;;0
+104;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XI;IDA only;IDX;2018; 3.320308e+10;;;0
+105;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XI;IDA only;IDX;2017; 3.574509e+10;;;0
+106;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XG;IDA total;IDA;2021;NA;;;0
+107;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XG;IDA total;IDA;2020; 3.904385e+10;;;0
+108;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XG;IDA total;IDA;2019; 4.491300e+10;;;0
+109;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XG;IDA total;IDA;2018; 4.501951e+10;;;0
+110;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XG;IDA total;IDA;2017; 5.043610e+10;;;0
+111;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V3;Late-demographic dividend;LTE;2021;NA;;;0
+112;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V3;Late-demographic dividend;LTE;2020; 4.341376e+11;;;0
+113;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V3;Late-demographic dividend;LTE;2019; 4.215493e+11;;;0
+114;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V3;Late-demographic dividend;LTE;2018; 5.164986e+11;;;0
+115;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V3;Late-demographic dividend;LTE;2017; 4.526085e+11;;;0
+116;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZJ;Latin America & Caribbean;LCN;2021;NA;;;0
+117;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZJ;Latin America & Caribbean;LCN;2020; 1.440442e+11;;;0
+118;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZJ;Latin America & Caribbean;LCN;2019; 1.980323e+11;;;0
+119;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZJ;Latin America & Caribbean;LCN;2018; 2.093930e+11;;;0
+120;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZJ;Latin America & Caribbean;LCN;2017; 2.043487e+11;;;0
+121;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XJ;Latin America & Caribbean (excluding high income);LAC;2021;NA;;;0
+122;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XJ;Latin America & Caribbean (excluding high income);LAC;2020; 8.946872e+10;;;0
+123;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XJ;Latin America & Caribbean (excluding high income);LAC;2019; 1.373254e+11;;;0
+124;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XJ;Latin America & Caribbean (excluding high income);LAC;2018; 1.588224e+11;;;0
+125;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XJ;Latin America & Caribbean (excluding high income);LAC;2017; 1.487432e+11;;;0
+126;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T2;Latin America & the Caribbean (IDA & IBRD countries);TLA;2021;NA;;;0
+127;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T2;Latin America & the Caribbean (IDA & IBRD countries);TLA;2020; 9.717750e+10;;;0
+128;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T2;Latin America & the Caribbean (IDA & IBRD countries);TLA;2019; 1.570657e+11;;;0
+129;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T2;Latin America & the Caribbean (IDA & IBRD countries);TLA;2018; 1.738394e+11;;;0
+130;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T2;Latin America & the Caribbean (IDA & IBRD countries);TLA;2017; 1.613000e+11;;;0
+131;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XL;Least developed countries: UN classification;LDC;2021;NA;;;0
+132;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XL;Least developed countries: UN classification;LDC;2020; 2.134319e+10;;;0
+133;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XL;Least developed countries: UN classification;LDC;2019; 1.913926e+10;;;0
+134;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XL;Least developed countries: UN classification;LDC;2018; 1.838173e+10;;;0
+135;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XL;Least developed countries: UN classification;LDC;2017; 2.094089e+10;;;0
+136;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XO;Low & middle income;LMY;2021;NA;;;0
+137;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XO;Low & middle income;LMY;2020; 5.398721e+11;;;0
+138;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XO;Low & middle income;LMY;2019; 5.682126e+11;;;0
+139;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XO;Low & middle income;LMY;2018; 6.062985e+11;;;0
+140;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XO;Low & middle income;LMY;2017; 5.457195e+11;;;0
+141;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XM;Low income;;2021;NA;;;0
+142;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XM;Low income;;2020; 1.152507e+10;;;0
+143;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XM;Low income;;2019; 1.296819e+10;;;0
+144;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XM;Low income;;2018; 1.280467e+10;;;0
+145;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XM;Low income;;2017; 1.406392e+10;;;0
+146;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XN;Lower middle income;;2021;NA;;;0
+147;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XN;Lower middle income;;2020; 1.443178e+11;;;0
+148;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XN;Lower middle income;;2019; 1.507999e+11;;;0
+149;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XN;Lower middle income;;2018; 1.379830e+11;;;0
+150;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XN;Lower middle income;;2017; 1.394643e+11;;;0
+151;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZQ;Middle East & North Africa;MEA;2021;NA;;;0
+152;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZQ;Middle East & North Africa;MEA;2020; 6.587608e+10;;;0
+153;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZQ;Middle East & North Africa;MEA;2019; 6.162947e+10;;;0
+154;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZQ;Middle East & North Africa;MEA;2018; 5.979667e+10;;;0
+155;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZQ;Middle East & North Africa;MEA;2017; 5.383874e+10;;;0
+156;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XQ;Middle East & North Africa (excluding high income);MNA;2021;NA;;;0
+157;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XQ;Middle East & North Africa (excluding high income);MNA;2020; 1.100156e+10;;;0
+158;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XQ;Middle East & North Africa (excluding high income);MNA;2019; 1.407589e+10;;;0
+159;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XQ;Middle East & North Africa (excluding high income);MNA;2018; 1.534018e+10;;;0
+160;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XQ;Middle East & North Africa (excluding high income);MNA;2017; 1.674775e+10;;;0
+161;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T3;Middle East & North Africa (IDA & IBRD countries);TMN;2021;NA;;;0
+162;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T3;Middle East & North Africa (IDA & IBRD countries);TMN;2020; 1.092182e+10;;;0
+163;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T3;Middle East & North Africa (IDA & IBRD countries);TMN;2019; 1.394401e+10;;;0
+164;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T3;Middle East & North Africa (IDA & IBRD countries);TMN;2018; 1.512948e+10;;;0
+165;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T3;Middle East & North Africa (IDA & IBRD countries);TMN;2017; 1.656380e+10;;;0
+166;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XP;Middle income;MIC;2021;NA;;;0
+167;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XP;Middle income;MIC;2020; 5.283470e+11;;;0
+168;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XP;Middle income;MIC;2019; 5.552444e+11;;;0
+169;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XP;Middle income;MIC;2018; 5.934938e+11;;;0
+170;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XP;Middle income;MIC;2017; 5.316556e+11;;;0
+171;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XU;North America;NAC;2021;NA;;;0
+172;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XU;North America;NAC;2020; 2.383331e+11;;;0
+173;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XU;North America;NAC;2019; 3.507509e+11;;;0
+174;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XU;North America;NAC;2018; 2.570142e+11;;;0
+175;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XU;North America;NAC;2017; 4.058927e+11;;;0
+176;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XY;Not classified;;2021;NA;;;0
+177;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XY;Not classified;;2020;NA;;;0
+178;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XY;Not classified;;2019;NA;;;0
+179;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XY;Not classified;;2018;NA;;;0
+180;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XY;Not classified;;2017;NA;;;0
+181;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);OE;OECD members;OED;2021;NA;;;0
+182;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);OE;OECD members;OED;2020; 4.889658e+11;;;0
+183;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);OE;OECD members;OED;2019; 6.767601e+11;;;0
+184;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);OE;OECD members;OED;2018; 2.203996e+11;;;0
+185;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);OE;OECD members;OED;2017; 1.354488e+12;;;0
+186;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S4;Other small states;OSS;2021;NA;;;0
+187;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S4;Other small states;OSS;2020; 1.007891e+10;;;0
+188;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S4;Other small states;OSS;2019; 5.246579e+10;;;0
+189;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S4;Other small states;OSS;2018; 7.067494e+09;;;0
+190;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S4;Other small states;OSS;2017; 1.915782e+10;;;0
+191;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S2;Pacific island small states;PSS;2021;NA;;;0
+192;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S2;Pacific island small states;PSS;2020; 3.147636e+08;;;0
+193;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S2;Pacific island small states;PSS;2019; 4.073665e+08;;;0
+194;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S2;Pacific island small states;PSS;2018; 5.984683e+08;;;0
+195;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S2;Pacific island small states;PSS;2017; 5.067158e+08;;;0
+196;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V4;Post-demographic dividend;PST;2021;NA;;;0
+197;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V4;Post-demographic dividend;PST;2020; 5.511973e+11;;;0
+198;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V4;Post-demographic dividend;PST;2019; 8.091392e+11;;;0
+199;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V4;Post-demographic dividend;PST;2018; 2.329778e+11;;;0
+200;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V4;Post-demographic dividend;PST;2017; 1.439058e+12;;;0
+201;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V1;Pre-demographic dividend;PRE;2021;NA;;;0
+202;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V1;Pre-demographic dividend;PRE;2020; 1.609864e+10;;;0
+203;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V1;Pre-demographic dividend;PRE;2019; 1.348658e+10;;;0
+204;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V1;Pre-demographic dividend;PRE;2018; 8.496769e+09;;;0
+205;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);V1;Pre-demographic dividend;PRE;2017; 1.022178e+10;;;0
+206;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S1;Small states;SST;2021;NA;;;0
+207;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S1;Small states;SST;2020; 1.284875e+10;;;0
+208;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S1;Small states;SST;2019; 5.687825e+10;;;0
+209;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S1;Small states;SST;2018; 1.050110e+10;;;0
+210;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);S1;Small states;SST;2017; 2.167934e+10;;;0
+211;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);8S;South Asia;SAS;2021;NA;;;0
+212;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);8S;South Asia;SAS;2020; 6.895607e+10;;;0
+213;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);8S;South Asia;SAS;2019; 5.667918e+10;;;0
+214;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);8S;South Asia;SAS;2018; 4.865613e+10;;;0
+215;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);8S;South Asia;SAS;2017; 4.633426e+10;;;0
+216;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T5;South Asia (IDA & IBRD);TSA;2021;NA;;;0
+217;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T5;South Asia (IDA & IBRD);TSA;2020; 6.895607e+10;;;0
+218;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T5;South Asia (IDA & IBRD);TSA;2019; 5.667918e+10;;;0
+219;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T5;South Asia (IDA & IBRD);TSA;2018; 4.865613e+10;;;0
+220;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T5;South Asia (IDA & IBRD);TSA;2017; 4.633426e+10;;;0
+221;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZG;Sub-Saharan Africa;SSF;2021;NA;;;0
+222;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZG;Sub-Saharan Africa;SSF;2020; 2.908846e+10;;;0
+223;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZG;Sub-Saharan Africa;SSF;2019; 3.100818e+10;;;0
+224;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZG;Sub-Saharan Africa;SSF;2018; 2.909346e+10;;;0
+225;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZG;Sub-Saharan Africa;SSF;2017; 2.769786e+10;;;0
+226;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZF;Sub-Saharan Africa (excluding high income);SSA;2021;NA;;;0
+227;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZF;Sub-Saharan Africa (excluding high income);SSA;2020; 2.891335e+10;;;0
+228;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZF;Sub-Saharan Africa (excluding high income);SSA;2019; 3.075430e+10;;;0
+229;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZF;Sub-Saharan Africa (excluding high income);SSA;2018; 2.878579e+10;;;0
+230;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZF;Sub-Saharan Africa (excluding high income);SSA;2017; 2.757339e+10;;;0
+231;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T6;Sub-Saharan Africa (IDA & IBRD countries);TSS;2021;NA;;;0
+232;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T6;Sub-Saharan Africa (IDA & IBRD countries);TSS;2020; 2.908846e+10;;;0
+233;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T6;Sub-Saharan Africa (IDA & IBRD countries);TSS;2019; 3.100818e+10;;;0
+234;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T6;Sub-Saharan Africa (IDA & IBRD countries);TSS;2018; 2.909346e+10;;;0
+235;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);T6;Sub-Saharan Africa (IDA & IBRD countries);TSS;2017; 2.769786e+10;;;0
+236;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XT;Upper middle income;;2021;NA;;;0
+237;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XT;Upper middle income;;2020; 3.840292e+11;;;0
+238;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XT;Upper middle income;;2019; 4.044445e+11;;;0
+239;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XT;Upper middle income;;2018; 4.555108e+11;;;0
+240;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XT;Upper middle income;;2017; 3.921913e+11;;;0
+241;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);1W;World;WLD;2021;NA;;;0
+242;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);1W;World;WLD;2020; 1.256907e+12;;;0
+243;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);1W;World;WLD;2019; 1.506375e+12;;;0
+244;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);1W;World;WLD;2018; 9.362208e+11;;;0
+245;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);1W;World;WLD;2017; 2.199485e+12;;;0
+246;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AF;Afghanistan;AFG;2021;NA;;;0
+247;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AF;Afghanistan;AFG;2020; 1.297015e+07;;;0
+248;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AF;Afghanistan;AFG;2019; 2.340455e+07;;;0
+249;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AF;Afghanistan;AFG;2018; 1.194351e+08;;;0
+250;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AF;Afghanistan;AFG;2017; 5.153390e+07;;;0
+251;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AL;Albania;ALB;2021;NA;;;0
+252;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AL;Albania;ALB;2020; 1.069745e+09;;;0
+253;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AL;Albania;ALB;2019; 1.201022e+09;;;0
+254;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AL;Albania;ALB;2018; 1.204383e+09;;;0
+255;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AL;Albania;ALB;2017; 1.022758e+09;;;0
+256;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DZ;Algeria;DZA;2021;NA;;;0
+257;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DZ;Algeria;DZA;2020; 1.126709e+09;;;0
+258;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DZ;Algeria;DZA;2019; 1.381200e+09;;;0
+259;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DZ;Algeria;DZA;2018; 1.466116e+09;;;0
+260;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DZ;Algeria;DZA;2017; 1.230243e+09;;;0
+261;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AS;American Samoa;ASM;2021;NA;;;0
+262;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AS;American Samoa;ASM;2020;NA;;;0
+263;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AS;American Samoa;ASM;2019;NA;;;0
+264;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AS;American Samoa;ASM;2018;NA;;;0
+265;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AS;American Samoa;ASM;2017;NA;;;0
+266;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AD;Andorra;AND;2021;NA;;;0
+267;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AD;Andorra;AND;2020;NA;;;0
+268;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AD;Andorra;AND;2019;NA;;;0
+269;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AD;Andorra;AND;2018;NA;;;0
+270;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AD;Andorra;AND;2017;NA;;;0
+271;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AO;Angola;AGO;2021;NA;;;0
+272;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AO;Angola;AGO;2020;-1.866468e+09;;;0
+273;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AO;Angola;AGO;2019;-4.098479e+09;;;0
+274;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AO;Angola;AGO;2018;-6.456076e+09;;;0
+275;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AO;Angola;AGO;2017;-7.397295e+09;;;0
+276;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AG;Antigua and Barbuda;ATG;2021;NA;;;0
+277;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AG;Antigua and Barbuda;ATG;2020; 7.352754e+07;;;0
+278;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AG;Antigua and Barbuda;ATG;2019; 1.277632e+08;;;0
+279;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AG;Antigua and Barbuda;ATG;2018; 2.048449e+08;;;0
+280;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AG;Antigua and Barbuda;ATG;2017; 1.512716e+08;;;0
+281;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AR;Argentina;ARG;2021;NA;;;0
+282;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AR;Argentina;ARG;2020; 4.019052e+09;;;0
+283;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AR;Argentina;ARG;2019; 6.663062e+09;;;0
+284;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AR;Argentina;ARG;2018; 1.171677e+10;;;0
+285;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AR;Argentina;ARG;2017; 1.151686e+10;;;0
+286;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AM;Armenia;ARM;2021;NA;;;0
+287;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AM;Armenia;ARM;2020; 4.718358e+07;;;0
+288;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AM;Armenia;ARM;2019; 1.009461e+08;;;0
+289;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AM;Armenia;ARM;2018; 2.668250e+08;;;0
+290;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AM;Armenia;ARM;2017; 2.509351e+08;;;0
+291;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AW;Aruba;ABW;2021;NA;;;0
+292;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AW;Aruba;ABW;2020; 1.640876e+08;;;0
+293;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AW;Aruba;ABW;2019;-7.522654e+07;;;0
+294;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AW;Aruba;ABW;2018; 1.359212e+08;;;0
+295;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AW;Aruba;ABW;2017; 1.624636e+08;;;0
+296;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AU;Australia;AUS;2021;NA;;;0
+297;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AU;Australia;AUS;2020; 1.840366e+10;;;0
+298;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AU;Australia;AUS;2019; 3.910120e+10;;;0
+299;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AU;Australia;AUS;2018; 6.132462e+10;;;0
+300;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AU;Australia;AUS;2017; 4.819861e+10;;;0
+301;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AT;Austria;AUT;2021;NA;;;0
+302;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AT;Austria;AUT;2020;-1.821473e+10;;;0
+303;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AT;Austria;AUT;2019;-1.312099e+10;;;0
+304;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AT;Austria;AUT;2018;-2.860576e+10;;;0
+305;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AT;Austria;AUT;2017; 1.351886e+10;;;0
+306;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AZ;Azerbaijan;AZE;2021;NA;;;0
+307;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AZ;Azerbaijan;AZE;2020; 5.071518e+08;;;0
+308;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AZ;Azerbaijan;AZE;2019; 1.503918e+09;;;0
+309;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AZ;Azerbaijan;AZE;2018; 1.402998e+09;;;0
+310;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AZ;Azerbaijan;AZE;2017; 2.867487e+09;;;0
+311;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BS;Bahamas; The;BHS;2021;NA;;;0
+312;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BS;Bahamas; The;BHS;2020; 4.345998e+08;;;0
+313;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BS;Bahamas; The;BHS;2019; 4.822293e+08;;;0
+314;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BS;Bahamas; The;BHS;2018; 4.914047e+08;;;0
+315;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BS;Bahamas; The;BHS;2017; 3.045876e+08;;;0
+316;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BH;Bahrain;BHR;2021;NA;;;0
+317;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BH;Bahrain;BHR;2020; 1.006649e+09;;;0
+318;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BH;Bahrain;BHR;2019; 1.501330e+09;;;0
+319;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BH;Bahrain;BHR;2018; 1.111702e+08;;;0
+320;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BH;Bahrain;BHR;2017; 5.188830e+08;;;0
+321;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BD;Bangladesh;BGD;2021;NA;;;0
+322;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BD;Bangladesh;BGD;2020; 1.525312e+09;;;0
+323;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BD;Bangladesh;BGD;2019; 1.908045e+09;;;0
+324;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BD;Bangladesh;BGD;2018; 2.421626e+09;;;0
+325;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BD;Bangladesh;BGD;2017; 1.810396e+09;;;0
+326;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BB;Barbados;BRB;2021;NA;;;0
+327;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BB;Barbados;BRB;2020; 2.621000e+08;;;0
+328;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BB;Barbados;BRB;2019; 2.153701e+08;;;0
+329;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BB;Barbados;BRB;2018; 2.415965e+08;;;0
+330;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BB;Barbados;BRB;2017; 2.061574e+08;;;0
+331;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BY;Belarus;BLR;2021;NA;;;0
+332;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BY;Belarus;BLR;2020; 1.391600e+09;;;0
+333;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BY;Belarus;BLR;2019; 1.273300e+09;;;0
+334;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BY;Belarus;BLR;2018; 1.426500e+09;;;0
+335;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BY;Belarus;BLR;2017; 1.276300e+09;;;0
+336;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BE;Belgium;BEL;2021;NA;;;0
+337;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BE;Belgium;BEL;2020;-1.757064e+10;;;0
+338;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BE;Belgium;BEL;2019;-3.007547e+10;;;0
+339;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BE;Belgium;BEL;2018;-4.160139e+10;;;0
+340;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BE;Belgium;BEL;2017;-3.728884e+10;;;0
+341;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BZ;Belize;BLZ;2021;NA;;;0
+342;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BZ;Belize;BLZ;2020; 7.620281e+07;;;0
+343;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BZ;Belize;BLZ;2019; 9.391024e+07;;;0
+344;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BZ;Belize;BLZ;2018; 1.220416e+08;;;0
+345;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BZ;Belize;BLZ;2017; 3.183162e+07;;;0
+346;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BJ;Benin;BEN;2021;NA;;;0
+347;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BJ;Benin;BEN;2020; 1.740200e+08;;;0
+348;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BJ;Benin;BEN;2019; 2.182079e+08;;;0
+349;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BJ;Benin;BEN;2018; 1.940737e+08;;;0
+350;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BJ;Benin;BEN;2017; 2.009027e+08;;;0
+351;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BM;Bermuda;BMU;2021;NA;;;0
+352;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BM;Bermuda;BMU;2020; 4.765181e+08;;;0
+353;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BM;Bermuda;BMU;2019; 4.389826e+06;;;0
+354;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BM;Bermuda;BMU;2018; 9.541637e+07;;;0
+355;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BM;Bermuda;BMU;2017;-2.881093e+08;;;0
+356;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BT;Bhutan;BTN;2021;NA;;;0
+357;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BT;Bhutan;BTN;2020;-2.786961e+06;;;0
+358;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BT;Bhutan;BTN;2019; 1.301138e+07;;;0
+359;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BT;Bhutan;BTN;2018; 2.649454e+06;;;0
+360;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BT;Bhutan;BTN;2017;-1.655376e+07;;;0
+361;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BO;Bolivia;BOL;2021;NA;;;0
+362;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BO;Bolivia;BOL;2020;-1.129487e+09;;;0
+363;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BO;Bolivia;BOL;2019;-2.166368e+08;;;0
+364;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BO;Bolivia;BOL;2018; 3.023688e+08;;;0
+365;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BO;Bolivia;BOL;2017; 7.124741e+08;;;0
+366;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BA;Bosnia and Herzegovina;BIH;2021;NA;;;0
+367;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BA;Bosnia and Herzegovina;BIH;2020; 4.103396e+08;;;0
+368;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BA;Bosnia and Herzegovina;BIH;2019; 4.377135e+08;;;0
+369;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BA;Bosnia and Herzegovina;BIH;2018; 6.017833e+08;;;0
+370;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BA;Bosnia and Herzegovina;BIH;2017; 5.094290e+08;;;0
+371;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BW;Botswana;BWA;2021;NA;;;0
+372;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BW;Botswana;BWA;2020; 8.006276e+07;;;0
+373;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BW;Botswana;BWA;2019; 9.360713e+07;;;0
+374;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BW;Botswana;BWA;2018; 2.859551e+08;;;0
+375;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BW;Botswana;BWA;2017; 2.605751e+08;;;0
+376;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BR;Brazil;BRA;2021;NA;;;0
+377;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BR;Brazil;BRA;2020; 3.778629e+10;;;0
+378;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BR;Brazil;BRA;2019; 6.917441e+10;;;0
+379;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BR;Brazil;BRA;2018; 7.816272e+10;;;0
+380;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BR;Brazil;BRA;2017; 6.888549e+10;;;0
+381;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VG;British Virgin Islands;VGB;2021;NA;;;0
+382;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VG;British Virgin Islands;VGB;2020; 3.961964e+10;;;0
+383;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VG;British Virgin Islands;VGB;2019; 3.910336e+10;;;0
+384;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VG;British Virgin Islands;VGB;2018; 3.438971e+10;;;0
+385;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VG;British Virgin Islands;VGB;2017; 3.960997e+10;;;0
+386;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BN;Brunei Darussalam;BRN;2021;NA;;;0
+387;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BN;Brunei Darussalam;BRN;2020; 5.655423e+08;;;0
+388;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BN;Brunei Darussalam;BRN;2019; 3.732568e+08;;;0
+389;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BN;Brunei Darussalam;BRN;2018; 5.162026e+08;;;0
+390;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BN;Brunei Darussalam;BRN;2017; 4.679276e+08;;;0
+391;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BG;Bulgaria;BGR;2021;NA;;;0
+392;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BG;Bulgaria;BGR;2020; 3.624510e+09;;;0
+393;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BG;Bulgaria;BGR;2019; 2.221250e+09;;;0
+394;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BG;Bulgaria;BGR;2018; 1.809860e+09;;;0
+395;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BG;Bulgaria;BGR;2017; 2.007290e+09;;;0
+396;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BF;Burkina Faso;BFA;2021;NA;;;0
+397;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BF;Burkina Faso;BFA;2020;-9.877786e+07;;;0
+398;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BF;Burkina Faso;BFA;2019; 1.629701e+08;;;0
+399;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BF;Burkina Faso;BFA;2018; 2.684149e+08;;;0
+400;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BF;Burkina Faso;BFA;2017; 2.572690e+06;;;0
+401;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BI;Burundi;BDI;2021;NA;;;0
+402;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BI;Burundi;BDI;2020; 6.057090e+06;;;0
+403;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BI;Burundi;BDI;2019; 1.044959e+06;;;0
+404;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BI;Burundi;BDI;2018; 9.837471e+05;;;0
+405;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);BI;Burundi;BDI;2017; 3.164734e+05;;;0
+406;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CV;Cabo Verde;CPV;2021;NA;;;0
+407;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CV;Cabo Verde;CPV;2020; 7.410580e+07;;;0
+408;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CV;Cabo Verde;CPV;2019; 1.031759e+08;;;0
+409;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CV;Cabo Verde;CPV;2018; 1.126956e+08;;;0
+410;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CV;Cabo Verde;CPV;2017; 1.117116e+08;;;0
+411;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KH;Cambodia;KHM;2021;NA;;;0
+412;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KH;Cambodia;KHM;2020; 3.624645e+09;;;0
+413;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KH;Cambodia;KHM;2019; 3.663033e+09;;;0
+414;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KH;Cambodia;KHM;2018; 3.212633e+09;;;0
+415;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KH;Cambodia;KHM;2017; 2.788084e+09;;;0
+416;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CM;Cameroon;CMR;2021;NA;;;0
+417;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CM;Cameroon;CMR;2020; 6.751870e+08;;;0
+418;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CM;Cameroon;CMR;2019; 1.024779e+09;;;0
+419;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CM;Cameroon;CMR;2018; 7.650920e+08;;;0
+420;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CM;Cameroon;CMR;2017; 8.144589e+08;;;0
+421;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CA;Canada;CAN;2021;NA;;;0
+422;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CA;Canada;CAN;2020; 2.655854e+10;;;0
+423;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CA;Canada;CAN;2019; 4.854749e+10;;;0
+424;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CA;Canada;CAN;2018; 4.260376e+10;;;0
+425;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CA;Canada;CAN;2017; 2.535780e+10;;;0
+426;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KY;Cayman Islands;CYM;2021;NA;;;0
+427;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KY;Cayman Islands;CYM;2020; 6.171023e+09;;;0
+428;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KY;Cayman Islands;CYM;2019; 1.080420e+09;;;0
+429;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KY;Cayman Islands;CYM;2018; 1.736445e+08;;;0
+430;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KY;Cayman Islands;CYM;2017; 2.506467e+09;;;0
+431;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CF;Central African Republic;CAF;2021;NA;;;0
+432;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CF;Central African Republic;CAF;2020; 3.474720e+07;;;0
+433;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CF;Central African Republic;CAF;2019; 2.560116e+07;;;0
+434;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CF;Central African Republic;CAF;2018; 1.800354e+07;;;0
+435;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CF;Central African Republic;CAF;2017; 6.888751e+06;;;0
+436;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TD;Chad;TCD;2021;NA;;;0
+437;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TD;Chad;TCD;2020; 5.576925e+08;;;0
+438;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TD;Chad;TCD;2019; 5.666389e+08;;;0
+439;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TD;Chad;TCD;2018; 4.608905e+08;;;0
+440;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TD;Chad;TCD;2017; 3.633816e+08;;;0
+441;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JG;Channel Islands;CHI;2021;NA;;;0
+442;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JG;Channel Islands;CHI;2020;NA;;;0
+443;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JG;Channel Islands;CHI;2019;NA;;;0
+444;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JG;Channel Islands;CHI;2018;NA;;;0
+445;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JG;Channel Islands;CHI;2017;NA;;;0
+446;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CL;Chile;CHL;2021;NA;;;0
+447;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CL;Chile;CHL;2020; 8.527995e+09;;;0
+448;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CL;Chile;CHL;2019; 1.258661e+10;;;0
+449;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CL;Chile;CHL;2018; 7.759647e+09;;;0
+450;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CL;Chile;CHL;2017; 6.127821e+09;;;0
+451;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CN;China;CHN;2021;NA;;;0
+452;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CN;China;CHN;2020; 2.530956e+11;;;0
+453;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CN;China;CHN;2019; 1.871698e+11;;;0
+454;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CN;China;CHN;2018; 2.353651e+11;;;0
+455;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CN;China;CHN;2017; 1.660838e+11;;;0
+456;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CO;Colombia;COL;2021;NA;;;0
+457;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CO;Colombia;COL;2020; 7.458625e+09;;;0
+458;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CO;Colombia;COL;2019; 1.398915e+10;;;0
+459;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CO;Colombia;COL;2018; 1.129869e+10;;;0
+460;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CO;Colombia;COL;2017; 1.370088e+10;;;0
+461;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KM;Comoros;COM;2021;NA;;;0
+462;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KM;Comoros;COM;2020; 3.873524e+06;;;0
+463;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KM;Comoros;COM;2019; 4.300804e+06;;;0
+464;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KM;Comoros;COM;2018; 5.672348e+06;;;0
+465;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KM;Comoros;COM;2017; 3.919473e+06;;;0
+466;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CD;Congo; Dem. Rep.;COD;2021;NA;;;0
+467;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CD;Congo; Dem. Rep.;COD;2020; 1.498085e+09;;;0
+468;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CD;Congo; Dem. Rep.;COD;2019; 1.350994e+09;;;0
+469;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CD;Congo; Dem. Rep.;COD;2018; 1.407564e+09;;;0
+470;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CD;Congo; Dem. Rep.;COD;2017; 1.047979e+09;;;0
+471;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CG;Congo; Rep.;COG;2021;NA;;;0
+472;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CG;Congo; Rep.;COG;2020; 4.015531e+09;;;0
+473;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CG;Congo; Rep.;COG;2019; 3.366085e+09;;;0
+474;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CG;Congo; Rep.;COG;2018; 4.315251e+09;;;0
+475;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CG;Congo; Rep.;COG;2017; 4.416954e+09;;;0
+476;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CR;Costa Rica;CRI;2021;NA;;;0
+477;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CR;Costa Rica;CRI;2020; 2.103004e+09;;;0
+478;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CR;Costa Rica;CRI;2019; 2.719031e+09;;;0
+479;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CR;Costa Rica;CRI;2018; 3.014544e+09;;;0
+480;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CR;Costa Rica;CRI;2017; 2.924907e+09;;;0
+481;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CI;Cote d'Ivoire;CIV;2021;NA;;;0
+482;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CI;Cote d'Ivoire;CIV;2020; 7.129159e+08;;;0
+483;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CI;Cote d'Ivoire;CIV;2019; 8.488811e+08;;;0
+484;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CI;Cote d'Ivoire;CIV;2018; 6.203307e+08;;;0
+485;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CI;Cote d'Ivoire;CIV;2017; 9.750150e+08;;;0
+486;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HR;Croatia;HRV;2021;NA;;;0
+487;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HR;Croatia;HRV;2020; 1.178763e+09;;;0
+488;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HR;Croatia;HRV;2019; 3.904102e+09;;;0
+489;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HR;Croatia;HRV;2018; 1.319393e+09;;;0
+490;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HR;Croatia;HRV;2017; 4.601602e+08;;;0
+491;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CU;Cuba;CUB;2021;NA;;;0
+492;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CU;Cuba;CUB;2020;NA;;;0
+493;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CU;Cuba;CUB;2019;NA;;;0
+494;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CU;Cuba;CUB;2018;NA;;;0
+495;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CU;Cuba;CUB;2017;NA;;;0
+496;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CW;Curacao;CUW;2021;NA;;;0
+497;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CW;Curacao;CUW;2020; 1.581493e+08;;;0
+498;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CW;Curacao;CUW;2019; 7.823586e+07;;;0
+499;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CW;Curacao;CUW;2018; 1.269250e+08;;;0
+500;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CW;Curacao;CUW;2017; 1.726816e+08;;;0
+501;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CY;Cyprus;CYP;2021;NA;;;0
+502;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CY;Cyprus;CYP;2020;-3.272441e+08;;;0
+503;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CY;Cyprus;CYP;2019; 4.199734e+10;;;0
+504;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CY;Cyprus;CYP;2018;-1.110260e+09;;;0
+505;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CY;Cyprus;CYP;2017; 1.440657e+10;;;0
+506;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CZ;Czech Republic;CZE;2021;NA;;;0
+507;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CZ;Czech Republic;CZE;2020; 8.515482e+09;;;0
+508;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CZ;Czech Republic;CZE;2019; 1.075212e+10;;;0
+509;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CZ;Czech Republic;CZE;2018; 8.324668e+09;;;0
+510;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CZ;Czech Republic;CZE;2017; 1.123474e+10;;;0
+511;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DK;Denmark;DNK;2021;NA;;;0
+512;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DK;Denmark;DNK;2020; 1.582722e+09;;;0
+513;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DK;Denmark;DNK;2019;-3.801734e+09;;;0
+514;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DK;Denmark;DNK;2018; 8.764024e+09;;;0
+515;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DK;Denmark;DNK;2017; 3.607276e+09;;;0
+516;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DJ;Djibouti;DJI;2021;NA;;;0
+517;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DJ;Djibouti;DJI;2020; 1.582300e+08;;;0
+518;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DJ;Djibouti;DJI;2019; 1.749990e+08;;;0
+519;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DJ;Djibouti;DJI;2018; 1.700000e+08;;;0
+520;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DJ;Djibouti;DJI;2017; 1.649299e+08;;;0
+521;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DM;Dominica;DMA;2021;NA;;;0
+522;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DM;Dominica;DMA;2020; 2.197999e+07;;;0
+523;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DM;Dominica;DMA;2019; 6.304222e+07;;;0
+524;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DM;Dominica;DMA;2018; 7.828317e+07;;;0
+525;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DM;Dominica;DMA;2017; 2.267721e+07;;;0
+526;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DO;Dominican Republic;DOM;2021;NA;;;0
+527;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DO;Dominican Republic;DOM;2020; 2.460600e+09;;;0
+528;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DO;Dominican Republic;DOM;2019; 2.829200e+09;;;0
+529;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DO;Dominican Republic;DOM;2018; 2.744500e+09;;;0
+530;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DO;Dominican Republic;DOM;2017; 3.597900e+09;;;0
+531;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EC;Ecuador;ECU;2021;NA;;;0
+532;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EC;Ecuador;ECU;2020; 1.104194e+09;;;0
+533;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EC;Ecuador;ECU;2019; 9.745175e+08;;;0
+534;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EC;Ecuador;ECU;2018; 1.388697e+09;;;0
+535;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EC;Ecuador;ECU;2017; 6.295424e+08;;;0
+536;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EG;Egypt; Arab Rep.;EGY;2021;NA;;;0
+537;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EG;Egypt; Arab Rep.;EGY;2020; 5.851800e+09;;;0
+538;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EG;Egypt; Arab Rep.;EGY;2019; 9.010100e+09;;;0
+539;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EG;Egypt; Arab Rep.;EGY;2018; 8.141300e+09;;;0
+540;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EG;Egypt; Arab Rep.;EGY;2017; 7.408700e+09;;;0
+541;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SV;El Salvador;SLV;2021;NA;;;0
+542;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SV;El Salvador;SLV;2020; 3.730087e+08;;;0
+543;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SV;El Salvador;SLV;2019; 6.962870e+08;;;0
+544;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SV;El Salvador;SLV;2018; 4.127440e+08;;;0
+545;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SV;El Salvador;SLV;2017; 5.038014e+08;;;0
+546;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GQ;Equatorial Guinea;GNQ;2021;NA;;;0
+547;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GQ;Equatorial Guinea;GNQ;2020; 5.298947e+08;;;0
+548;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GQ;Equatorial Guinea;GNQ;2019; 4.522871e+08;;;0
+549;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GQ;Equatorial Guinea;GNQ;2018; 3.960778e+08;;;0
+550;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GQ;Equatorial Guinea;GNQ;2017; 3.048272e+08;;;0
+551;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ER;Eritrea;ERI;2021;NA;;;0
+552;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ER;Eritrea;ERI;2020; 7.382800e+07;;;0
+553;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ER;Eritrea;ERI;2019; 6.711600e+07;;;0
+554;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ER;Eritrea;ERI;2018; 6.101500e+07;;;0
+555;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ER;Eritrea;ERI;2017; 5.546800e+07;;;0
+556;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EE;Estonia;EST;2021;NA;;;0
+557;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EE;Estonia;EST;2020; 3.536187e+09;;;0
+558;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EE;Estonia;EST;2019; 3.063088e+09;;;0
+559;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EE;Estonia;EST;2018; 1.232539e+09;;;0
+560;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);EE;Estonia;EST;2017; 1.735775e+09;;;0
+561;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SZ;Eswatini;SWZ;2021;NA;;;0
+562;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SZ;Eswatini;SWZ;2020; 4.406956e+07;;;0
+563;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SZ;Eswatini;SWZ;2019; 1.279709e+08;;;0
+564;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SZ;Eswatini;SWZ;2018; 3.113083e+07;;;0
+565;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SZ;Eswatini;SWZ;2017;-5.764759e+07;;;0
+566;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ET;Ethiopia;ETH;2021;NA;;;0
+567;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ET;Ethiopia;ETH;2020; 2.395800e+09;;;0
+568;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ET;Ethiopia;ETH;2019; 2.548743e+09;;;0
+569;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ET;Ethiopia;ETH;2018; 3.360419e+09;;;0
+570;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ET;Ethiopia;ETH;2017; 4.017160e+09;;;0
+571;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FO;Faroe Islands;FRO;2021;NA;;;0
+572;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FO;Faroe Islands;FRO;2020;NA;;;0
+573;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FO;Faroe Islands;FRO;2019;NA;;;0
+574;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FO;Faroe Islands;FRO;2018;NA;;;0
+575;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FO;Faroe Islands;FRO;2017;NA;;;0
+576;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FJ;Fiji;FJI;2021;NA;;;0
+577;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FJ;Fiji;FJI;2020; 2.393807e+08;;;0
+578;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FJ;Fiji;FJI;2019; 3.222828e+08;;;0
+579;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FJ;Fiji;FJI;2018; 4.688610e+08;;;0
+580;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FJ;Fiji;FJI;2017; 3.876026e+08;;;0
+581;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FI;Finland;FIN;2021;NA;;;0
+582;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FI;Finland;FIN;2020;-2.368877e+09;;;0
+583;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FI;Finland;FIN;2019; 1.561167e+10;;;0
+584;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FI;Finland;FIN;2018;-1.057170e+10;;;0
+585;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FI;Finland;FIN;2017; 1.714912e+10;;;0
+586;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FR;France;FRA;2021;NA;;;0
+587;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FR;France;FRA;2020; 1.324255e+10;;;0
+588;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FR;France;FRA;2019; 5.748277e+10;;;0
+589;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FR;France;FRA;2018; 7.749310e+10;;;0
+590;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FR;France;FRA;2017; 3.586811e+10;;;0
+591;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PF;French Polynesia;PYF;2021;NA;;;0
+592;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PF;French Polynesia;PYF;2020; 5.566673e+07;;;0
+593;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PF;French Polynesia;PYF;2019; 2.538106e+07;;;0
+594;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PF;French Polynesia;PYF;2018; 6.341852e+07;;;0
+595;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PF;French Polynesia;PYF;2017; 7.926598e+07;;;0
+596;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GA;Gabon;GAB;2021;NA;;;0
+597;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GA;Gabon;GAB;2020; 1.716512e+09;;;0
+598;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GA;Gabon;GAB;2019; 1.553137e+09;;;0
+599;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GA;Gabon;GAB;2018; 1.379071e+09;;;0
+600;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GA;Gabon;GAB;2017; 1.314029e+09;;;0
+601;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GM;Gambia; The;GMB;2021;NA;;;0
+602;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GM;Gambia; The;GMB;2020; 1.895762e+08;;;0
+603;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GM;Gambia; The;GMB;2019; 7.108331e+07;;;0
+604;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GM;Gambia; The;GMB;2018; 8.180501e+07;;;0
+605;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GM;Gambia; The;GMB;2017; 6.433852e+07;;;0
+606;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GE;Georgia;GEO;2021;NA;;;0
+607;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GE;Georgia;GEO;2020; 5.339692e+08;;;0
+608;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GE;Georgia;GEO;2019; 1.366160e+09;;;0
+609;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GE;Georgia;GEO;2018; 1.270488e+09;;;0
+610;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GE;Georgia;GEO;2017; 1.920628e+09;;;0
+611;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DE;Germany;DEU;2021;NA;;;0
+612;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DE;Germany;DEU;2020; 1.427785e+11;;;0
+613;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DE;Germany;DEU;2019; 7.167966e+10;;;0
+614;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DE;Germany;DEU;2018; 1.668684e+11;;;0
+615;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);DE;Germany;DEU;2017; 1.095058e+11;;;0
+616;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GH;Ghana;GHA;2021;NA;;;0
+617;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GH;Ghana;GHA;2020; 1.875783e+09;;;0
+618;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GH;Ghana;GHA;2019; 3.879831e+09;;;0
+619;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GH;Ghana;GHA;2018; 2.989035e+09;;;0
+620;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GH;Ghana;GHA;2017; 3.254990e+09;;;0
+621;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GI;Gibraltar;GIB;2021;NA;;;0
+622;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GI;Gibraltar;GIB;2020;NA;;;0
+623;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GI;Gibraltar;GIB;2019;NA;;;0
+624;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GI;Gibraltar;GIB;2018;NA;;;0
+625;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GI;Gibraltar;GIB;2017;NA;;;0
+626;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GR;Greece;GRC;2021;NA;;;0
+627;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GR;Greece;GRC;2020; 3.303649e+09;;;0
+628;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GR;Greece;GRC;2019; 4.999636e+09;;;0
+629;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GR;Greece;GRC;2018; 4.025448e+09;;;0
+630;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GR;Greece;GRC;2017; 3.439132e+09;;;0
+631;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GL;Greenland;GRL;2021;NA;;;0
+632;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GL;Greenland;GRL;2020;NA;;;0
+633;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GL;Greenland;GRL;2019;NA;;;0
+634;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GL;Greenland;GRL;2018;NA;;;0
+635;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GL;Greenland;GRL;2017;NA;;;0
+636;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GD;Grenada;GRD;2021;NA;;;0
+637;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GD;Grenada;GRD;2020; 1.488114e+08;;;0
+638;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GD;Grenada;GRD;2019; 1.989790e+08;;;0
+639;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GD;Grenada;GRD;2018; 1.840057e+08;;;0
+640;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GD;Grenada;GRD;2017; 1.556621e+08;;;0
+641;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GU;Guam;GUM;2021;NA;;;0
+642;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GU;Guam;GUM;2020;NA;;;0
+643;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GU;Guam;GUM;2019;NA;;;0
+644;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GU;Guam;GUM;2018;NA;;;0
+645;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GU;Guam;GUM;2017;NA;;;0
+646;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GT;Guatemala;GTM;2021;NA;;;0
+647;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GT;Guatemala;GTM;2020; 1.004372e+09;;;0
+648;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GT;Guatemala;GTM;2019; 1.170759e+09;;;0
+649;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GT;Guatemala;GTM;2018; 9.223979e+08;;;0
+650;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GT;Guatemala;GTM;2017; 9.983445e+08;;;0
+651;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GN;Guinea;GIN;2021;NA;;;0
+652;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GN;Guinea;GIN;2020; 1.763500e+08;;;0
+653;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GN;Guinea;GIN;2019; 4.440000e+07;;;0
+654;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GN;Guinea;GIN;2018; 3.527600e+08;;;0
+655;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GN;Guinea;GIN;2017; 5.775900e+08;;;0
+656;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GW;Guinea-Bissau;GNB;2021;NA;;;0
+657;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GW;Guinea-Bissau;GNB;2020; 2.098972e+07;;;0
+658;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GW;Guinea-Bissau;GNB;2019; 7.165868e+07;;;0
+659;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GW;Guinea-Bissau;GNB;2018; 2.056382e+07;;;0
+660;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GW;Guinea-Bissau;GNB;2017; 1.569120e+07;;;0
+661;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GY;Guyana;GUY;2021;NA;;;0
+662;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GY;Guyana;GUY;2020; 1.194483e+09;;;0
+663;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GY;Guyana;GUY;2019; 1.695180e+09;;;0
+664;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GY;Guyana;GUY;2018; 1.180406e+09;;;0
+665;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GY;Guyana;GUY;2017; 3.273437e+08;;;0
+666;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HT;Haiti;HTI;2021;NA;;;0
+667;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HT;Haiti;HTI;2020; 2.500000e+07;;;0
+668;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HT;Haiti;HTI;2019; 7.500000e+07;;;0
+669;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HT;Haiti;HTI;2018; 1.050000e+08;;;0
+670;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HT;Haiti;HTI;2017; 3.748600e+08;;;0
+671;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HN;Honduras;HND;2021;NA;;;0
+672;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HN;Honduras;HND;2020; 2.360169e+08;;;0
+673;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HN;Honduras;HND;2019; 9.550953e+08;;;0
+674;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HN;Honduras;HND;2018; 1.442588e+09;;;0
+675;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HN;Honduras;HND;2017; 9.499559e+08;;;0
+676;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HK;Hong Kong SAR; China;HKG;2021;NA;;;0
+677;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HK;Hong Kong SAR; China;HKG;2020; 1.174523e+11;;;0
+678;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HK;Hong Kong SAR; China;HKG;2019; 5.829936e+10;;;0
+679;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HK;Hong Kong SAR; China;HKG;2018; 9.703626e+10;;;0
+680;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HK;Hong Kong SAR; China;HKG;2017; 1.257167e+11;;;0
+681;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HU;Hungary;HUN;2021;NA;;;0
+682;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HU;Hungary;HUN;2020; 1.713683e+11;;;0
+683;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HU;Hungary;HUN;2019; 9.850159e+10;;;0
+684;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HU;Hungary;HUN;2018;-6.436490e+10;;;0
+685;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);HU;Hungary;HUN;2017;-1.213306e+10;;;0
+686;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IS;Iceland;ISL;2021;NA;;;0
+687;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IS;Iceland;ISL;2020;-8.951358e+08;;;0
+688;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IS;Iceland;ISL;2019;-5.564637e+08;;;0
+689;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IS;Iceland;ISL;2018;-6.227184e+08;;;0
+690;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IS;Iceland;ISL;2017;-6.999893e+09;;;0
+691;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IN;India;IND;2021;NA;;;0
+692;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IN;India;IND;2020; 6.436236e+10;;;0
+693;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IN;India;IND;2019; 5.061065e+10;;;0
+694;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IN;India;IND;2018; 4.211745e+10;;;0
+695;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IN;India;IND;2017; 3.996609e+10;;;0
+696;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ID;Indonesia;IDN;2021;NA;;;0
+697;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ID;Indonesia;IDN;2020; 1.917508e+10;;;0
+698;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ID;Indonesia;IDN;2019; 2.499355e+10;;;0
+699;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ID;Indonesia;IDN;2018; 1.890983e+10;;;0
+700;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ID;Indonesia;IDN;2017; 2.051031e+10;;;0
+701;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IR;Iran; Islamic Rep.;IRN;2021;NA;;;0
+702;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IR;Iran; Islamic Rep.;IRN;2020; 1.342000e+09;;;0
+703;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IR;Iran; Islamic Rep.;IRN;2019; 1.508000e+09;;;0
+704;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IR;Iran; Islamic Rep.;IRN;2018; 2.373000e+09;;;0
+705;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IR;Iran; Islamic Rep.;IRN;2017; 5.019000e+09;;;0
+706;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IQ;Iraq;IRQ;2021;NA;;;0
+707;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IQ;Iraq;IRQ;2020;-3.146600e+09;;;0
+708;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IQ;Iraq;IRQ;2019;-3.075600e+09;;;0
+709;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IQ;Iraq;IRQ;2018;-4.885100e+09;;;0
+710;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IQ;Iraq;IRQ;2017;-5.032400e+09;;;0
+711;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IE;Ireland;IRL;2021;NA;;;0
+712;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IE;Ireland;IRL;2020; 3.245169e+10;;;0
+713;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IE;Ireland;IRL;2019;-4.663323e+10;;;0
+714;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IE;Ireland;IRL;2018; 6.736173e+10;;;0
+715;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IE;Ireland;IRL;2017; 5.830081e+10;;;0
+716;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IM;Isle of Man;IMN;2021;NA;;;0
+717;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IM;Isle of Man;IMN;2020;NA;;;0
+718;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IM;Isle of Man;IMN;2019;NA;;;0
+719;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IM;Isle of Man;IMN;2018;NA;;;0
+720;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IM;Isle of Man;IMN;2017;NA;;;0
+721;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IL;Israel;ISR;2021;NA;;;0
+722;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IL;Israel;ISR;2020; 2.428320e+10;;;0
+723;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IL;Israel;ISR;2019; 1.736250e+10;;;0
+724;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IL;Israel;ISR;2018; 2.151450e+10;;;0
+725;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IL;Israel;ISR;2017; 1.689250e+10;;;0
+726;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IT;Italy;ITA;2021;NA;;;0
+727;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IT;Italy;ITA;2020;-2.209094e+10;;;0
+728;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IT;Italy;ITA;2019; 3.118521e+10;;;0
+729;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IT;Italy;ITA;2018; 4.424972e+10;;;0
+730;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);IT;Italy;ITA;2017; 1.113843e+10;;;0
+731;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JM;Jamaica;JAM;2021;NA;;;0
+732;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JM;Jamaica;JAM;2020; 2.651006e+08;;;0
+733;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JM;Jamaica;JAM;2019; 6.654156e+08;;;0
+734;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JM;Jamaica;JAM;2018; 7.746206e+08;;;0
+735;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JM;Jamaica;JAM;2017; 8.888352e+08;;;0
+736;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JP;Japan;JPN;2021;NA;;;0
+737;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JP;Japan;JPN;2020; 6.151492e+10;;;0
+738;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JP;Japan;JPN;2019; 3.996054e+10;;;0
+739;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JP;Japan;JPN;2018; 2.528937e+10;;;0
+740;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JP;Japan;JPN;2017; 1.880225e+10;;;0
+741;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JO;Jordan;JOR;2021;NA;;;0
+742;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JO;Jordan;JOR;2020; 7.180282e+08;;;0
+743;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JO;Jordan;JOR;2019; 7.297183e+08;;;0
+744;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JO;Jordan;JOR;2018; 9.549296e+08;;;0
+745;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);JO;Jordan;JOR;2017; 2.029718e+09;;;0
+746;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KZ;Kazakhstan;KAZ;2021;NA;;;0
+747;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KZ;Kazakhstan;KAZ;2020; 7.194336e+09;;;0
+748;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KZ;Kazakhstan;KAZ;2019; 3.730856e+09;;;0
+749;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KZ;Kazakhstan;KAZ;2018; 3.532916e+08;;;0
+750;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KZ;Kazakhstan;KAZ;2017; 4.757397e+09;;;0
+751;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KE;Kenya;KEN;2021;NA;;;0
+752;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KE;Kenya;KEN;2020; 4.263052e+08;;;0
+753;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KE;Kenya;KEN;2019; 4.699403e+08;;;0
+754;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KE;Kenya;KEN;2018; 7.677615e+08;;;0
+755;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KE;Kenya;KEN;2017; 1.346080e+09;;;0
+756;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KI;Kiribati;KIR;2021;NA;;;0
+757;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KI;Kiribati;KIR;2020; 2.624093e+06;;;0
+758;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KI;Kiribati;KIR;2019;-5.582805e+05;;;0
+759;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KI;Kiribati;KIR;2018;-1.144365e+06;;;0
+760;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KI;Kiribati;KIR;2017; 7.847973e+05;;;0
+761;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KP;Korea; Dem. People's Rep.;PRK;2021;NA;;;0
+762;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KP;Korea; Dem. People's Rep.;PRK;2020; 6.338706e+06;;;0
+763;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KP;Korea; Dem. People's Rep.;PRK;2019; 2.989501e+07;;;0
+764;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KP;Korea; Dem. People's Rep.;PRK;2018; 1.953528e+06;;;0
+765;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KP;Korea; Dem. People's Rep.;PRK;2017;-1.283242e+07;;;0
+766;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KR;Korea; Rep.;KOR;2021;NA;;;0
+767;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KR;Korea; Rep.;KOR;2020; 8.764900e+09;;;0
+768;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KR;Korea; Rep.;KOR;2019; 9.634300e+09;;;0
+769;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KR;Korea; Rep.;KOR;2018; 1.218260e+10;;;0
+770;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KR;Korea; Rep.;KOR;2017; 1.791290e+10;;;0
+771;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XK;Kosovo;XKX;2021;NA;;;0
+772;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XK;Kosovo;XKX;2020; 3.946253e+08;;;0
+773;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XK;Kosovo;XKX;2019; 2.850816e+08;;;0
+774;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XK;Kosovo;XKX;2018; 3.185430e+08;;;0
+775;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);XK;Kosovo;XKX;2017; 2.868352e+08;;;0
+776;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KW;Kuwait;KWT;2021;NA;;;0
+777;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KW;Kuwait;KWT;2020;-5.580555e+08;;;0
+778;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KW;Kuwait;KWT;2019; 5.156176e+08;;;0
+779;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KW;Kuwait;KWT;2018;-2.137757e+07;;;0
+780;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KW;Kuwait;KWT;2017; 1.130121e+08;;;0
+781;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KG;Kyrgyz Republic;KGZ;2021;NA;;;0
+782;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KG;Kyrgyz Republic;KGZ;2020;-4.015186e+08;;;0
+783;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KG;Kyrgyz Republic;KGZ;2019; 4.038651e+08;;;0
+784;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KG;Kyrgyz Republic;KGZ;2018; 1.442226e+08;;;0
+785;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KG;Kyrgyz Republic;KGZ;2017;-1.072128e+08;;;0
+786;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LA;Lao PDR;LAO;2021;NA;;;0
+787;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LA;Lao PDR;LAO;2020; 9.677061e+08;;;0
+788;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LA;Lao PDR;LAO;2019; 7.555241e+08;;;0
+789;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LA;Lao PDR;LAO;2018; 1.358020e+09;;;0
+790;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LA;Lao PDR;LAO;2017; 1.693081e+09;;;0
+791;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LV;Latvia;LVA;2021;NA;;;0
+792;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LV;Latvia;LVA;2020; 9.441150e+08;;;0
+793;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LV;Latvia;LVA;2019; 1.087577e+09;;;0
+794;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LV;Latvia;LVA;2018; 4.278074e+08;;;0
+795;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LV;Latvia;LVA;2017; 1.153575e+09;;;0
+796;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LB;Lebanon;LBN;2021;NA;;;0
+797;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LB;Lebanon;LBN;2020; 2.860766e+09;;;0
+798;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LB;Lebanon;LBN;2019; 2.054580e+09;;;0
+799;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LB;Lebanon;LBN;2018; 2.658004e+09;;;0
+800;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LB;Lebanon;LBN;2017; 2.522410e+09;;;0
+801;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LS;Lesotho;LSO;2021;NA;;;0
+802;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LS;Lesotho;LSO;2020; 2.959260e+07;;;0
+803;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LS;Lesotho;LSO;2019; 3.573259e+07;;;0
+804;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LS;Lesotho;LSO;2018; 4.087407e+07;;;0
+805;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LS;Lesotho;LSO;2017; 4.216878e+07;;;0
+806;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LR;Liberia;LBR;2021;NA;;;0
+807;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LR;Liberia;LBR;2020; 8.696000e+07;;;0
+808;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LR;Liberia;LBR;2019; 8.668170e+07;;;0
+809;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LR;Liberia;LBR;2018; 1.291298e+08;;;0
+810;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LR;Liberia;LBR;2017; 2.478430e+08;;;0
+811;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LY;Libya;LBY;2021;NA;;;0
+812;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LY;Libya;LBY;2020;NA;;;0
+813;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LY;Libya;LBY;2019; 1.000000e+06;;;0
+814;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LY;Libya;LBY;2018; 0.000000e+00;;;0
+815;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LY;Libya;LBY;2017; 0.000000e+00;;;0
+816;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LI;Liechtenstein;LIE;2021;NA;;;0
+817;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LI;Liechtenstein;LIE;2020;NA;;;0
+818;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LI;Liechtenstein;LIE;2019;NA;;;0
+819;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LI;Liechtenstein;LIE;2018;-8.721209e+10;;;0
+820;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LI;Liechtenstein;LIE;2017; 3.899959e+10;;;0
+821;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LT;Lithuania;LTU;2021;NA;;;0
+822;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LT;Lithuania;LTU;2020; 4.478594e+09;;;0
+823;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LT;Lithuania;LTU;2019; 3.434299e+09;;;0
+824;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LT;Lithuania;LTU;2018; 1.299842e+09;;;0
+825;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LT;Lithuania;LTU;2017; 1.383731e+09;;;0
+826;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LU;Luxembourg;LUX;2021;NA;;;0
+827;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LU;Luxembourg;LUX;2020; 6.214463e+10;;;0
+828;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LU;Luxembourg;LUX;2019; 1.479162e+10;;;0
+829;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LU;Luxembourg;LUX;2018;-1.675658e+10;;;0
+830;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LU;Luxembourg;LUX;2017;-6.815332e+09;;;0
+831;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MO;Macao SAR; China;MAC;2021;NA;;;0
+832;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MO;Macao SAR; China;MAC;2020;-7.103970e+09;;;0
+833;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MO;Macao SAR; China;MAC;2019; 6.508465e+09;;;0
+834;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MO;Macao SAR; China;MAC;2018; 1.534096e+09;;;0
+835;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MO;Macao SAR; China;MAC;2017; 1.701002e+09;;;0
+836;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MG;Madagascar;MDG;2021;NA;;;0
+837;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MG;Madagascar;MDG;2020; 3.584671e+08;;;0
+838;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MG;Madagascar;MDG;2019; 4.743114e+08;;;0
+839;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MG;Madagascar;MDG;2018; 6.120364e+08;;;0
+840;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MG;Madagascar;MDG;2017; 4.648566e+08;;;0
+841;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MW;Malawi;MWI;2021;NA;;;0
+842;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MW;Malawi;MWI;2020; 4.523893e+07;;;0
+843;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MW;Malawi;MWI;2019; 5.526785e+07;;;0
+844;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MW;Malawi;MWI;2018; 7.701231e+07;;;0
+845;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MW;Malawi;MWI;2017; 9.020000e+07;;;0
+846;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MY;Malaysia;MYS;2021;NA;;;0
+847;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MY;Malaysia;MYS;2020; 4.313014e+09;;;0
+848;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MY;Malaysia;MYS;2019; 9.154922e+09;;;0
+849;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MY;Malaysia;MYS;2018; 8.304481e+09;;;0
+850;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MY;Malaysia;MYS;2017; 9.368470e+09;;;0
+851;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MV;Maldives;MDV;2021;NA;;;0
+852;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MV;Maldives;MDV;2020; 4.407117e+08;;;0
+853;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MV;Maldives;MDV;2019; 9.610376e+08;;;0
+854;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MV;Maldives;MDV;2018; 5.756580e+08;;;0
+855;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MV;Maldives;MDV;2017; 4.578083e+08;;;0
+856;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ML;Mali;MLI;2021;NA;;;0
+857;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ML;Mali;MLI;2020; 5.368518e+08;;;0
+858;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ML;Mali;MLI;2019; 8.590915e+08;;;0
+859;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ML;Mali;MLI;2018; 4.672954e+08;;;0
+860;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ML;Mali;MLI;2017; 5.607475e+08;;;0
+861;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MT;Malta;MLT;2021;NA;;;0
+862;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MT;Malta;MLT;2020; 4.433603e+09;;;0
+863;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MT;Malta;MLT;2019; 4.172682e+09;;;0
+864;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MT;Malta;MLT;2018; 4.464845e+09;;;0
+865;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MT;Malta;MLT;2017; 3.890244e+09;;;0
+866;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MH;Marshall Islands;MHL;2021;NA;;;0
+867;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MH;Marshall Islands;MHL;2020; 6.588261e+06;;;0
+868;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MH;Marshall Islands;MHL;2019; 4.177234e+06;;;0
+869;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MH;Marshall Islands;MHL;2018; 9.752051e+06;;;0
+870;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MH;Marshall Islands;MHL;2017; 5.835497e+06;;;0
+871;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MR;Mauritania;MRT;2021;NA;;;0
+872;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MR;Mauritania;MRT;2020; 9.279163e+08;;;0
+873;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MR;Mauritania;MRT;2019;-8.835611e+08;;;0
+874;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MR;Mauritania;MRT;2018; 7.728905e+08;;;0
+875;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MR;Mauritania;MRT;2017; 5.882172e+08;;;0
+876;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MU;Mauritius;MUS;2021;NA;;;0
+877;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MU;Mauritius;MUS;2020; 2.459410e+08;;;0
+878;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MU;Mauritius;MUS;2019; 4.714221e+08;;;0
+879;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MU;Mauritius;MUS;2018; 4.605114e+08;;;0
+880;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MU;Mauritius;MUS;2017; 4.799959e+08;;;0
+881;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MX;Mexico;MEX;2021;NA;;;0
+882;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MX;Mexico;MEX;2020; 3.124763e+10;;;0
+883;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MX;Mexico;MEX;2019; 2.974037e+10;;;0
+884;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MX;Mexico;MEX;2018; 3.784989e+10;;;0
+885;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MX;Mexico;MEX;2017; 3.322520e+10;;;0
+886;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FM;Micronesia; Fed. Sts.;FSM;2021;NA;;;0
+887;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FM;Micronesia; Fed. Sts.;FSM;2020;NA;;;0
+888;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FM;Micronesia; Fed. Sts.;FSM;2019;NA;;;0
+889;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FM;Micronesia; Fed. Sts.;FSM;2018;NA;;;0
+890;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);FM;Micronesia; Fed. Sts.;FSM;2017;NA;;;0
+891;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MD;Moldova;MDA;2021;NA;;;0
+892;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MD;Moldova;MDA;2020; 1.574200e+08;;;0
+893;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MD;Moldova;MDA;2019; 5.067500e+08;;;0
+894;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MD;Moldova;MDA;2018; 2.934100e+08;;;0
+895;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MD;Moldova;MDA;2017; 1.495200e+08;;;0
+896;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MC;Monaco;MCO;2021;NA;;;0
+897;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MC;Monaco;MCO;2020;NA;;;0
+898;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MC;Monaco;MCO;2019;NA;;;0
+899;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MC;Monaco;MCO;2018;NA;;;0
+900;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MC;Monaco;MCO;2017;NA;;;0
+901;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MN;Mongolia;MNG;2021;NA;;;0
+902;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MN;Mongolia;MNG;2020; 1.719116e+09;;;0
+903;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MN;Mongolia;MNG;2019; 2.443343e+09;;;0
+904;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MN;Mongolia;MNG;2018; 1.951528e+09;;;0
+905;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MN;Mongolia;MNG;2017; 1.494350e+09;;;0
+906;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ME;Montenegro;MNE;2021;NA;;;0
+907;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ME;Montenegro;MNE;2020; 5.273410e+08;;;0
+908;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ME;Montenegro;MNE;2019; 4.175899e+08;;;0
+909;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ME;Montenegro;MNE;2018; 4.856531e+08;;;0
+910;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ME;Montenegro;MNE;2017; 5.606654e+08;;;0
+911;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MA;Morocco;MAR;2021;NA;;;0
+912;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MA;Morocco;MAR;2020; 1.418713e+09;;;0
+913;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MA;Morocco;MAR;2019; 1.720825e+09;;;0
+914;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MA;Morocco;MAR;2018; 3.544387e+09;;;0
+915;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MA;Morocco;MAR;2017; 2.680110e+09;;;0
+916;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MZ;Mozambique;MOZ;2021;NA;;;0
+917;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MZ;Mozambique;MOZ;2020; 3.187942e+09;;;0
+918;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MZ;Mozambique;MOZ;2019; 2.180768e+09;;;0
+919;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MZ;Mozambique;MOZ;2018; 1.678061e+09;;;0
+920;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MZ;Mozambique;MOZ;2017; 2.319072e+09;;;0
+921;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MM;Myanmar;MMR;2021;NA;;;0
+922;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MM;Myanmar;MMR;2020; 1.834212e+09;;;0
+923;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MM;Myanmar;MMR;2019; 1.735589e+09;;;0
+924;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MM;Myanmar;MMR;2018; 1.768196e+09;;;0
+925;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MM;Myanmar;MMR;2017; 4.804272e+09;;;0
+926;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NA;Namibia;NAM;2021;NA;;;0
+927;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NA;Namibia;NAM;2020;-1.593429e+08;;;0
+928;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NA;Namibia;NAM;2019;-1.764783e+08;;;0
+929;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NA;Namibia;NAM;2018; 2.343727e+08;;;0
+930;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NA;Namibia;NAM;2017; 2.804770e+08;;;0
+931;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NR;Nauru;NRU;2021;NA;;;0
+932;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NR;Nauru;NRU;2020;NA;;;0
+933;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NR;Nauru;NRU;2019;NA;;;0
+934;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NR;Nauru;NRU;2018;NA;;;0
+935;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NR;Nauru;NRU;2017;NA;;;0
+936;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NP;Nepal;NPL;2021;NA;;;0
+937;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NP;Nepal;NPL;2020; 1.266263e+08;;;0
+938;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NP;Nepal;NPL;2019; 1.855633e+08;;;0
+939;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NP;Nepal;NPL;2018; 6.826179e+07;;;0
+940;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NP;Nepal;NPL;2017; 1.962651e+08;;;0
+941;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NL;Netherlands;NLD;2021;NA;;;0
+942;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NL;Netherlands;NLD;2020;-1.493217e+11;;;0
+943;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NL;Netherlands;NLD;2019;-1.692976e+11;;;0
+944;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NL;Netherlands;NLD;2018;-3.447077e+11;;;0
+945;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NL;Netherlands;NLD;2017; 2.136477e+11;;;0
+946;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NC;New Caledonia;NCL;2021;NA;;;0
+947;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NC;New Caledonia;NCL;2020; 4.428223e+08;;;0
+948;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NC;New Caledonia;NCL;2019; 6.617606e+08;;;0
+949;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NC;New Caledonia;NCL;2018; 2.498173e+08;;;0
+950;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NC;New Caledonia;NCL;2017; 4.101459e+08;;;0
+951;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NZ;New Zealand;NZL;2021;NA;;;0
+952;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NZ;New Zealand;NZL;2020; 4.057542e+09;;;0
+953;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NZ;New Zealand;NZL;2019; 2.921028e+09;;;0
+954;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NZ;New Zealand;NZL;2018; 2.516489e+09;;;0
+955;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NZ;New Zealand;NZL;2017; 2.390036e+09;;;0
+956;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NI;Nicaragua;NIC;2021;NA;;;0
+957;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NI;Nicaragua;NIC;2020; 1.823000e+08;;;0
+958;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NI;Nicaragua;NIC;2019; 5.030000e+08;;;0
+959;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NI;Nicaragua;NIC;2018; 8.376000e+08;;;0
+960;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NI;Nicaragua;NIC;2017; 1.035400e+09;;;0
+961;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NE;Niger;NER;2021;NA;;;0
+962;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NE;Niger;NER;2020; 3.606536e+08;;;0
+963;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NE;Niger;NER;2019; 7.171476e+08;;;0
+964;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NE;Niger;NER;2018; 4.660423e+08;;;0
+965;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NE;Niger;NER;2017; 3.387107e+08;;;0
+966;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NG;Nigeria;NGA;2021;NA;;;0
+967;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NG;Nigeria;NGA;2020; 2.385278e+09;;;0
+968;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NG;Nigeria;NGA;2019; 2.305100e+09;;;0
+969;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NG;Nigeria;NGA;2018; 7.752474e+08;;;0
+970;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NG;Nigeria;NGA;2017; 2.412975e+09;;;0
+971;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MK;North Macedonia;MKD;2021;NA;;;0
+972;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MK;North Macedonia;MKD;2020; 7.693780e+06;;;0
+973;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MK;North Macedonia;MKD;2019; 5.495008e+08;;;0
+974;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MK;North Macedonia;MKD;2018; 6.487324e+08;;;0
+975;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MK;North Macedonia;MKD;2017; 3.807390e+08;;;0
+976;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MP;Northern Mariana Islands;MNP;2021;NA;;;0
+977;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MP;Northern Mariana Islands;MNP;2020;NA;;;0
+978;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MP;Northern Mariana Islands;MNP;2019;NA;;;0
+979;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MP;Northern Mariana Islands;MNP;2018;NA;;;0
+980;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MP;Northern Mariana Islands;MNP;2017;NA;;;0
+981;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NO;Norway;NOR;2021;NA;;;0
+982;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NO;Norway;NOR;2020;-4.102660e+09;;;0
+983;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NO;Norway;NOR;2019; 1.632982e+10;;;0
+984;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NO;Norway;NOR;2018;-5.664319e+09;;;0
+985;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);NO;Norway;NOR;2017; 5.900605e+09;;;0
+986;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);OM;Oman;OMN;2021;NA;;;0
+987;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);OM;Oman;OMN;2020; 2.859558e+09;;;0
+988;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);OM;Oman;OMN;2019; 4.376853e+09;;;0
+989;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);OM;Oman;OMN;2018; 5.941222e+09;;;0
+990;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);OM;Oman;OMN;2017; 2.917295e+09;;;0
+991;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PK;Pakistan;PAK;2021;NA;;;0
+992;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PK;Pakistan;PAK;2020; 2.057000e+09;;;0
+993;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PK;Pakistan;PAK;2019; 2.234000e+09;;;0
+994;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PK;Pakistan;PAK;2018; 1.737000e+09;;;0
+995;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PK;Pakistan;PAK;2017; 2.496000e+09;;;0
+996;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PW;Palau;PLW;2021;NA;;;0
+997;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PW;Palau;PLW;2020; 2.400000e+07;;;0
+998;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PW;Palau;PLW;2019; 2.200000e+07;;;0
+999;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PW;Palau;PLW;2018; 2.150000e+07;;;0
+1000;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PW;Palau;PLW;2017; 2.748463e+07;;;0
+1001;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PA;Panama;PAN;2021;NA;;;0
+1002;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PA;Panama;PAN;2020;-2.154734e+09;;;0
+1003;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PA;Panama;PAN;2019; 4.451229e+09;;;0
+1004;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PA;Panama;PAN;2018; 5.267262e+09;;;0
+1005;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PA;Panama;PAN;2017; 4.082062e+09;;;0
+1006;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PG;Papua New Guinea;PNG;2021;NA;;;0
+1007;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PG;Papua New Guinea;PNG;2020;-9.354936e+08;;;0
+1008;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PG;Papua New Guinea;PNG;2019;-9.006556e+08;;;0
+1009;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PG;Papua New Guinea;PNG;2018; 1.134644e+09;;;0
+1010;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PG;Papua New Guinea;PNG;2017; 1.614706e+08;;;0
+1011;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PY;Paraguay;PRY;2021;NA;;;0
+1012;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PY;Paraguay;PRY;2020; 9.292502e+07;;;0
+1013;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PY;Paraguay;PRY;2019; 3.439022e+08;;;0
+1014;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PY;Paraguay;PRY;2018; 1.938257e+08;;;0
+1015;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PY;Paraguay;PRY;2017; 4.985289e+08;;;0
+1016;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PE;Peru;PER;2021;NA;;;0
+1017;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PE;Peru;PER;2020; 7.316092e+08;;;0
+1018;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PE;Peru;PER;2019; 4.760357e+09;;;0
+1019;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PE;Peru;PER;2018; 5.872657e+09;;;0
+1020;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PE;Peru;PER;2017; 7.413410e+09;;;0
+1021;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PH;Philippines;PHL;2021;NA;;;0
+1022;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PH;Philippines;PHL;2020; 6.822133e+09;;;0
+1023;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PH;Philippines;PHL;2019; 8.671366e+09;;;0
+1024;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PH;Philippines;PHL;2018; 9.948599e+09;;;0
+1025;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PH;Philippines;PHL;2017; 1.025644e+10;;;0
+1026;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PL;Poland;POL;2021;NA;;;0
+1027;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PL;Poland;POL;2020; 1.738800e+10;;;0
+1028;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PL;Poland;POL;2019; 1.684500e+10;;;0
+1029;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PL;Poland;POL;2018; 1.762400e+10;;;0
+1030;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PL;Poland;POL;2017; 1.176200e+10;;;0
+1031;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PT;Portugal;PRT;2021;NA;;;0
+1032;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PT;Portugal;PRT;2020; 3.815635e+09;;;0
+1033;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PT;Portugal;PRT;2019; 1.032004e+10;;;0
+1034;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PT;Portugal;PRT;2018; 7.846087e+09;;;0
+1035;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PT;Portugal;PRT;2017; 1.068384e+10;;;0
+1036;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PR;Puerto Rico;PRI;2021;NA;;;0
+1037;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PR;Puerto Rico;PRI;2020;NA;;;0
+1038;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PR;Puerto Rico;PRI;2019;NA;;;0
+1039;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PR;Puerto Rico;PRI;2018;NA;;;0
+1040;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PR;Puerto Rico;PRI;2017;NA;;;0
+1041;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);QA;Qatar;QAT;2021;NA;;;0
+1042;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);QA;Qatar;QAT;2020;-2.434066e+09;;;0
+1043;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);QA;Qatar;QAT;2019;-2.812637e+09;;;0
+1044;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);QA;Qatar;QAT;2018;-2.186264e+09;;;0
+1045;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);QA;Qatar;QAT;2017; 9.859890e+08;;;0
+1046;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RO;Romania;ROU;2021;NA;;;0
+1047;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RO;Romania;ROU;2020; 3.602418e+09;;;0
+1048;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RO;Romania;ROU;2019; 7.365442e+09;;;0
+1049;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RO;Romania;ROU;2018; 7.343560e+09;;;0
+1050;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RO;Romania;ROU;2017; 5.952910e+09;;;0
+1051;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RU;Russian Federation;RUS;2021;NA;;;0
+1052;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RU;Russian Federation;RUS;2020; 9.478810e+09;;;0
+1053;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RU;Russian Federation;RUS;2019; 3.197477e+10;;;0
+1054;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RU;Russian Federation;RUS;2018; 8.784850e+09;;;0
+1055;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RU;Russian Federation;RUS;2017; 2.855744e+10;;;0
+1056;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RW;Rwanda;RWA;2021;NA;;;0
+1057;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RW;Rwanda;RWA;2020; 9.991513e+07;;;0
+1058;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RW;Rwanda;RWA;2019; 2.631723e+08;;;0
+1059;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RW;Rwanda;RWA;2018; 3.661923e+08;;;0
+1060;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RW;Rwanda;RWA;2017; 2.740260e+08;;;0
+1061;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);WS;Samoa;WSM;2021;NA;;;0
+1062;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);WS;Samoa;WSM;2020; 4.425308e+06;;;0
+1063;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);WS;Samoa;WSM;2019;-2.178816e+06;;;0
+1064;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);WS;Samoa;WSM;2018; 1.671345e+07;;;0
+1065;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);WS;Samoa;WSM;2017; 9.215372e+06;;;0
+1066;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SM;San Marino;SMR;2021;NA;;;0
+1067;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SM;San Marino;SMR;2020;NA;;;0
+1068;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SM;San Marino;SMR;2019;NA;;;0
+1069;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SM;San Marino;SMR;2018;NA;;;0
+1070;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SM;San Marino;SMR;2017;NA;;;0
+1071;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ST;Sao Tome and Principe;STP;2021;NA;;;0
+1072;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ST;Sao Tome and Principe;STP;2020; 4.711218e+07;;;0
+1073;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ST;Sao Tome and Principe;STP;2019; 2.419180e+07;;;0
+1074;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ST;Sao Tome and Principe;STP;2018; 2.369832e+07;;;0
+1075;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ST;Sao Tome and Principe;STP;2017; 3.420849e+07;;;0
+1076;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SA;Saudi Arabia;SAU;2021;NA;;;0
+1077;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SA;Saudi Arabia;SAU;2020; 5.399157e+09;;;0
+1078;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SA;Saudi Arabia;SAU;2019; 4.562574e+09;;;0
+1079;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SA;Saudi Arabia;SAU;2018; 4.247107e+09;;;0
+1080;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SA;Saudi Arabia;SAU;2017; 1.418844e+09;;;0
+1081;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SN;Senegal;SEN;2021;NA;;;0
+1082;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SN;Senegal;SEN;2020; 1.480501e+09;;;0
+1083;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SN;Senegal;SEN;2019; 1.065463e+09;;;0
+1084;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SN;Senegal;SEN;2018; 8.478416e+08;;;0
+1085;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SN;Senegal;SEN;2017; 5.882930e+08;;;0
+1086;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RS;Serbia;SRB;2021;NA;;;0
+1087;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RS;Serbia;SRB;2020; 3.485787e+09;;;0
+1088;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RS;Serbia;SRB;2019; 4.268709e+09;;;0
+1089;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RS;Serbia;SRB;2018; 4.071895e+09;;;0
+1090;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);RS;Serbia;SRB;2017; 2.894616e+09;;;0
+1091;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SC;Seychelles;SYC;2021;NA;;;0
+1092;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SC;Seychelles;SYC;2020; 1.751101e+08;;;0
+1093;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SC;Seychelles;SYC;2019; 2.538806e+08;;;0
+1094;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SC;Seychelles;SYC;2018; 3.076647e+08;;;0
+1095;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SC;Seychelles;SYC;2017; 1.244655e+08;;;0
+1096;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SL;Sierra Leone;SLE;2021;NA;;;0
+1097;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SL;Sierra Leone;SLE;2020; 1.351108e+08;;;0
+1098;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SL;Sierra Leone;SLE;2019; 3.014854e+08;;;0
+1099;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SL;Sierra Leone;SLE;2018; 2.504461e+08;;;0
+1100;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SL;Sierra Leone;SLE;2017; 4.137245e+08;;;0
+1101;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SG;Singapore;SGP;2021;NA;;;0
+1102;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SG;Singapore;SGP;2020; 7.475051e+10;;;0
+1103;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SG;Singapore;SGP;2019; 1.114795e+11;;;0
+1104;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SG;Singapore;SGP;2018; 8.118054e+10;;;0
+1105;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SG;Singapore;SGP;2017; 9.921031e+10;;;0
+1106;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SX;Sint Maarten (Dutch part);SXM;2021;NA;;;0
+1107;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SX;Sint Maarten (Dutch part);SXM;2020; 2.669263e+07;;;0
+1108;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SX;Sint Maarten (Dutch part);SXM;2019; 5.527770e+07;;;0
+1109;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SX;Sint Maarten (Dutch part);SXM;2018;-4.791508e+07;;;0
+1110;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SX;Sint Maarten (Dutch part);SXM;2017; 6.424830e+07;;;0
+1111;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SK;Slovak Republic;SVK;2021;NA;;;0
+1112;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SK;Slovak Republic;SVK;2020;-3.305959e+08;;;0
+1113;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SK;Slovak Republic;SVK;2019; 2.279811e+09;;;0
+1114;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SK;Slovak Republic;SVK;2018; 2.250851e+09;;;0
+1115;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SK;Slovak Republic;SVK;2017; 4.225582e+09;;;0
+1116;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SI;Slovenia;SVN;2021;NA;;;0
+1117;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SI;Slovenia;SVN;2020; 4.863795e+08;;;0
+1118;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SI;Slovenia;SVN;2019; 2.151538e+09;;;0
+1119;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SI;Slovenia;SVN;2018; 1.538138e+09;;;0
+1120;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SI;Slovenia;SVN;2017; 1.196229e+09;;;0
+1121;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SB;Solomon Islands;SLB;2021;NA;;;0
+1122;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SB;Solomon Islands;SLB;2020; 8.980047e+06;;;0
+1123;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SB;Solomon Islands;SLB;2019; 3.278709e+07;;;0
+1124;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SB;Solomon Islands;SLB;2018; 2.499254e+07;;;0
+1125;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SB;Solomon Islands;SLB;2017; 4.288398e+07;;;0
+1126;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SO;Somalia;SOM;2021;NA;;;0
+1127;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SO;Somalia;SOM;2020; 4.640000e+08;;;0
+1128;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SO;Somalia;SOM;2019; 4.470000e+08;;;0
+1129;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SO;Somalia;SOM;2018; 4.080000e+08;;;0
+1130;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SO;Somalia;SOM;2017; 3.690000e+08;;;0
+1131;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZA;South Africa;ZAF;2021;NA;;;0
+1132;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZA;South Africa;ZAF;2020; 3.153553e+09;;;0
+1133;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZA;South Africa;ZAF;2019; 5.116098e+09;;;0
+1134;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZA;South Africa;ZAF;2018; 5.569462e+09;;;0
+1135;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZA;South Africa;ZAF;2017; 2.058580e+09;;;0
+1136;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SS;South Sudan;SSD;2021;NA;;;0
+1137;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SS;South Sudan;SSD;2020; 1.750000e+07;;;0
+1138;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SS;South Sudan;SSD;2019;-2.210000e+06;;;0
+1139;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SS;South Sudan;SSD;2018; 6.014000e+07;;;0
+1140;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SS;South Sudan;SSD;2017; 1.420000e+06;;;0
+1141;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ES;Spain;ESP;2021;NA;;;0
+1142;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ES;Spain;ESP;2020; 3.373535e+10;;;0
+1143;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ES;Spain;ESP;2019; 2.475907e+10;;;0
+1144;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ES;Spain;ESP;2018; 5.862618e+10;;;0
+1145;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ES;Spain;ESP;2017; 3.156535e+10;;;0
+1146;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LK;Sri Lanka;LKA;2021;NA;;;0
+1147;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LK;Sri Lanka;LKA;2020; 4.338694e+08;;;0
+1148;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LK;Sri Lanka;LKA;2019; 7.434662e+08;;;0
+1149;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LK;Sri Lanka;LKA;2018; 1.614044e+09;;;0
+1150;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LK;Sri Lanka;LKA;2017; 1.372723e+09;;;0
+1151;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KN;St. Kitts and Nevis;KNA;2021;NA;;;0
+1152;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KN;St. Kitts and Nevis;KNA;2020; 1.385262e+07;;;0
+1153;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KN;St. Kitts and Nevis;KNA;2019; 4.786256e+07;;;0
+1154;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KN;St. Kitts and Nevis;KNA;2018; 4.005177e+07;;;0
+1155;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);KN;St. Kitts and Nevis;KNA;2017; 4.802612e+07;;;0
+1156;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LC;St. Lucia;LCA;2021;NA;;;0
+1157;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LC;St. Lucia;LCA;2020; 3.510851e+07;;;0
+1158;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LC;St. Lucia;LCA;2019; 7.285417e+07;;;0
+1159;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LC;St. Lucia;LCA;2018; 4.552220e+07;;;0
+1160;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);LC;St. Lucia;LCA;2017; 8.994145e+07;;;0
+1161;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MF;St. Martin (French part);MAF;2021;NA;;;0
+1162;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MF;St. Martin (French part);MAF;2020;NA;;;0
+1163;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MF;St. Martin (French part);MAF;2019;NA;;;0
+1164;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MF;St. Martin (French part);MAF;2018;NA;;;0
+1165;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);MF;St. Martin (French part);MAF;2017;NA;;;0
+1166;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VC;St. Vincent and the Grenadines;VCT;2021;NA;;;0
+1167;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VC;St. Vincent and the Grenadines;VCT;2020; 3.085999e+07;;;0
+1168;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VC;St. Vincent and the Grenadines;VCT;2019; 7.435653e+07;;;0
+1169;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VC;St. Vincent and the Grenadines;VCT;2018; 4.158579e+07;;;0
+1170;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VC;St. Vincent and the Grenadines;VCT;2017; 1.632752e+08;;;0
+1171;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SD;Sudan;SDN;2021;NA;;;0
+1172;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SD;Sudan;SDN;2020; 7.169397e+08;;;0
+1173;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SD;Sudan;SDN;2019; 8.253550e+08;;;0
+1174;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SD;Sudan;SDN;2018; 1.135787e+09;;;0
+1175;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SD;Sudan;SDN;2017; 1.065298e+09;;;0
+1176;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SR;Suriname;SUR;2021;NA;;;0
+1177;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SR;Suriname;SUR;2020; 1.039900e+06;;;0
+1178;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SR;Suriname;SUR;2019; 8.416036e+07;;;0
+1179;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SR;Suriname;SUR;2018; 1.309608e+08;;;0
+1180;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SR;Suriname;SUR;2017; 9.607555e+07;;;0
+1181;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SE;Sweden;SWE;2021;NA;;;0
+1182;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SE;Sweden;SWE;2020; 1.831759e+10;;;0
+1183;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SE;Sweden;SWE;2019; 1.562528e+10;;;0
+1184;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SE;Sweden;SWE;2018;-1.368759e+09;;;0
+1185;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SE;Sweden;SWE;2017; 2.456774e+10;;;0
+1186;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CH;Switzerland;CHE;2021;NA;;;0
+1187;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CH;Switzerland;CHE;2020;-2.573363e+11;;;0
+1188;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CH;Switzerland;CHE;2019; 8.774914e+09;;;0
+1189;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CH;Switzerland;CHE;2018;-1.603878e+11;;;0
+1190;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);CH;Switzerland;CHE;2017; 1.432360e+11;;;0
+1191;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SY;Syrian Arab Republic;SYR;2021;NA;;;0
+1192;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SY;Syrian Arab Republic;SYR;2020;NA;;;0
+1193;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SY;Syrian Arab Republic;SYR;2019;NA;;;0
+1194;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SY;Syrian Arab Republic;SYR;2018;NA;;;0
+1195;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);SY;Syrian Arab Republic;SYR;2017;NA;;;0
+1196;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TJ;Tajikistan;TJK;2021;NA;;;0
+1197;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TJ;Tajikistan;TJK;2020; 1.065348e+08;;;0
+1198;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TJ;Tajikistan;TJK;2019; 2.128097e+08;;;0
+1199;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TJ;Tajikistan;TJK;2018; 2.208622e+08;;;0
+1200;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TJ;Tajikistan;TJK;2017; 1.858271e+08;;;0
+1201;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TZ;Tanzania;TZA;2021;NA;;;0
+1202;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TZ;Tanzania;TZA;2020; 6.848877e+08;;;0
+1203;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TZ;Tanzania;TZA;2019; 1.217235e+09;;;0
+1204;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TZ;Tanzania;TZA;2018; 9.715769e+08;;;0
+1205;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TZ;Tanzania;TZA;2017; 9.377000e+08;;;0
+1206;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TH;Thailand;THA;2021;NA;;;0
+1207;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TH;Thailand;THA;2020;-4.845359e+09;;;0
+1208;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TH;Thailand;THA;2019; 4.790362e+09;;;0
+1209;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TH;Thailand;THA;2018; 1.318633e+10;;;0
+1210;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TH;Thailand;THA;2017; 8.285170e+09;;;0
+1211;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TL;Timor-Leste;TLS;2021;NA;;;0
+1212;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TL;Timor-Leste;TLS;2020; 7.237859e+07;;;0
+1213;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TL;Timor-Leste;TLS;2019; 7.458032e+07;;;0
+1214;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TL;Timor-Leste;TLS;2018; 4.792566e+07;;;0
+1215;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TL;Timor-Leste;TLS;2017; 6.715937e+06;;;0
+1216;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TG;Togo;TGO;2021;NA;;;0
+1217;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TG;Togo;TGO;2020;-5.920682e+07;;;0
+1218;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TG;Togo;TGO;2019; 3.456975e+08;;;0
+1219;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TG;Togo;TGO;2018;-1.809727e+08;;;0
+1220;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TG;Togo;TGO;2017; 8.855870e+07;;;0
+1221;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TO;Tonga;TON;2021;NA;;;0
+1222;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TO;Tonga;TON;2020; 4.226388e+06;;;0
+1223;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TO;Tonga;TON;2019; 1.742414e+06;;;0
+1224;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TO;Tonga;TON;2018; 1.991128e+07;;;0
+1225;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TO;Tonga;TON;2017;-5.613753e+06;;;0
+1226;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TT;Trinidad and Tobago;TTO;2021;NA;;;0
+1227;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TT;Trinidad and Tobago;TTO;2020;-1.025834e+08;;;0
+1228;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TT;Trinidad and Tobago;TTO;2019; 1.839728e+08;;;0
+1229;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TT;Trinidad and Tobago;TTO;2018;-7.001857e+08;;;0
+1230;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TT;Trinidad and Tobago;TTO;2017;-4.708826e+08;;;0
+1231;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TN;Tunisia;TUN;2021;NA;;;0
+1232;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TN;Tunisia;TUN;2020; 5.921721e+08;;;0
+1233;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TN;Tunisia;TUN;2019; 8.101735e+08;;;0
+1234;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TN;Tunisia;TUN;2018; 9.889429e+08;;;0
+1235;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TN;Tunisia;TUN;2017; 8.109365e+08;;;0
+1236;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TR;Turkiye;TUR;2021;NA;;;0
+1237;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TR;Turkiye;TUR;2020; 7.831000e+09;;;0
+1238;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TR;Turkiye;TUR;2019; 9.573000e+09;;;0
+1239;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TR;Turkiye;TUR;2018; 1.250500e+10;;;0
+1240;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TR;Turkiye;TUR;2017; 1.119000e+10;;;0
+1241;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TM;Turkmenistan;TKM;2021;NA;;;0
+1242;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TM;Turkmenistan;TKM;2020; 1.169442e+09;;;0
+1243;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TM;Turkmenistan;TKM;2019; 2.129437e+09;;;0
+1244;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TM;Turkmenistan;TKM;2018; 1.997297e+09;;;0
+1245;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TM;Turkmenistan;TKM;2017; 2.085944e+09;;;0
+1246;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TC;Turks and Caicos Islands;TCA;2021;NA;;;0
+1247;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TC;Turks and Caicos Islands;TCA;2020; 3.041889e+07;;;0
+1248;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TC;Turks and Caicos Islands;TCA;2019; 2.696167e+07;;;0
+1249;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TC;Turks and Caicos Islands;TCA;2018; 4.222700e+07;;;0
+1250;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TC;Turks and Caicos Islands;TCA;2017; 2.206800e+07;;;0
+1251;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TV;Tuvalu;TUV;2021;NA;;;0
+1252;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TV;Tuvalu;TUV;2020; 1.000000e+05;;;0
+1253;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TV;Tuvalu;TUV;2019; 2.988620e+05;;;0
+1254;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TV;Tuvalu;TUV;2018; 2.988620e+05;;;0
+1255;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);TV;Tuvalu;TUV;2017; 3.000000e+05;;;0
+1256;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UG;Uganda;UGA;2021;NA;;;0
+1257;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UG;Uganda;UGA;2020; 8.737928e+08;;;0
+1258;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UG;Uganda;UGA;2019; 1.273886e+09;;;0
+1259;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UG;Uganda;UGA;2018; 1.055353e+09;;;0
+1260;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UG;Uganda;UGA;2017; 8.027041e+08;;;0
+1261;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UA;Ukraine;UKR;2021;NA;;;0
+1262;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UA;Ukraine;UKR;2020; 3.040000e+08;;;0
+1263;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UA;Ukraine;UKR;2019; 5.796000e+09;;;0
+1264;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UA;Ukraine;UKR;2018; 4.975000e+09;;;0
+1265;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UA;Ukraine;UKR;2017; 3.680000e+09;;;0
+1266;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AE;United Arab Emirates;ARE;2021;NA;;;0
+1267;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AE;United Arab Emirates;ARE;2020; 1.988447e+10;;;0
+1268;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AE;United Arab Emirates;ARE;2019; 1.787466e+10;;;0
+1269;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AE;United Arab Emirates;ARE;2018; 1.038529e+10;;;0
+1270;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);AE;United Arab Emirates;ARE;2017; 1.035422e+10;;;0
+1271;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GB;United Kingdom;GBR;2021;NA;;;0
+1272;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GB;United Kingdom;GBR;2020; 3.105889e+10;;;0
+1273;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GB;United Kingdom;GBR;2019; 2.236675e+09;;;0
+1274;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GB;United Kingdom;GBR;2018;-2.505544e+10;;;0
+1275;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);GB;United Kingdom;GBR;2017; 1.253588e+11;;;0
+1276;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);US;United States;USA;2021;NA;;;0
+1277;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);US;United States;USA;2020; 2.112980e+11;;;0
+1278;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);US;United States;USA;2019; 3.021990e+11;;;0
+1279;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);US;United States;USA;2018; 2.143150e+11;;;0
+1280;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);US;United States;USA;2017; 3.808230e+11;;;0
+1281;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UY;Uruguay;URY;2021;NA;;;0
+1282;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UY;Uruguay;URY;2020; 3.920613e+08;;;0
+1283;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UY;Uruguay;URY;2019; 1.408833e+09;;;0
+1284;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UY;Uruguay;URY;2018; 1.559392e+09;;;0
+1285;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UY;Uruguay;URY;2017; 2.686509e+09;;;0
+1286;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UZ;Uzbekistan;UZB;2021;NA;;;0
+1287;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UZ;Uzbekistan;UZB;2020; 1.728249e+09;;;0
+1288;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UZ;Uzbekistan;UZB;2019; 2.316483e+09;;;0
+1289;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UZ;Uzbekistan;UZB;2018; 6.246865e+08;;;0
+1290;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);UZ;Uzbekistan;UZB;2017; 1.798299e+09;;;0
+1291;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VU;Vanuatu;VUT;2021;NA;;;0
+1292;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VU;Vanuatu;VUT;2020; 2.443874e+07;;;0
+1293;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VU;Vanuatu;VUT;2019; 2.681516e+07;;;0
+1294;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VU;Vanuatu;VUT;2018; 3.758347e+07;;;0
+1295;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VU;Vanuatu;VUT;2017; 3.822269e+07;;;0
+1296;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VE;Venezuela; RB;VEN;2021;NA;;;0
+1297;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VE;Venezuela; RB;VEN;2020; 9.586667e+08;;;0
+1298;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VE;Venezuela; RB;VEN;2019; 9.340000e+08;;;0
+1299;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VE;Venezuela; RB;VEN;2018; 8.860000e+08;;;0
+1300;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VE;Venezuela; RB;VEN;2017;-6.800000e+07;;;0
+1301;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VN;Vietnam;VNM;2021;NA;;;0
+1302;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VN;Vietnam;VNM;2020; 1.580000e+10;;;0
+1303;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VN;Vietnam;VNM;2019; 1.612000e+10;;;0
+1304;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VN;Vietnam;VNM;2018; 1.550000e+10;;;0
+1305;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VN;Vietnam;VNM;2017; 1.410000e+10;;;0
+1306;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VI;Virgin Islands (U.S.);VIR;2021;NA;;;0
+1307;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VI;Virgin Islands (U.S.);VIR;2020;NA;;;0
+1308;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VI;Virgin Islands (U.S.);VIR;2019;NA;;;0
+1309;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VI;Virgin Islands (U.S.);VIR;2018;NA;;;0
+1310;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);VI;Virgin Islands (U.S.);VIR;2017;NA;;;0
+1311;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PS;West Bank and Gaza;PSE;2021;NA;;;0
+1312;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PS;West Bank and Gaza;PSE;2020; 7.974499e+07;;;0
+1313;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PS;West Bank and Gaza;PSE;2019; 1.318800e+08;;;0
+1314;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PS;West Bank and Gaza;PSE;2018; 2.106946e+08;;;0
+1315;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);PS;West Bank and Gaza;PSE;2017; 1.839506e+08;;;0
+1316;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);YE;Yemen; Rep.;YEM;2021;NA;;;0
+1317;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);YE;Yemen; Rep.;YEM;2020;NA;;;0
+1318;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);YE;Yemen; Rep.;YEM;2019;-3.709828e+08;;;0
+1319;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);YE;Yemen; Rep.;YEM;2018;-2.820983e+08;;;0
+1320;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);YE;Yemen; Rep.;YEM;2017;-2.698500e+08;;;0
+1321;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZM;Zambia;ZMB;2021;NA;;;0
+1322;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZM;Zambia;ZMB;2020;-1.727528e+08;;;0
+1323;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZM;Zambia;ZMB;2019; 5.479679e+08;;;0
+1324;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZM;Zambia;ZMB;2018; 4.084385e+08;;;0
+1325;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZM;Zambia;ZMB;2017; 1.107520e+09;;;0
+1326;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZW;Zimbabwe;ZWE;2021;NA;;;0
+1327;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZW;Zimbabwe;ZWE;2020; 1.503600e+08;;;0
+1328;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZW;Zimbabwe;ZWE;2019; 2.495000e+08;;;0
+1329;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZW;Zimbabwe;ZWE;2018; 7.178653e+08;;;0
+1330;BX.KLT.DINV.CD.WD;Foreign direct investment net inflows (BoP current US$);ZW;Zimbabwe;ZWE;2017; 3.071877e+08;;;0

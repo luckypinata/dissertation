@@ -12,7 +12,7 @@ states_df <- read.csv("data/index.csv", sep = ";") # 2017 - 2021
 unique_states <- unique(states_df$Country)
 
 # function to scrape 5-bank asset concentration from World Bank API
-bank_asset_concentration_scraper <- function(indicator, timeframe) { 
+wb_api <- function(indicator, timeframe, filename) { 
   
   # formatting inputs and declaring vars
   banks_df <- list()
@@ -22,7 +22,6 @@ bank_asset_concentration_scraper <- function(indicator, timeframe) {
   
   # formatting url for api call
   url <- paste0(api_endpoint, i, t, "&format=json")
-  
   print(url)
   
   # placing GET request and extracting df and max pages
@@ -49,11 +48,59 @@ bank_asset_concentration_scraper <- function(indicator, timeframe) {
   }
   
   # concatenate df's and write to file
-  f <- bind_rows(banks_df) %>%
+    bind_rows(banks_df) %>%
     as_tibble() %>%
-    write.csv("data/banks_con.csv")
+    write.csv(paste0("data/", filename, ".csv"), sep = ";")
   
 }
+
+
+# read file for banks' market concentration
+banks_concentration_raw <- read.csv("data/banks_con.csv")
+
+# filter desired states
+market_concentration <- banks_concentration_raw %>%
+  filter(country.value %in% unique_states)
+
+# read sme financing data
+sme_fin_raw <- read.csv("data/sme_financing.csv", sep = ",")
+
+# get gdp growth data
+# wb_api("NY.GDP.MKTP.KD.ZG", "2017:2021", "gdp_growth")
+
+# read gdp growth data
+gdp_growth <- read.csv("data/gdp_growth.csv")
+
+# read financial development index
+fd_i <- read.csv("data/fd_index.csv", sep = ";")
+
+# get urbanization data
+# wb_api("SP.URB.TOTL.IN.ZS", "2017:2021", "urb_rate")
+
+# read urbanization data
+urb <- read.csv("data/urb_rate.csv")
+
+# get literacy data
+# SE.ADT.LITR.ZS
+# wb_api("SE.ADT.LITR.ZS", "2017:2021", "lit_rate")
+
+# read literacy data
+lit <- read.csv("data/lit_rate.csv") # need to change var names, didnt convert properly from .json i think, .csv was really messed up..
+
+# look at it over time for these 4 states
+# then look at it for 2021 only for more states, with more granular detail 
+# (FINDEXABLE index, for 2020, start of pandemic, where this need was more acute than ever; are the two indices comparable?)
+# Findexable also has from 2020 - 2021, maybe can do pandemic comparison stuff?
+
+# foreign direct investment
+wb_api("BX.KLT.DINV.CD.WD", "2017:2021", "fdi")
+
+# read fdi data
+fdi <- read.csv("data/fdi.csv", sep = ";")
+
+###############################
+### Not sure if going there ###
+###############################
 
 # function to get all banks for each state
 banks <- function(states = unique_states) { 
@@ -111,7 +158,7 @@ key <- load("gmaps.rda")
 
 n_branches <- function(banks) {
   
-  # get region top level domains
+  # get region top level domains (region=)
   region_url <- "https://en.wikipedia.org/wiki/Country_code_top-level_domain"
   region_domains <- read_html(region_url) %>% 
     html_nodes(xpath = "/html/body/div[3]/div[3]/div[5]/div[1]/table[1]") %>% 

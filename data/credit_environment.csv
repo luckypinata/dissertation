@@ -1,0 +1,1331 @@
+"","indicator.id","indicator.value","country.id","country.value","countryiso3code","date","value","unit","obs_status","decimal"
+"1",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZH,Africa Eastern and Southern,"AFE","2021",NA,"","",0
+"2",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZH,Africa Eastern and Southern,"AFE","2020",NA,"","",0
+"3",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZH,Africa Eastern and Southern,"AFE","2019",4.5000000,"","",0
+"4",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZH,Africa Eastern and Southern,"AFE","2018",4.4230769,"","",0
+"5",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZH,Africa Eastern and Southern,"AFE","2017",4.3461538,"","",0
+"6",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZI,Africa Western and Central,"AFW","2021",NA,"","",0
+"7",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZI,Africa Western and Central,"AFW","2020",NA,"","",0
+"8",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZI,Africa Western and Central,"AFW","2019",3.1818182,"","",0
+"9",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZI,Africa Western and Central,"AFW","2018",1.9545455,"","",0
+"10",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZI,Africa Western and Central,"AFW","2017",1.5454545,"","",0
+"11",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),1A,Arab World,"ARB","2021",NA,"","",0
+"12",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),1A,Arab World,"ARB","2020",NA,"","",0
+"13",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),1A,Arab World,"ARB","2019",4.5454545,"","",0
+"14",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),1A,Arab World,"ARB","2018",4.2727273,"","",0
+"15",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),1A,Arab World,"ARB","2017",4.1363636,"","",0
+"16",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S3,Caribbean small states,"CSS","2021",NA,"","",0
+"17",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S3,Caribbean small states,"CSS","2020",NA,"","",0
+"18",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S3,Caribbean small states,"CSS","2019",1.6923077,"","",0
+"19",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S3,Caribbean small states,"CSS","2018",1.6923077,"","",0
+"20",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S3,Caribbean small states,"CSS","2017",1.6153846,"","",0
+"21",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),B8,Central Europe and the Baltics,"CEB","2021",NA,"","",0
+"22",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),B8,Central Europe and the Baltics,"CEB","2020",NA,"","",0
+"23",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),B8,Central Europe and the Baltics,"CEB","2019",6.7272727,"","",0
+"24",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),B8,Central Europe and the Baltics,"CEB","2018",6.8181818,"","",0
+"25",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),B8,Central Europe and the Baltics,"CEB","2017",6.8181818,"","",0
+"26",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V2,Early-demographic dividend,"EAR","2021",NA,"","",0
+"27",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V2,Early-demographic dividend,"EAR","2020",NA,"","",0
+"28",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V2,Early-demographic dividend,"EAR","2019",5.2950820,"","",0
+"29",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V2,Early-demographic dividend,"EAR","2018",5.0163934,"","",0
+"30",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V2,Early-demographic dividend,"EAR","2017",4.9344262,"","",0
+"31",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),Z4,East Asia & Pacific,"EAS","2021",NA,"","",0
+"32",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),Z4,East Asia & Pacific,"EAS","2020",NA,"","",0
+"33",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),Z4,East Asia & Pacific,"EAS","2019",4.8965517,"","",0
+"34",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),Z4,East Asia & Pacific,"EAS","2018",4.8275862,"","",0
+"35",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),Z4,East Asia & Pacific,"EAS","2017",4.7586207,"","",0
+"36",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),4E,East Asia & Pacific (excluding high income),"EAP","2021",NA,"","",0
+"37",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),4E,East Asia & Pacific (excluding high income),"EAP","2020",NA,"","",0
+"38",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),4E,East Asia & Pacific (excluding high income),"EAP","2019",3.9047619,"","",0
+"39",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),4E,East Asia & Pacific (excluding high income),"EAP","2018",3.8571429,"","",0
+"40",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),4E,East Asia & Pacific (excluding high income),"EAP","2017",3.8095238,"","",0
+"41",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T4,East Asia & Pacific (IDA & IBRD countries),"TEA","2021",NA,"","",0
+"42",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T4,East Asia & Pacific (IDA & IBRD countries),"TEA","2020",NA,"","",0
+"43",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T4,East Asia & Pacific (IDA & IBRD countries),"TEA","2019",3.9047619,"","",0
+"44",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T4,East Asia & Pacific (IDA & IBRD countries),"TEA","2018",3.8571429,"","",0
+"45",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T4,East Asia & Pacific (IDA & IBRD countries),"TEA","2017",3.8095238,"","",0
+"46",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XC,Euro area,"EMU","2021",NA,"","",0
+"47",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XC,Euro area,"EMU","2020",NA,"","",0
+"48",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XC,Euro area,"EMU","2019",6.3157895,"","",0
+"49",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XC,Euro area,"EMU","2018",6.3157895,"","",0
+"50",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XC,Euro area,"EMU","2017",6.2631579,"","",0
+"51",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),Z7,Europe & Central Asia,"ECS","2021",NA,"","",0
+"52",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),Z7,Europe & Central Asia,"ECS","2020",NA,"","",0
+"53",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),Z7,Europe & Central Asia,"ECS","2019",6.4600000,"","",0
+"54",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),Z7,Europe & Central Asia,"ECS","2018",6.4400000,"","",0
+"55",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),Z7,Europe & Central Asia,"ECS","2017",6.4081633,"","",0
+"56",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),7E,Europe & Central Asia (excluding high income),"ECA","2021",NA,"","",0
+"57",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),7E,Europe & Central Asia (excluding high income),"ECA","2020",NA,"","",0
+"58",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),7E,Europe & Central Asia (excluding high income),"ECA","2019",6.8947368,"","",0
+"59",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),7E,Europe & Central Asia (excluding high income),"ECA","2018",6.7894737,"","",0
+"60",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),7E,Europe & Central Asia (excluding high income),"ECA","2017",6.6315789,"","",0
+"61",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T7,Europe & Central Asia (IDA & IBRD countries),"TEC","2021",NA,"","",0
+"62",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T7,Europe & Central Asia (IDA & IBRD countries),"TEC","2020",NA,"","",0
+"63",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T7,Europe & Central Asia (IDA & IBRD countries),"TEC","2019",6.8636364,"","",0
+"64",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T7,Europe & Central Asia (IDA & IBRD countries),"TEC","2018",6.8181818,"","",0
+"65",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T7,Europe & Central Asia (IDA & IBRD countries),"TEC","2017",6.6818182,"","",0
+"66",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EU,European Union,"EUU","2021",NA,"","",0
+"67",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EU,European Union,"EUU","2020",NA,"","",0
+"68",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EU,European Union,"EUU","2019",6.2592593,"","",0
+"69",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EU,European Union,"EUU","2018",6.2962963,"","",0
+"70",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EU,European Union,"EUU","2017",6.2592593,"","",0
+"71",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),F1,Fragile and conflict affected situations,"FCS","2021",NA,"","",0
+"72",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),F1,Fragile and conflict affected situations,"FCS","2020",NA,"","",0
+"73",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),F1,Fragile and conflict affected situations,"FCS","2019",2.5789474,"","",0
+"74",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),F1,Fragile and conflict affected situations,"FCS","2018",2.1315789,"","",0
+"75",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),F1,Fragile and conflict affected situations,"FCS","2017",2.0263158,"","",0
+"76",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XE,Heavily indebted poor countries (HIPC),"HPC","2021",NA,"","",0
+"77",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XE,Heavily indebted poor countries (HIPC),"HPC","2020",NA,"","",0
+"78",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XE,Heavily indebted poor countries (HIPC),"HPC","2019",3.6923077,"","",0
+"79",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XE,Heavily indebted poor countries (HIPC),"HPC","2018",2.8461538,"","",0
+"80",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XE,Heavily indebted poor countries (HIPC),"HPC","2017",2.6153846,"","",0
+"81",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XD,High income,"","2021",NA,"","",0
+"82",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XD,High income,"","2020",NA,"","",0
+"83",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XD,High income,"","2019",6.2372881,"","",0
+"84",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XD,High income,"","2018",6.1694915,"","",0
+"85",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XD,High income,"","2017",6.1379310,"","",0
+"86",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XF,IBRD only,"IBD","2021",NA,"","",0
+"87",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XF,IBRD only,"IBD","2020",NA,"","",0
+"88",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XF,IBRD only,"IBD","2019",6.0588235,"","",0
+"89",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XF,IBRD only,"IBD","2018",6.0294118,"","",0
+"90",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XF,IBRD only,"IBD","2017",5.9264706,"","",0
+"91",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZT,IDA & IBRD total,"IBT","2021",NA,"","",0
+"92",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZT,IDA & IBRD total,"IBT","2020",NA,"","",0
+"93",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZT,IDA & IBRD total,"IBT","2019",4.7588652,"","",0
+"94",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZT,IDA & IBRD total,"IBT","2018",4.4326241,"","",0
+"95",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZT,IDA & IBRD total,"IBT","2017",4.3049645,"","",0
+"96",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XH,IDA blend,"IDB","2021",NA,"","",0
+"97",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XH,IDA blend,"IDB","2020",NA,"","",0
+"98",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XH,IDA blend,"IDB","2019",4.0000000,"","",0
+"99",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XH,IDA blend,"IDB","2018",3.8666667,"","",0
+"100",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XH,IDA blend,"IDB","2017",3.7333333,"","",0
+"101",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XI,IDA only,"IDX","2021",NA,"","",0
+"102",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XI,IDA only,"IDX","2020",NA,"","",0
+"103",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XI,IDA only,"IDX","2019",3.4310345,"","",0
+"104",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XI,IDA only,"IDX","2018",2.7068966,"","",0
+"105",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XI,IDA only,"IDX","2017",2.5517241,"","",0
+"106",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XG,IDA total,"IDA","2021",NA,"","",0
+"107",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XG,IDA total,"IDA","2020",NA,"","",0
+"108",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XG,IDA total,"IDA","2019",3.5479452,"","",0
+"109",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XG,IDA total,"IDA","2018",2.9452055,"","",0
+"110",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XG,IDA total,"IDA","2017",2.7945205,"","",0
+"111",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V3,Late-demographic dividend,"LTE","2021",NA,"","",0
+"112",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V3,Late-demographic dividend,"LTE","2020",NA,"","",0
+"113",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V3,Late-demographic dividend,"LTE","2019",6.5416667,"","",0
+"114",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V3,Late-demographic dividend,"LTE","2018",6.4166667,"","",0
+"115",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V3,Late-demographic dividend,"LTE","2017",6.2916667,"","",0
+"116",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZJ,Latin America & Caribbean,"LCN","2021",NA,"","",0
+"117",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZJ,Latin America & Caribbean,"LCN","2020",NA,"","",0
+"118",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZJ,Latin America & Caribbean,"LCN","2019",5.1818182,"","",0
+"119",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZJ,Latin America & Caribbean,"LCN","2018",5.0303030,"","",0
+"120",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZJ,Latin America & Caribbean,"LCN","2017",4.9696970,"","",0
+"121",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XJ,Latin America & Caribbean (excluding high income),"LAC","2021",NA,"","",0
+"122",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XJ,Latin America & Caribbean (excluding high income),"LAC","2020",NA,"","",0
+"123",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XJ,Latin America & Caribbean (excluding high income),"LAC","2019",5.5652174,"","",0
+"124",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XJ,Latin America & Caribbean (excluding high income),"LAC","2018",5.3478261,"","",0
+"125",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XJ,Latin America & Caribbean (excluding high income),"LAC","2017",5.2608696,"","",0
+"126",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T2,Latin America & the Caribbean (IDA & IBRD countries),"TLA","2021",NA,"","",0
+"127",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T2,Latin America & the Caribbean (IDA & IBRD countries),"TLA","2020",NA,"","",0
+"128",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T2,Latin America & the Caribbean (IDA & IBRD countries),"TLA","2019",5.4666667,"","",0
+"129",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T2,Latin America & the Caribbean (IDA & IBRD countries),"TLA","2018",5.3000000,"","",0
+"130",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T2,Latin America & the Caribbean (IDA & IBRD countries),"TLA","2017",5.2333333,"","",0
+"131",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XL,Least developed countries: UN classification,"LDC","2021",NA,"","",0
+"132",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XL,Least developed countries: UN classification,"LDC","2020",NA,"","",0
+"133",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XL,Least developed countries: UN classification,"LDC","2019",2.8666667,"","",0
+"134",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XL,Least developed countries: UN classification,"LDC","2018",1.9555556,"","",0
+"135",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XL,Least developed countries: UN classification,"LDC","2017",1.9333333,"","",0
+"136",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XO,Low & middle income,"LMY","2021",NA,"","",0
+"137",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XO,Low & middle income,"LMY","2020",NA,"","",0
+"138",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XO,Low & middle income,"LMY","2019",4.7175573,"","",0
+"139",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XO,Low & middle income,"LMY","2018",4.3587786,"","",0
+"140",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XO,Low & middle income,"LMY","2017",4.2213740,"","",0
+"141",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XM,Low income,"","2021",NA,"","",0
+"142",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XM,Low income,"","2020",NA,"","",0
+"143",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XM,Low income,"","2019",2.2222222,"","",0
+"144",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XM,Low income,"","2018",1.5555556,"","",0
+"145",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XM,Low income,"","2017",1.5555556,"","",0
+"146",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XN,Lower middle income,"","2021",NA,"","",0
+"147",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XN,Lower middle income,"","2020",NA,"","",0
+"148",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XN,Lower middle income,"","2019",5.3888889,"","",0
+"149",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XN,Lower middle income,"","2018",4.8888889,"","",0
+"150",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XN,Lower middle income,"","2017",4.6666667,"","",0
+"151",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZQ,Middle East & North Africa,"MEA","2021",NA,"","",0
+"152",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZQ,Middle East & North Africa,"MEA","2020",NA,"","",0
+"153",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZQ,Middle East & North Africa,"MEA","2019",5.3809524,"","",0
+"154",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZQ,Middle East & North Africa,"MEA","2018",5.1428571,"","",0
+"155",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZQ,Middle East & North Africa,"MEA","2017",5.0000000,"","",0
+"156",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XQ,Middle East & North Africa (excluding high income),"MNA","2021",NA,"","",0
+"157",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XQ,Middle East & North Africa (excluding high income),"MNA","2020",NA,"","",0
+"158",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XQ,Middle East & North Africa (excluding high income),"MNA","2019",4.1538462,"","",0
+"159",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XQ,Middle East & North Africa (excluding high income),"MNA","2018",4.0769231,"","",0
+"160",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XQ,Middle East & North Africa (excluding high income),"MNA","2017",4.0000000,"","",0
+"161",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T3,Middle East & North Africa (IDA & IBRD countries),"TMN","2021",NA,"","",0
+"162",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T3,Middle East & North Africa (IDA & IBRD countries),"TMN","2020",NA,"","",0
+"163",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T3,Middle East & North Africa (IDA & IBRD countries),"TMN","2019",3.8333333,"","",0
+"164",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T3,Middle East & North Africa (IDA & IBRD countries),"TMN","2018",3.7500000,"","",0
+"165",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T3,Middle East & North Africa (IDA & IBRD countries),"TMN","2017",3.6666667,"","",0
+"166",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XP,Middle income,"MIC","2021",NA,"","",0
+"167",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XP,Middle income,"MIC","2020",NA,"","",0
+"168",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XP,Middle income,"MIC","2019",5.3653846,"","",0
+"169",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XP,Middle income,"MIC","2018",5.0865385,"","",0
+"170",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XP,Middle income,"MIC","2017",4.9134615,"","",0
+"171",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XU,North America,"NAC","2021",NA,"","",0
+"172",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XU,North America,"NAC","2020",NA,"","",0
+"173",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XU,North America,"NAC","2019",8.0000000,"","",0
+"174",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XU,North America,"NAC","2018",8.0000000,"","",0
+"175",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XU,North America,"NAC","2017",8.0000000,"","",0
+"176",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XY,Not classified,"","2021",NA,"","",0
+"177",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XY,Not classified,"","2020",NA,"","",0
+"178",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XY,Not classified,"","2019",NA,"","",0
+"179",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XY,Not classified,"","2018",NA,"","",0
+"180",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XY,Not classified,"","2017",NA,"","",0
+"181",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),OE,OECD members,"OED","2021",NA,"","",0
+"182",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),OE,OECD members,"OED","2020",NA,"","",0
+"183",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),OE,OECD members,"OED","2019",6.8684211,"","",0
+"184",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),OE,OECD members,"OED","2018",6.8157895,"","",0
+"185",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),OE,OECD members,"OED","2017",6.7894737,"","",0
+"186",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S4,Other small states,"OSS","2021",NA,"","",0
+"187",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S4,Other small states,"OSS","2020",NA,"","",0
+"188",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S4,Other small states,"OSS","2019",5.0000000,"","",0
+"189",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S4,Other small states,"OSS","2018",4.9615385,"","",0
+"190",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S4,Other small states,"OSS","2017",4.6538462,"","",0
+"191",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S2,Pacific island small states,"PSS","2021",NA,"","",0
+"192",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S2,Pacific island small states,"PSS","2020",NA,"","",0
+"193",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S2,Pacific island small states,"PSS","2019",0.8888889,"","",0
+"194",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S2,Pacific island small states,"PSS","2018",0.8888889,"","",0
+"195",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S2,Pacific island small states,"PSS","2017",0.8888889,"","",0
+"196",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V4,Post-demographic dividend,"PST","2021",NA,"","",0
+"197",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V4,Post-demographic dividend,"PST","2020",NA,"","",0
+"198",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V4,Post-demographic dividend,"PST","2019",6.1388889,"","",0
+"199",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V4,Post-demographic dividend,"PST","2018",6.1388889,"","",0
+"200",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V4,Post-demographic dividend,"PST","2017",6.1111111,"","",0
+"201",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V1,Pre-demographic dividend,"PRE","2021",NA,"","",0
+"202",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V1,Pre-demographic dividend,"PRE","2020",NA,"","",0
+"203",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V1,Pre-demographic dividend,"PRE","2019",3.0000000,"","",0
+"204",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V1,Pre-demographic dividend,"PRE","2018",2.2432432,"","",0
+"205",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),V1,Pre-demographic dividend,"PRE","2017",2.0000000,"","",0
+"206",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S1,Small states,"SST","2021",NA,"","",0
+"207",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S1,Small states,"SST","2020",NA,"","",0
+"208",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S1,Small states,"SST","2019",3.3333333,"","",0
+"209",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S1,Small states,"SST","2018",3.3125000,"","",0
+"210",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),S1,Small states,"SST","2017",3.1250000,"","",0
+"211",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),8S,South Asia,"SAS","2021",NA,"","",0
+"212",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),8S,South Asia,"SAS","2020",NA,"","",0
+"213",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),8S,South Asia,"SAS","2019",5.1250000,"","",0
+"214",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),8S,South Asia,"SAS","2018",4.0000000,"","",0
+"215",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),8S,South Asia,"SAS","2017",4.0000000,"","",0
+"216",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T5,South Asia (IDA & IBRD),"TSA","2021",NA,"","",0
+"217",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T5,South Asia (IDA & IBRD),"TSA","2020",NA,"","",0
+"218",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T5,South Asia (IDA & IBRD),"TSA","2019",5.1250000,"","",0
+"219",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T5,South Asia (IDA & IBRD),"TSA","2018",4.0000000,"","",0
+"220",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T5,South Asia (IDA & IBRD),"TSA","2017",4.0000000,"","",0
+"221",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZG,Sub-Saharan Africa,"SSF","2021",NA,"","",0
+"222",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZG,Sub-Saharan Africa,"SSF","2020",NA,"","",0
+"223",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZG,Sub-Saharan Africa,"SSF","2019",3.8958333,"","",0
+"224",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZG,Sub-Saharan Africa,"SSF","2018",3.2916667,"","",0
+"225",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZG,Sub-Saharan Africa,"SSF","2017",3.0625000,"","",0
+"226",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZF,Sub-Saharan Africa (excluding high income),"SSA","2021",NA,"","",0
+"227",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZF,Sub-Saharan Africa (excluding high income),"SSA","2020",NA,"","",0
+"228",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZF,Sub-Saharan Africa (excluding high income),"SSA","2019",3.8723404,"","",0
+"229",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZF,Sub-Saharan Africa (excluding high income),"SSA","2018",3.2553191,"","",0
+"230",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZF,Sub-Saharan Africa (excluding high income),"SSA","2017",3.0212766,"","",0
+"231",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T6,Sub-Saharan Africa (IDA & IBRD countries),"TSS","2021",NA,"","",0
+"232",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T6,Sub-Saharan Africa (IDA & IBRD countries),"TSS","2020",NA,"","",0
+"233",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T6,Sub-Saharan Africa (IDA & IBRD countries),"TSS","2019",3.8958333,"","",0
+"234",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T6,Sub-Saharan Africa (IDA & IBRD countries),"TSS","2018",3.2916667,"","",0
+"235",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),T6,Sub-Saharan Africa (IDA & IBRD countries),"TSS","2017",3.0625000,"","",0
+"236",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XT,Upper middle income,"","2021",NA,"","",0
+"237",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XT,Upper middle income,"","2020",NA,"","",0
+"238",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XT,Upper middle income,"","2019",5.3400000,"","",0
+"239",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XT,Upper middle income,"","2018",5.3000000,"","",0
+"240",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XT,Upper middle income,"","2017",5.1800000,"","",0
+"241",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),1W,World,"WLD","2021",NA,"","",0
+"242",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),1W,World,"WLD","2020",NA,"","",0
+"243",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),1W,World,"WLD","2019",5.1989529,"","",0
+"244",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),1W,World,"WLD","2018",4.9319372,"","",0
+"245",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),1W,World,"WLD","2017",4.8210526,"","",0
+"246",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AF,Afghanistan,"AFG","2021",NA,"","",0
+"247",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AF,Afghanistan,"AFG","2020",NA,"","",0
+"248",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AF,Afghanistan,"AFG","2019",0.0000000,"","",0
+"249",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AF,Afghanistan,"AFG","2018",0.0000000,"","",0
+"250",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AF,Afghanistan,"AFG","2017",0.0000000,"","",0
+"251",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AL,Albania,"ALB","2021",NA,"","",0
+"252",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AL,Albania,"ALB","2020",NA,"","",0
+"253",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AL,Albania,"ALB","2019",6.0000000,"","",0
+"254",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AL,Albania,"ALB","2018",6.0000000,"","",0
+"255",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AL,Albania,"ALB","2017",6.0000000,"","",0
+"256",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DZ,Algeria,"DZA","2021",NA,"","",0
+"257",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DZ,Algeria,"DZA","2020",NA,"","",0
+"258",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DZ,Algeria,"DZA","2019",0.0000000,"","",0
+"259",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DZ,Algeria,"DZA","2018",0.0000000,"","",0
+"260",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DZ,Algeria,"DZA","2017",0.0000000,"","",0
+"261",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AS,American Samoa,"ASM","2021",NA,"","",0
+"262",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AS,American Samoa,"ASM","2020",NA,"","",0
+"263",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AS,American Samoa,"ASM","2019",NA,"","",0
+"264",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AS,American Samoa,"ASM","2018",NA,"","",0
+"265",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AS,American Samoa,"ASM","2017",NA,"","",0
+"266",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AD,Andorra,"AND","2021",NA,"","",0
+"267",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AD,Andorra,"AND","2020",NA,"","",0
+"268",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AD,Andorra,"AND","2019",NA,"","",0
+"269",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AD,Andorra,"AND","2018",NA,"","",0
+"270",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AD,Andorra,"AND","2017",NA,"","",0
+"271",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AO,Angola,"AGO","2021",NA,"","",0
+"272",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AO,Angola,"AGO","2020",NA,"","",0
+"273",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AO,Angola,"AGO","2019",0.0000000,"","",0
+"274",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AO,Angola,"AGO","2018",0.0000000,"","",0
+"275",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AO,Angola,"AGO","2017",0.0000000,"","",0
+"276",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AG,Antigua and Barbuda,"ATG","2021",NA,"","",0
+"277",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AG,Antigua and Barbuda,"ATG","2020",NA,"","",0
+"278",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AG,Antigua and Barbuda,"ATG","2019",0.0000000,"","",0
+"279",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AG,Antigua and Barbuda,"ATG","2018",0.0000000,"","",0
+"280",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AG,Antigua and Barbuda,"ATG","2017",0.0000000,"","",0
+"281",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AR,Argentina,"ARG","2021",NA,"","",0
+"282",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AR,Argentina,"ARG","2020",NA,"","",0
+"283",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AR,Argentina,"ARG","2019",8.0000000,"","",0
+"284",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AR,Argentina,"ARG","2018",8.0000000,"","",0
+"285",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AR,Argentina,"ARG","2017",8.0000000,"","",0
+"286",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AM,Armenia,"ARM","2021",NA,"","",0
+"287",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AM,Armenia,"ARM","2020",NA,"","",0
+"288",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AM,Armenia,"ARM","2019",8.0000000,"","",0
+"289",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AM,Armenia,"ARM","2018",8.0000000,"","",0
+"290",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AM,Armenia,"ARM","2017",8.0000000,"","",0
+"291",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AW,Aruba,"ABW","2021",NA,"","",0
+"292",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AW,Aruba,"ABW","2020",NA,"","",0
+"293",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AW,Aruba,"ABW","2019",NA,"","",0
+"294",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AW,Aruba,"ABW","2018",NA,"","",0
+"295",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AW,Aruba,"ABW","2017",NA,"","",0
+"296",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AU,Australia,"AUS","2021",NA,"","",0
+"297",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AU,Australia,"AUS","2020",NA,"","",0
+"298",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AU,Australia,"AUS","2019",8.0000000,"","",0
+"299",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AU,Australia,"AUS","2018",7.0000000,"","",0
+"300",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AU,Australia,"AUS","2017",7.0000000,"","",0
+"301",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AT,Austria,"AUT","2021",NA,"","",0
+"302",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AT,Austria,"AUT","2020",NA,"","",0
+"303",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AT,Austria,"AUT","2019",7.0000000,"","",0
+"304",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AT,Austria,"AUT","2018",7.0000000,"","",0
+"305",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AT,Austria,"AUT","2017",7.0000000,"","",0
+"306",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AZ,Azerbaijan,"AZE","2021",NA,"","",0
+"307",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AZ,Azerbaijan,"AZE","2020",NA,"","",0
+"308",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AZ,Azerbaijan,"AZE","2019",8.0000000,"","",0
+"309",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AZ,Azerbaijan,"AZE","2018",8.0000000,"","",0
+"310",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AZ,Azerbaijan,"AZE","2017",6.0000000,"","",0
+"311",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BS,Bahamas, The,"BHS","2021",NA,"","",0
+"312",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BS,Bahamas, The,"BHS","2020",NA,"","",0
+"313",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BS,Bahamas, The,"BHS","2019",0.0000000,"","",0
+"314",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BS,Bahamas, The,"BHS","2018",0.0000000,"","",0
+"315",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BS,Bahamas, The,"BHS","2017",0.0000000,"","",0
+"316",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BH,Bahrain,"BHR","2021",NA,"","",0
+"317",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BH,Bahrain,"BHR","2020",NA,"","",0
+"318",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BH,Bahrain,"BHR","2019",8.0000000,"","",0
+"319",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BH,Bahrain,"BHR","2018",8.0000000,"","",0
+"320",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BH,Bahrain,"BHR","2017",8.0000000,"","",0
+"321",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BD,Bangladesh,"BGD","2021",NA,"","",0
+"322",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BD,Bangladesh,"BGD","2020",NA,"","",0
+"323",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BD,Bangladesh,"BGD","2019",4.0000000,"","",0
+"324",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BD,Bangladesh,"BGD","2018",0.0000000,"","",0
+"325",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BD,Bangladesh,"BGD","2017",0.0000000,"","",0
+"326",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BB,Barbados,"BRB","2021",NA,"","",0
+"327",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BB,Barbados,"BRB","2020",NA,"","",0
+"328",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BB,Barbados,"BRB","2019",0.0000000,"","",0
+"329",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BB,Barbados,"BRB","2018",0.0000000,"","",0
+"330",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BB,Barbados,"BRB","2017",0.0000000,"","",0
+"331",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BY,Belarus,"BLR","2021",NA,"","",0
+"332",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BY,Belarus,"BLR","2020",NA,"","",0
+"333",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BY,Belarus,"BLR","2019",7.0000000,"","",0
+"334",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BY,Belarus,"BLR","2018",7.0000000,"","",0
+"335",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BY,Belarus,"BLR","2017",7.0000000,"","",0
+"336",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BE,Belgium,"BEL","2021",NA,"","",0
+"337",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BE,Belgium,"BEL","2020",NA,"","",0
+"338",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BE,Belgium,"BEL","2019",5.0000000,"","",0
+"339",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BE,Belgium,"BEL","2018",5.0000000,"","",0
+"340",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BE,Belgium,"BEL","2017",5.0000000,"","",0
+"341",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BZ,Belize,"BLZ","2021",NA,"","",0
+"342",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BZ,Belize,"BLZ","2020",NA,"","",0
+"343",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BZ,Belize,"BLZ","2019",0.0000000,"","",0
+"344",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BZ,Belize,"BLZ","2018",0.0000000,"","",0
+"345",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BZ,Belize,"BLZ","2017",0.0000000,"","",0
+"346",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BJ,Benin,"BEN","2021",NA,"","",0
+"347",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BJ,Benin,"BEN","2020",NA,"","",0
+"348",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BJ,Benin,"BEN","2019",0.0000000,"","",0
+"349",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BJ,Benin,"BEN","2018",0.0000000,"","",0
+"350",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BJ,Benin,"BEN","2017",0.0000000,"","",0
+"351",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BM,Bermuda,"BMU","2021",NA,"","",0
+"352",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BM,Bermuda,"BMU","2020",NA,"","",0
+"353",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BM,Bermuda,"BMU","2019",NA,"","",0
+"354",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BM,Bermuda,"BMU","2018",NA,"","",0
+"355",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BM,Bermuda,"BMU","2017",NA,"","",0
+"356",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BT,Bhutan,"BTN","2021",NA,"","",0
+"357",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BT,Bhutan,"BTN","2020",NA,"","",0
+"358",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BT,Bhutan,"BTN","2019",7.0000000,"","",0
+"359",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BT,Bhutan,"BTN","2018",7.0000000,"","",0
+"360",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BT,Bhutan,"BTN","2017",7.0000000,"","",0
+"361",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BO,Bolivia,"BOL","2021",NA,"","",0
+"362",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BO,Bolivia,"BOL","2020",NA,"","",0
+"363",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BO,Bolivia,"BOL","2019",7.0000000,"","",0
+"364",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BO,Bolivia,"BOL","2018",7.0000000,"","",0
+"365",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BO,Bolivia,"BOL","2017",7.0000000,"","",0
+"366",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BA,Bosnia and Herzegovina,"BIH","2021",NA,"","",0
+"367",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BA,Bosnia and Herzegovina,"BIH","2020",NA,"","",0
+"368",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BA,Bosnia and Herzegovina,"BIH","2019",6.0000000,"","",0
+"369",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BA,Bosnia and Herzegovina,"BIH","2018",6.0000000,"","",0
+"370",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BA,Bosnia and Herzegovina,"BIH","2017",6.0000000,"","",0
+"371",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BW,Botswana,"BWA","2021",NA,"","",0
+"372",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BW,Botswana,"BWA","2020",NA,"","",0
+"373",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BW,Botswana,"BWA","2019",7.0000000,"","",0
+"374",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BW,Botswana,"BWA","2018",7.0000000,"","",0
+"375",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BW,Botswana,"BWA","2017",7.0000000,"","",0
+"376",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BR,Brazil,"BRA","2021",NA,"","",0
+"377",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BR,Brazil,"BRA","2020",NA,"","",0
+"378",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BR,Brazil,"BRA","2019",8.0000000,"","",0
+"379",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BR,Brazil,"BRA","2018",8.0000000,"","",0
+"380",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BR,Brazil,"BRA","2017",7.0000000,"","",0
+"381",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VG,British Virgin Islands,"VGB","2021",NA,"","",0
+"382",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VG,British Virgin Islands,"VGB","2020",NA,"","",0
+"383",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VG,British Virgin Islands,"VGB","2019",NA,"","",0
+"384",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VG,British Virgin Islands,"VGB","2018",NA,"","",0
+"385",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VG,British Virgin Islands,"VGB","2017",NA,"","",0
+"386",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BN,Brunei Darussalam,"BRN","2021",NA,"","",0
+"387",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BN,Brunei Darussalam,"BRN","2020",NA,"","",0
+"388",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BN,Brunei Darussalam,"BRN","2019",8.0000000,"","",0
+"389",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BN,Brunei Darussalam,"BRN","2018",8.0000000,"","",0
+"390",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BN,Brunei Darussalam,"BRN","2017",7.0000000,"","",0
+"391",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BG,Bulgaria,"BGR","2021",NA,"","",0
+"392",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BG,Bulgaria,"BGR","2020",NA,"","",0
+"393",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BG,Bulgaria,"BGR","2019",5.0000000,"","",0
+"394",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BG,Bulgaria,"BGR","2018",5.0000000,"","",0
+"395",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BG,Bulgaria,"BGR","2017",5.0000000,"","",0
+"396",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BF,Burkina Faso,"BFA","2021",NA,"","",0
+"397",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BF,Burkina Faso,"BFA","2020",NA,"","",0
+"398",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BF,Burkina Faso,"BFA","2019",0.0000000,"","",0
+"399",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BF,Burkina Faso,"BFA","2018",0.0000000,"","",0
+"400",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BF,Burkina Faso,"BFA","2017",0.0000000,"","",0
+"401",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BI,Burundi,"BDI","2021",NA,"","",0
+"402",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BI,Burundi,"BDI","2020",NA,"","",0
+"403",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BI,Burundi,"BDI","2019",1.0000000,"","",0
+"404",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BI,Burundi,"BDI","2018",0.0000000,"","",0
+"405",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),BI,Burundi,"BDI","2017",0.0000000,"","",0
+"406",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CV,Cabo Verde,"CPV","2021",NA,"","",0
+"407",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CV,Cabo Verde,"CPV","2020",NA,"","",0
+"408",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CV,Cabo Verde,"CPV","2019",6.0000000,"","",0
+"409",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CV,Cabo Verde,"CPV","2018",6.0000000,"","",0
+"410",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CV,Cabo Verde,"CPV","2017",6.0000000,"","",0
+"411",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KH,Cambodia,"KHM","2021",NA,"","",0
+"412",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KH,Cambodia,"KHM","2020",NA,"","",0
+"413",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KH,Cambodia,"KHM","2019",6.0000000,"","",0
+"414",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KH,Cambodia,"KHM","2018",6.0000000,"","",0
+"415",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KH,Cambodia,"KHM","2017",6.0000000,"","",0
+"416",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CM,Cameroon,"CMR","2021",NA,"","",0
+"417",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CM,Cameroon,"CMR","2020",NA,"","",0
+"418",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CM,Cameroon,"CMR","2019",6.0000000,"","",0
+"419",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CM,Cameroon,"CMR","2018",6.0000000,"","",0
+"420",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CM,Cameroon,"CMR","2017",6.0000000,"","",0
+"421",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CA,Canada,"CAN","2021",NA,"","",0
+"422",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CA,Canada,"CAN","2020",NA,"","",0
+"423",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CA,Canada,"CAN","2019",8.0000000,"","",0
+"424",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CA,Canada,"CAN","2018",8.0000000,"","",0
+"425",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CA,Canada,"CAN","2017",8.0000000,"","",0
+"426",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KY,Cayman Islands,"CYM","2021",NA,"","",0
+"427",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KY,Cayman Islands,"CYM","2020",NA,"","",0
+"428",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KY,Cayman Islands,"CYM","2019",NA,"","",0
+"429",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KY,Cayman Islands,"CYM","2018",NA,"","",0
+"430",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KY,Cayman Islands,"CYM","2017",NA,"","",0
+"431",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CF,Central African Republic,"CAF","2021",NA,"","",0
+"432",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CF,Central African Republic,"CAF","2020",NA,"","",0
+"433",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CF,Central African Republic,"CAF","2019",1.0000000,"","",0
+"434",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CF,Central African Republic,"CAF","2018",0.0000000,"","",0
+"435",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CF,Central African Republic,"CAF","2017",0.0000000,"","",0
+"436",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TD,Chad,"TCD","2021",NA,"","",0
+"437",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TD,Chad,"TCD","2020",NA,"","",0
+"438",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TD,Chad,"TCD","2019",0.0000000,"","",0
+"439",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TD,Chad,"TCD","2018",0.0000000,"","",0
+"440",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TD,Chad,"TCD","2017",0.0000000,"","",0
+"441",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JG,Channel Islands,"CHI","2021",NA,"","",0
+"442",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JG,Channel Islands,"CHI","2020",NA,"","",0
+"443",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JG,Channel Islands,"CHI","2019",NA,"","",0
+"444",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JG,Channel Islands,"CHI","2018",NA,"","",0
+"445",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JG,Channel Islands,"CHI","2017",NA,"","",0
+"446",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CL,Chile,"CHL","2021",NA,"","",0
+"447",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CL,Chile,"CHL","2020",NA,"","",0
+"448",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CL,Chile,"CHL","2019",7.0000000,"","",0
+"449",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CL,Chile,"CHL","2018",7.0000000,"","",0
+"450",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CL,Chile,"CHL","2017",7.0000000,"","",0
+"451",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CN,China,"CHN","2021",NA,"","",0
+"452",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CN,China,"CHN","2020",NA,"","",0
+"453",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CN,China,"CHN","2019",8.0000000,"","",0
+"454",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CN,China,"CHN","2018",8.0000000,"","",0
+"455",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CN,China,"CHN","2017",8.0000000,"","",0
+"456",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CO,Colombia,"COL","2021",NA,"","",0
+"457",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CO,Colombia,"COL","2020",NA,"","",0
+"458",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CO,Colombia,"COL","2019",7.0000000,"","",0
+"459",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CO,Colombia,"COL","2018",7.0000000,"","",0
+"460",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CO,Colombia,"COL","2017",7.0000000,"","",0
+"461",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KM,Comoros,"COM","2021",NA,"","",0
+"462",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KM,Comoros,"COM","2020",NA,"","",0
+"463",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KM,Comoros,"COM","2019",2.0000000,"","",0
+"464",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KM,Comoros,"COM","2018",2.0000000,"","",0
+"465",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KM,Comoros,"COM","2017",2.0000000,"","",0
+"466",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CD,Congo, Dem. Rep.,"COD","2021",NA,"","",0
+"467",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CD,Congo, Dem. Rep.,"COD","2020",NA,"","",0
+"468",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CD,Congo, Dem. Rep.,"COD","2019",0.0000000,"","",0
+"469",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CD,Congo, Dem. Rep.,"COD","2018",0.0000000,"","",0
+"470",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CD,Congo, Dem. Rep.,"COD","2017",0.0000000,"","",0
+"471",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CG,Congo, Rep.,"COG","2021",NA,"","",0
+"472",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CG,Congo, Rep.,"COG","2020",NA,"","",0
+"473",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CG,Congo, Rep.,"COG","2019",2.0000000,"","",0
+"474",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CG,Congo, Rep.,"COG","2018",1.0000000,"","",0
+"475",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CG,Congo, Rep.,"COG","2017",1.0000000,"","",0
+"476",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CR,Costa Rica,"CRI","2021",NA,"","",0
+"477",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CR,Costa Rica,"CRI","2020",NA,"","",0
+"478",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CR,Costa Rica,"CRI","2019",7.0000000,"","",0
+"479",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CR,Costa Rica,"CRI","2018",7.0000000,"","",0
+"480",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CR,Costa Rica,"CRI","2017",7.0000000,"","",0
+"481",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CI,Cote d'Ivoire,"CIV","2021",NA,"","",0
+"482",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CI,Cote d'Ivoire,"CIV","2020",NA,"","",0
+"483",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CI,Cote d'Ivoire,"CIV","2019",8.0000000,"","",0
+"484",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CI,Cote d'Ivoire,"CIV","2018",8.0000000,"","",0
+"485",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CI,Cote d'Ivoire,"CIV","2017",0.0000000,"","",0
+"486",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HR,Croatia,"HRV","2021",NA,"","",0
+"487",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HR,Croatia,"HRV","2020",NA,"","",0
+"488",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HR,Croatia,"HRV","2019",5.0000000,"","",0
+"489",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HR,Croatia,"HRV","2018",6.0000000,"","",0
+"490",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HR,Croatia,"HRV","2017",6.0000000,"","",0
+"491",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CU,Cuba,"CUB","2021",NA,"","",0
+"492",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CU,Cuba,"CUB","2020",NA,"","",0
+"493",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CU,Cuba,"CUB","2019",NA,"","",0
+"494",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CU,Cuba,"CUB","2018",NA,"","",0
+"495",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CU,Cuba,"CUB","2017",NA,"","",0
+"496",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CW,Curacao,"CUW","2021",NA,"","",0
+"497",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CW,Curacao,"CUW","2020",NA,"","",0
+"498",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CW,Curacao,"CUW","2019",NA,"","",0
+"499",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CW,Curacao,"CUW","2018",NA,"","",0
+"500",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CW,Curacao,"CUW","2017",NA,"","",0
+"501",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CY,Cyprus,"CYP","2021",NA,"","",0
+"502",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CY,Cyprus,"CYP","2020",NA,"","",0
+"503",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CY,Cyprus,"CYP","2019",5.0000000,"","",0
+"504",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CY,Cyprus,"CYP","2018",5.0000000,"","",0
+"505",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CY,Cyprus,"CYP","2017",5.0000000,"","",0
+"506",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CZ,Czech Republic,"CZE","2021",NA,"","",0
+"507",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CZ,Czech Republic,"CZE","2020",NA,"","",0
+"508",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CZ,Czech Republic,"CZE","2019",7.0000000,"","",0
+"509",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CZ,Czech Republic,"CZE","2018",7.0000000,"","",0
+"510",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CZ,Czech Republic,"CZE","2017",7.0000000,"","",0
+"511",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DK,Denmark,"DNK","2021",NA,"","",0
+"512",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DK,Denmark,"DNK","2020",NA,"","",0
+"513",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DK,Denmark,"DNK","2019",6.0000000,"","",0
+"514",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DK,Denmark,"DNK","2018",6.0000000,"","",0
+"515",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DK,Denmark,"DNK","2017",6.0000000,"","",0
+"516",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DJ,Djibouti,"DJI","2021",NA,"","",0
+"517",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DJ,Djibouti,"DJI","2020",NA,"","",0
+"518",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DJ,Djibouti,"DJI","2019",0.0000000,"","",0
+"519",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DJ,Djibouti,"DJI","2018",0.0000000,"","",0
+"520",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DJ,Djibouti,"DJI","2017",0.0000000,"","",0
+"521",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DM,Dominica,"DMA","2021",NA,"","",0
+"522",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DM,Dominica,"DMA","2020",NA,"","",0
+"523",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DM,Dominica,"DMA","2019",0.0000000,"","",0
+"524",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DM,Dominica,"DMA","2018",0.0000000,"","",0
+"525",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DM,Dominica,"DMA","2017",0.0000000,"","",0
+"526",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DO,Dominican Republic,"DOM","2021",NA,"","",0
+"527",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DO,Dominican Republic,"DOM","2020",NA,"","",0
+"528",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DO,Dominican Republic,"DOM","2019",8.0000000,"","",0
+"529",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DO,Dominican Republic,"DOM","2018",8.0000000,"","",0
+"530",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DO,Dominican Republic,"DOM","2017",8.0000000,"","",0
+"531",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EC,Ecuador,"ECU","2021",NA,"","",0
+"532",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EC,Ecuador,"ECU","2020",NA,"","",0
+"533",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EC,Ecuador,"ECU","2019",8.0000000,"","",0
+"534",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EC,Ecuador,"ECU","2018",8.0000000,"","",0
+"535",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EC,Ecuador,"ECU","2017",8.0000000,"","",0
+"536",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EG,Egypt, Arab Rep.,"EGY","2021",NA,"","",0
+"537",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EG,Egypt, Arab Rep.,"EGY","2020",NA,"","",0
+"538",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EG,Egypt, Arab Rep.,"EGY","2019",8.0000000,"","",0
+"539",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EG,Egypt, Arab Rep.,"EGY","2018",8.0000000,"","",0
+"540",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EG,Egypt, Arab Rep.,"EGY","2017",8.0000000,"","",0
+"541",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SV,El Salvador,"SLV","2021",NA,"","",0
+"542",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SV,El Salvador,"SLV","2020",NA,"","",0
+"543",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SV,El Salvador,"SLV","2019",7.0000000,"","",0
+"544",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SV,El Salvador,"SLV","2018",7.0000000,"","",0
+"545",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SV,El Salvador,"SLV","2017",7.0000000,"","",0
+"546",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GQ,Equatorial Guinea,"GNQ","2021",NA,"","",0
+"547",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GQ,Equatorial Guinea,"GNQ","2020",NA,"","",0
+"548",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GQ,Equatorial Guinea,"GNQ","2019",2.0000000,"","",0
+"549",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GQ,Equatorial Guinea,"GNQ","2018",2.0000000,"","",0
+"550",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GQ,Equatorial Guinea,"GNQ","2017",2.0000000,"","",0
+"551",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ER,Eritrea,"ERI","2021",NA,"","",0
+"552",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ER,Eritrea,"ERI","2020",NA,"","",0
+"553",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ER,Eritrea,"ERI","2019",0.0000000,"","",0
+"554",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ER,Eritrea,"ERI","2018",0.0000000,"","",0
+"555",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ER,Eritrea,"ERI","2017",0.0000000,"","",0
+"556",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EE,Estonia,"EST","2021",NA,"","",0
+"557",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EE,Estonia,"EST","2020",NA,"","",0
+"558",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EE,Estonia,"EST","2019",7.0000000,"","",0
+"559",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EE,Estonia,"EST","2018",7.0000000,"","",0
+"560",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),EE,Estonia,"EST","2017",7.0000000,"","",0
+"561",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SZ,Eswatini,"SWZ","2021",NA,"","",0
+"562",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SZ,Eswatini,"SWZ","2020",NA,"","",0
+"563",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SZ,Eswatini,"SWZ","2019",7.0000000,"","",0
+"564",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SZ,Eswatini,"SWZ","2018",7.0000000,"","",0
+"565",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SZ,Eswatini,"SWZ","2017",7.0000000,"","",0
+"566",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ET,Ethiopia,"ETH","2021",NA,"","",0
+"567",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ET,Ethiopia,"ETH","2020",NA,"","",0
+"568",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ET,Ethiopia,"ETH","2019",0.0000000,"","",0
+"569",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ET,Ethiopia,"ETH","2018",0.0000000,"","",0
+"570",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ET,Ethiopia,"ETH","2017",0.0000000,"","",0
+"571",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FO,Faroe Islands,"FRO","2021",NA,"","",0
+"572",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FO,Faroe Islands,"FRO","2020",NA,"","",0
+"573",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FO,Faroe Islands,"FRO","2019",NA,"","",0
+"574",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FO,Faroe Islands,"FRO","2018",NA,"","",0
+"575",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FO,Faroe Islands,"FRO","2017",NA,"","",0
+"576",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FJ,Fiji,"FJI","2021",NA,"","",0
+"577",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FJ,Fiji,"FJI","2020",NA,"","",0
+"578",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FJ,Fiji,"FJI","2019",0.0000000,"","",0
+"579",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FJ,Fiji,"FJI","2018",0.0000000,"","",0
+"580",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FJ,Fiji,"FJI","2017",0.0000000,"","",0
+"581",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FI,Finland,"FIN","2021",NA,"","",0
+"582",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FI,Finland,"FIN","2020",NA,"","",0
+"583",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FI,Finland,"FIN","2019",6.0000000,"","",0
+"584",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FI,Finland,"FIN","2018",6.0000000,"","",0
+"585",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FI,Finland,"FIN","2017",6.0000000,"","",0
+"586",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FR,France,"FRA","2021",NA,"","",0
+"587",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FR,France,"FRA","2020",NA,"","",0
+"588",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FR,France,"FRA","2019",6.0000000,"","",0
+"589",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FR,France,"FRA","2018",6.0000000,"","",0
+"590",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FR,France,"FRA","2017",6.0000000,"","",0
+"591",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PF,French Polynesia,"PYF","2021",NA,"","",0
+"592",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PF,French Polynesia,"PYF","2020",NA,"","",0
+"593",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PF,French Polynesia,"PYF","2019",NA,"","",0
+"594",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PF,French Polynesia,"PYF","2018",NA,"","",0
+"595",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PF,French Polynesia,"PYF","2017",NA,"","",0
+"596",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GA,Gabon,"GAB","2021",NA,"","",0
+"597",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GA,Gabon,"GAB","2020",NA,"","",0
+"598",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GA,Gabon,"GAB","2019",2.0000000,"","",0
+"599",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GA,Gabon,"GAB","2018",2.0000000,"","",0
+"600",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GA,Gabon,"GAB","2017",2.0000000,"","",0
+"601",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GM,Gambia, The,"GMB","2021",NA,"","",0
+"602",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GM,Gambia, The,"GMB","2020",NA,"","",0
+"603",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GM,Gambia, The,"GMB","2019",0.0000000,"","",0
+"604",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GM,Gambia, The,"GMB","2018",0.0000000,"","",0
+"605",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GM,Gambia, The,"GMB","2017",0.0000000,"","",0
+"606",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GE,Georgia,"GEO","2021",NA,"","",0
+"607",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GE,Georgia,"GEO","2020",NA,"","",0
+"608",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GE,Georgia,"GEO","2019",8.0000000,"","",0
+"609",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GE,Georgia,"GEO","2018",8.0000000,"","",0
+"610",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GE,Georgia,"GEO","2017",8.0000000,"","",0
+"611",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DE,Germany,"DEU","2021",NA,"","",0
+"612",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DE,Germany,"DEU","2020",NA,"","",0
+"613",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DE,Germany,"DEU","2019",8.0000000,"","",0
+"614",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DE,Germany,"DEU","2018",8.0000000,"","",0
+"615",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),DE,Germany,"DEU","2017",8.0000000,"","",0
+"616",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GH,Ghana,"GHA","2021",NA,"","",0
+"617",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GH,Ghana,"GHA","2020",NA,"","",0
+"618",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GH,Ghana,"GHA","2019",6.0000000,"","",0
+"619",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GH,Ghana,"GHA","2018",6.0000000,"","",0
+"620",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GH,Ghana,"GHA","2017",6.0000000,"","",0
+"621",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GI,Gibraltar,"GIB","2021",NA,"","",0
+"622",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GI,Gibraltar,"GIB","2020",NA,"","",0
+"623",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GI,Gibraltar,"GIB","2019",NA,"","",0
+"624",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GI,Gibraltar,"GIB","2018",NA,"","",0
+"625",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GI,Gibraltar,"GIB","2017",NA,"","",0
+"626",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GR,Greece,"GRC","2021",NA,"","",0
+"627",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GR,Greece,"GRC","2020",NA,"","",0
+"628",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GR,Greece,"GRC","2019",7.0000000,"","",0
+"629",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GR,Greece,"GRC","2018",7.0000000,"","",0
+"630",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GR,Greece,"GRC","2017",7.0000000,"","",0
+"631",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GL,Greenland,"GRL","2021",NA,"","",0
+"632",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GL,Greenland,"GRL","2020",NA,"","",0
+"633",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GL,Greenland,"GRL","2019",NA,"","",0
+"634",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GL,Greenland,"GRL","2018",NA,"","",0
+"635",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GL,Greenland,"GRL","2017",NA,"","",0
+"636",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GD,Grenada,"GRD","2021",NA,"","",0
+"637",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GD,Grenada,"GRD","2020",NA,"","",0
+"638",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GD,Grenada,"GRD","2019",0.0000000,"","",0
+"639",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GD,Grenada,"GRD","2018",0.0000000,"","",0
+"640",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GD,Grenada,"GRD","2017",0.0000000,"","",0
+"641",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GU,Guam,"GUM","2021",NA,"","",0
+"642",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GU,Guam,"GUM","2020",NA,"","",0
+"643",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GU,Guam,"GUM","2019",NA,"","",0
+"644",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GU,Guam,"GUM","2018",NA,"","",0
+"645",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GU,Guam,"GUM","2017",NA,"","",0
+"646",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GT,Guatemala,"GTM","2021",NA,"","",0
+"647",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GT,Guatemala,"GTM","2020",NA,"","",0
+"648",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GT,Guatemala,"GTM","2019",8.0000000,"","",0
+"649",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GT,Guatemala,"GTM","2018",8.0000000,"","",0
+"650",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GT,Guatemala,"GTM","2017",8.0000000,"","",0
+"651",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GN,Guinea,"GIN","2021",NA,"","",0
+"652",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GN,Guinea,"GIN","2020",NA,"","",0
+"653",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GN,Guinea,"GIN","2019",0.0000000,"","",0
+"654",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GN,Guinea,"GIN","2018",0.0000000,"","",0
+"655",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GN,Guinea,"GIN","2017",0.0000000,"","",0
+"656",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GW,Guinea-Bissau,"GNB","2021",NA,"","",0
+"657",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GW,Guinea-Bissau,"GNB","2020",NA,"","",0
+"658",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GW,Guinea-Bissau,"GNB","2019",0.0000000,"","",0
+"659",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GW,Guinea-Bissau,"GNB","2018",0.0000000,"","",0
+"660",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GW,Guinea-Bissau,"GNB","2017",0.0000000,"","",0
+"661",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GY,Guyana,"GUY","2021",NA,"","",0
+"662",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GY,Guyana,"GUY","2020",NA,"","",0
+"663",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GY,Guyana,"GUY","2019",8.0000000,"","",0
+"664",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GY,Guyana,"GUY","2018",8.0000000,"","",0
+"665",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GY,Guyana,"GUY","2017",8.0000000,"","",0
+"666",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HT,Haiti,"HTI","2021",NA,"","",0
+"667",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HT,Haiti,"HTI","2020",NA,"","",0
+"668",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HT,Haiti,"HTI","2019",5.0000000,"","",0
+"669",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HT,Haiti,"HTI","2018",0.0000000,"","",0
+"670",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HT,Haiti,"HTI","2017",0.0000000,"","",0
+"671",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HN,Honduras,"HND","2021",NA,"","",0
+"672",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HN,Honduras,"HND","2020",NA,"","",0
+"673",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HN,Honduras,"HND","2019",8.0000000,"","",0
+"674",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HN,Honduras,"HND","2018",8.0000000,"","",0
+"675",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HN,Honduras,"HND","2017",8.0000000,"","",0
+"676",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HK,Hong Kong SAR, China,"HKG","2021",NA,"","",0
+"677",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HK,Hong Kong SAR, China,"HKG","2020",NA,"","",0
+"678",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HK,Hong Kong SAR, China,"HKG","2019",7.0000000,"","",0
+"679",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HK,Hong Kong SAR, China,"HKG","2018",7.0000000,"","",0
+"680",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HK,Hong Kong SAR, China,"HKG","2017",7.0000000,"","",0
+"681",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HU,Hungary,"HUN","2021",NA,"","",0
+"682",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HU,Hungary,"HUN","2020",NA,"","",0
+"683",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HU,Hungary,"HUN","2019",6.0000000,"","",0
+"684",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HU,Hungary,"HUN","2018",6.0000000,"","",0
+"685",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),HU,Hungary,"HUN","2017",6.0000000,"","",0
+"686",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IS,Iceland,"ISL","2021",NA,"","",0
+"687",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IS,Iceland,"ISL","2020",NA,"","",0
+"688",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IS,Iceland,"ISL","2019",7.0000000,"","",0
+"689",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IS,Iceland,"ISL","2018",7.0000000,"","",0
+"690",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IS,Iceland,"ISL","2017",7.0000000,"","",0
+"691",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IN,India,"IND","2021",NA,"","",0
+"692",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IN,India,"IND","2020",NA,"","",0
+"693",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IN,India,"IND","2019",7.0000000,"","",0
+"694",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IN,India,"IND","2018",7.0000000,"","",0
+"695",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IN,India,"IND","2017",7.0000000,"","",0
+"696",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ID,Indonesia,"IDN","2021",NA,"","",0
+"697",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ID,Indonesia,"IDN","2020",NA,"","",0
+"698",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ID,Indonesia,"IDN","2019",8.0000000,"","",0
+"699",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ID,Indonesia,"IDN","2018",8.0000000,"","",0
+"700",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ID,Indonesia,"IDN","2017",7.0000000,"","",0
+"701",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IR,Iran, Islamic Rep.,"IRN","2021",NA,"","",0
+"702",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IR,Iran, Islamic Rep.,"IRN","2020",NA,"","",0
+"703",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IR,Iran, Islamic Rep.,"IRN","2019",8.0000000,"","",0
+"704",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IR,Iran, Islamic Rep.,"IRN","2018",8.0000000,"","",0
+"705",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IR,Iran, Islamic Rep.,"IRN","2017",8.0000000,"","",0
+"706",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IQ,Iraq,"IRQ","2021",NA,"","",0
+"707",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IQ,Iraq,"IRQ","2020",NA,"","",0
+"708",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IQ,Iraq,"IRQ","2019",0.0000000,"","",0
+"709",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IQ,Iraq,"IRQ","2018",0.0000000,"","",0
+"710",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IQ,Iraq,"IRQ","2017",0.0000000,"","",0
+"711",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IE,Ireland,"IRL","2021",NA,"","",0
+"712",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IE,Ireland,"IRL","2020",NA,"","",0
+"713",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IE,Ireland,"IRL","2019",7.0000000,"","",0
+"714",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IE,Ireland,"IRL","2018",7.0000000,"","",0
+"715",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IE,Ireland,"IRL","2017",7.0000000,"","",0
+"716",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IM,Isle of Man,"IMN","2021",NA,"","",0
+"717",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IM,Isle of Man,"IMN","2020",NA,"","",0
+"718",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IM,Isle of Man,"IMN","2019",NA,"","",0
+"719",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IM,Isle of Man,"IMN","2018",NA,"","",0
+"720",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IM,Isle of Man,"IMN","2017",NA,"","",0
+"721",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IL,Israel,"ISR","2021",NA,"","",0
+"722",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IL,Israel,"ISR","2020",NA,"","",0
+"723",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IL,Israel,"ISR","2019",8.0000000,"","",0
+"724",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IL,Israel,"ISR","2018",7.0000000,"","",0
+"725",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IL,Israel,"ISR","2017",7.0000000,"","",0
+"726",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IT,Italy,"ITA","2021",NA,"","",0
+"727",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IT,Italy,"ITA","2020",NA,"","",0
+"728",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IT,Italy,"ITA","2019",7.0000000,"","",0
+"729",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IT,Italy,"ITA","2018",7.0000000,"","",0
+"730",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),IT,Italy,"ITA","2017",7.0000000,"","",0
+"731",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JM,Jamaica,"JAM","2021",NA,"","",0
+"732",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JM,Jamaica,"JAM","2020",NA,"","",0
+"733",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JM,Jamaica,"JAM","2019",8.0000000,"","",0
+"734",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JM,Jamaica,"JAM","2018",8.0000000,"","",0
+"735",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JM,Jamaica,"JAM","2017",7.0000000,"","",0
+"736",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JP,Japan,"JPN","2021",NA,"","",0
+"737",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JP,Japan,"JPN","2020",NA,"","",0
+"738",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JP,Japan,"JPN","2019",6.0000000,"","",0
+"739",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JP,Japan,"JPN","2018",6.0000000,"","",0
+"740",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JP,Japan,"JPN","2017",6.0000000,"","",0
+"741",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JO,Jordan,"JOR","2021",NA,"","",0
+"742",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JO,Jordan,"JOR","2020",NA,"","",0
+"743",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JO,Jordan,"JOR","2019",8.0000000,"","",0
+"744",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JO,Jordan,"JOR","2018",7.0000000,"","",0
+"745",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),JO,Jordan,"JOR","2017",6.0000000,"","",0
+"746",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KZ,Kazakhstan,"KAZ","2021",NA,"","",0
+"747",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KZ,Kazakhstan,"KAZ","2020",NA,"","",0
+"748",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KZ,Kazakhstan,"KAZ","2019",8.0000000,"","",0
+"749",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KZ,Kazakhstan,"KAZ","2018",7.0000000,"","",0
+"750",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KZ,Kazakhstan,"KAZ","2017",7.0000000,"","",0
+"751",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KE,Kenya,"KEN","2021",NA,"","",0
+"752",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KE,Kenya,"KEN","2020",NA,"","",0
+"753",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KE,Kenya,"KEN","2019",8.0000000,"","",0
+"754",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KE,Kenya,"KEN","2018",8.0000000,"","",0
+"755",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KE,Kenya,"KEN","2017",8.0000000,"","",0
+"756",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KI,Kiribati,"KIR","2021",NA,"","",0
+"757",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KI,Kiribati,"KIR","2020",NA,"","",0
+"758",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KI,Kiribati,"KIR","2019",0.0000000,"","",0
+"759",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KI,Kiribati,"KIR","2018",0.0000000,"","",0
+"760",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KI,Kiribati,"KIR","2017",0.0000000,"","",0
+"761",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KP,Korea, Dem. People's Rep.,"PRK","2021",NA,"","",0
+"762",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KP,Korea, Dem. People's Rep.,"PRK","2020",NA,"","",0
+"763",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KP,Korea, Dem. People's Rep.,"PRK","2019",NA,"","",0
+"764",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KP,Korea, Dem. People's Rep.,"PRK","2018",NA,"","",0
+"765",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KP,Korea, Dem. People's Rep.,"PRK","2017",NA,"","",0
+"766",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KR,Korea, Rep.,"KOR","2021",NA,"","",0
+"767",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KR,Korea, Rep.,"KOR","2020",NA,"","",0
+"768",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KR,Korea, Rep.,"KOR","2019",8.0000000,"","",0
+"769",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KR,Korea, Rep.,"KOR","2018",8.0000000,"","",0
+"770",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KR,Korea, Rep.,"KOR","2017",8.0000000,"","",0
+"771",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XK,Kosovo,"XKX","2021",NA,"","",0
+"772",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XK,Kosovo,"XKX","2020",NA,"","",0
+"773",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XK,Kosovo,"XKX","2019",6.0000000,"","",0
+"774",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XK,Kosovo,"XKX","2018",6.0000000,"","",0
+"775",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),XK,Kosovo,"XKX","2017",6.0000000,"","",0
+"776",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KW,Kuwait,"KWT","2021",NA,"","",0
+"777",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KW,Kuwait,"KWT","2020",NA,"","",0
+"778",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KW,Kuwait,"KWT","2019",8.0000000,"","",0
+"779",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KW,Kuwait,"KWT","2018",6.0000000,"","",0
+"780",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KW,Kuwait,"KWT","2017",6.0000000,"","",0
+"781",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KG,Kyrgyz Republic,"KGZ","2021",NA,"","",0
+"782",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KG,Kyrgyz Republic,"KGZ","2020",NA,"","",0
+"783",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KG,Kyrgyz Republic,"KGZ","2019",8.0000000,"","",0
+"784",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KG,Kyrgyz Republic,"KGZ","2018",7.0000000,"","",0
+"785",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KG,Kyrgyz Republic,"KGZ","2017",7.0000000,"","",0
+"786",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LA,Lao PDR,"LAO","2021",NA,"","",0
+"787",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LA,Lao PDR,"LAO","2020",NA,"","",0
+"788",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LA,Lao PDR,"LAO","2019",6.0000000,"","",0
+"789",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LA,Lao PDR,"LAO","2018",6.0000000,"","",0
+"790",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LA,Lao PDR,"LAO","2017",6.0000000,"","",0
+"791",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LV,Latvia,"LVA","2021",NA,"","",0
+"792",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LV,Latvia,"LVA","2020",NA,"","",0
+"793",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LV,Latvia,"LVA","2019",8.0000000,"","",0
+"794",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LV,Latvia,"LVA","2018",8.0000000,"","",0
+"795",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LV,Latvia,"LVA","2017",8.0000000,"","",0
+"796",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LB,Lebanon,"LBN","2021",NA,"","",0
+"797",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LB,Lebanon,"LBN","2020",NA,"","",0
+"798",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LB,Lebanon,"LBN","2019",6.0000000,"","",0
+"799",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LB,Lebanon,"LBN","2018",6.0000000,"","",0
+"800",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LB,Lebanon,"LBN","2017",6.0000000,"","",0
+"801",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LS,Lesotho,"LSO","2021",NA,"","",0
+"802",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LS,Lesotho,"LSO","2020",NA,"","",0
+"803",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LS,Lesotho,"LSO","2019",6.0000000,"","",0
+"804",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LS,Lesotho,"LSO","2018",6.0000000,"","",0
+"805",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LS,Lesotho,"LSO","2017",6.0000000,"","",0
+"806",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LR,Liberia,"LBR","2021",NA,"","",0
+"807",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LR,Liberia,"LBR","2020",NA,"","",0
+"808",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LR,Liberia,"LBR","2019",0.0000000,"","",0
+"809",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LR,Liberia,"LBR","2018",0.0000000,"","",0
+"810",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LR,Liberia,"LBR","2017",0.0000000,"","",0
+"811",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LY,Libya,"LBY","2021",NA,"","",0
+"812",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LY,Libya,"LBY","2020",NA,"","",0
+"813",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LY,Libya,"LBY","2019",0.0000000,"","",0
+"814",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LY,Libya,"LBY","2018",0.0000000,"","",0
+"815",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LY,Libya,"LBY","2017",0.0000000,"","",0
+"816",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LI,Liechtenstein,"LIE","2021",NA,"","",0
+"817",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LI,Liechtenstein,"LIE","2020",NA,"","",0
+"818",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LI,Liechtenstein,"LIE","2019",0.0000000,"","",0
+"819",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LI,Liechtenstein,"LIE","2018",0.0000000,"","",0
+"820",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LI,Liechtenstein,"LIE","2017",NA,"","",0
+"821",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LT,Lithuania,"LTU","2021",NA,"","",0
+"822",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LT,Lithuania,"LTU","2020",NA,"","",0
+"823",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LT,Lithuania,"LTU","2019",8.0000000,"","",0
+"824",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LT,Lithuania,"LTU","2018",8.0000000,"","",0
+"825",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LT,Lithuania,"LTU","2017",8.0000000,"","",0
+"826",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LU,Luxembourg,"LUX","2021",NA,"","",0
+"827",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LU,Luxembourg,"LUX","2020",NA,"","",0
+"828",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LU,Luxembourg,"LUX","2019",0.0000000,"","",0
+"829",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LU,Luxembourg,"LUX","2018",0.0000000,"","",0
+"830",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LU,Luxembourg,"LUX","2017",0.0000000,"","",0
+"831",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MO,Macao SAR, China,"MAC","2021",NA,"","",0
+"832",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MO,Macao SAR, China,"MAC","2020",NA,"","",0
+"833",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MO,Macao SAR, China,"MAC","2019",NA,"","",0
+"834",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MO,Macao SAR, China,"MAC","2018",NA,"","",0
+"835",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MO,Macao SAR, China,"MAC","2017",NA,"","",0
+"836",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MG,Madagascar,"MDG","2021",NA,"","",0
+"837",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MG,Madagascar,"MDG","2020",NA,"","",0
+"838",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MG,Madagascar,"MDG","2019",6.0000000,"","",0
+"839",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MG,Madagascar,"MDG","2018",6.0000000,"","",0
+"840",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MG,Madagascar,"MDG","2017",6.0000000,"","",0
+"841",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MW,Malawi,"MWI","2021",NA,"","",0
+"842",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MW,Malawi,"MWI","2020",NA,"","",0
+"843",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MW,Malawi,"MWI","2019",7.0000000,"","",0
+"844",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MW,Malawi,"MWI","2018",7.0000000,"","",0
+"845",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MW,Malawi,"MWI","2017",7.0000000,"","",0
+"846",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MY,Malaysia,"MYS","2021",NA,"","",0
+"847",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MY,Malaysia,"MYS","2020",NA,"","",0
+"848",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MY,Malaysia,"MYS","2019",8.0000000,"","",0
+"849",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MY,Malaysia,"MYS","2018",8.0000000,"","",0
+"850",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MY,Malaysia,"MYS","2017",8.0000000,"","",0
+"851",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MV,Maldives,"MDV","2021",NA,"","",0
+"852",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MV,Maldives,"MDV","2020",NA,"","",0
+"853",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MV,Maldives,"MDV","2019",5.0000000,"","",0
+"854",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MV,Maldives,"MDV","2018",5.0000000,"","",0
+"855",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MV,Maldives,"MDV","2017",5.0000000,"","",0
+"856",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ML,Mali,"MLI","2021",NA,"","",0
+"857",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ML,Mali,"MLI","2020",NA,"","",0
+"858",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ML,Mali,"MLI","2019",0.0000000,"","",0
+"859",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ML,Mali,"MLI","2018",0.0000000,"","",0
+"860",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ML,Mali,"MLI","2017",0.0000000,"","",0
+"861",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MT,Malta,"MLT","2021",NA,"","",0
+"862",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MT,Malta,"MLT","2020",NA,"","",0
+"863",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MT,Malta,"MLT","2019",5.0000000,"","",0
+"864",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MT,Malta,"MLT","2018",5.0000000,"","",0
+"865",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MT,Malta,"MLT","2017",4.0000000,"","",0
+"866",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MH,Marshall Islands,"MHL","2021",NA,"","",0
+"867",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MH,Marshall Islands,"MHL","2020",NA,"","",0
+"868",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MH,Marshall Islands,"MHL","2019",0.0000000,"","",0
+"869",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MH,Marshall Islands,"MHL","2018",0.0000000,"","",0
+"870",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MH,Marshall Islands,"MHL","2017",0.0000000,"","",0
+"871",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MR,Mauritania,"MRT","2021",NA,"","",0
+"872",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MR,Mauritania,"MRT","2020",NA,"","",0
+"873",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MR,Mauritania,"MRT","2019",6.0000000,"","",0
+"874",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MR,Mauritania,"MRT","2018",4.0000000,"","",0
+"875",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MR,Mauritania,"MRT","2017",3.0000000,"","",0
+"876",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MU,Mauritius,"MUS","2021",NA,"","",0
+"877",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MU,Mauritius,"MUS","2020",NA,"","",0
+"878",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MU,Mauritius,"MUS","2019",7.0000000,"","",0
+"879",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MU,Mauritius,"MUS","2018",7.0000000,"","",0
+"880",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MU,Mauritius,"MUS","2017",7.0000000,"","",0
+"881",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MX,Mexico,"MEX","2021",NA,"","",0
+"882",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MX,Mexico,"MEX","2020",NA,"","",0
+"883",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MX,Mexico,"MEX","2019",8.0000000,"","",0
+"884",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MX,Mexico,"MEX","2018",8.0000000,"","",0
+"885",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MX,Mexico,"MEX","2017",8.0000000,"","",0
+"886",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FM,Micronesia, Fed. Sts.,"FSM","2021",NA,"","",0
+"887",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FM,Micronesia, Fed. Sts.,"FSM","2020",NA,"","",0
+"888",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FM,Micronesia, Fed. Sts.,"FSM","2019",0.0000000,"","",0
+"889",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FM,Micronesia, Fed. Sts.,"FSM","2018",0.0000000,"","",0
+"890",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),FM,Micronesia, Fed. Sts.,"FSM","2017",0.0000000,"","",0
+"891",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MD,Moldova,"MDA","2021",NA,"","",0
+"892",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MD,Moldova,"MDA","2020",NA,"","",0
+"893",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MD,Moldova,"MDA","2019",6.0000000,"","",0
+"894",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MD,Moldova,"MDA","2018",6.0000000,"","",0
+"895",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MD,Moldova,"MDA","2017",6.0000000,"","",0
+"896",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MC,Monaco,"MCO","2021",NA,"","",0
+"897",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MC,Monaco,"MCO","2020",NA,"","",0
+"898",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MC,Monaco,"MCO","2019",NA,"","",0
+"899",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MC,Monaco,"MCO","2018",NA,"","",0
+"900",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MC,Monaco,"MCO","2017",NA,"","",0
+"901",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MN,Mongolia,"MNG","2021",NA,"","",0
+"902",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MN,Mongolia,"MNG","2020",NA,"","",0
+"903",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MN,Mongolia,"MNG","2019",7.0000000,"","",0
+"904",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MN,Mongolia,"MNG","2018",7.0000000,"","",0
+"905",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MN,Mongolia,"MNG","2017",7.0000000,"","",0
+"906",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ME,Montenegro,"MNE","2021",NA,"","",0
+"907",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ME,Montenegro,"MNE","2020",NA,"","",0
+"908",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ME,Montenegro,"MNE","2019",5.0000000,"","",0
+"909",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ME,Montenegro,"MNE","2018",5.0000000,"","",0
+"910",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ME,Montenegro,"MNE","2017",5.0000000,"","",0
+"911",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MA,Morocco,"MAR","2021",NA,"","",0
+"912",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MA,Morocco,"MAR","2020",NA,"","",0
+"913",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MA,Morocco,"MAR","2019",7.0000000,"","",0
+"914",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MA,Morocco,"MAR","2018",7.0000000,"","",0
+"915",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MA,Morocco,"MAR","2017",7.0000000,"","",0
+"916",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MZ,Mozambique,"MOZ","2021",NA,"","",0
+"917",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MZ,Mozambique,"MOZ","2020",NA,"","",0
+"918",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MZ,Mozambique,"MOZ","2019",4.0000000,"","",0
+"919",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MZ,Mozambique,"MOZ","2018",4.0000000,"","",0
+"920",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MZ,Mozambique,"MOZ","2017",4.0000000,"","",0
+"921",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MM,Myanmar,"MMR","2021",NA,"","",0
+"922",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MM,Myanmar,"MMR","2020",NA,"","",0
+"923",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MM,Myanmar,"MMR","2019",0.0000000,"","",0
+"924",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MM,Myanmar,"MMR","2018",0.0000000,"","",0
+"925",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MM,Myanmar,"MMR","2017",0.0000000,"","",0
+"926",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NA,Namibia,"NAM","2021",NA,"","",0
+"927",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NA,Namibia,"NAM","2020",NA,"","",0
+"928",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NA,Namibia,"NAM","2019",7.0000000,"","",0
+"929",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NA,Namibia,"NAM","2018",7.0000000,"","",0
+"930",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NA,Namibia,"NAM","2017",7.0000000,"","",0
+"931",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NR,Nauru,"NRU","2021",NA,"","",0
+"932",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NR,Nauru,"NRU","2020",NA,"","",0
+"933",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NR,Nauru,"NRU","2019",NA,"","",0
+"934",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NR,Nauru,"NRU","2018",NA,"","",0
+"935",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NR,Nauru,"NRU","2017",NA,"","",0
+"936",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NP,Nepal,"NPL","2021",NA,"","",0
+"937",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NP,Nepal,"NPL","2020",NA,"","",0
+"938",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NP,Nepal,"NPL","2019",5.0000000,"","",0
+"939",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NP,Nepal,"NPL","2018",0.0000000,"","",0
+"940",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NP,Nepal,"NPL","2017",0.0000000,"","",0
+"941",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NL,Netherlands,"NLD","2021",NA,"","",0
+"942",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NL,Netherlands,"NLD","2020",NA,"","",0
+"943",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NL,Netherlands,"NLD","2019",7.0000000,"","",0
+"944",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NL,Netherlands,"NLD","2018",7.0000000,"","",0
+"945",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NL,Netherlands,"NLD","2017",7.0000000,"","",0
+"946",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NC,New Caledonia,"NCL","2021",NA,"","",0
+"947",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NC,New Caledonia,"NCL","2020",NA,"","",0
+"948",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NC,New Caledonia,"NCL","2019",NA,"","",0
+"949",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NC,New Caledonia,"NCL","2018",NA,"","",0
+"950",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NC,New Caledonia,"NCL","2017",NA,"","",0
+"951",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NZ,New Zealand,"NZL","2021",NA,"","",0
+"952",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NZ,New Zealand,"NZL","2020",NA,"","",0
+"953",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NZ,New Zealand,"NZL","2019",8.0000000,"","",0
+"954",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NZ,New Zealand,"NZL","2018",8.0000000,"","",0
+"955",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NZ,New Zealand,"NZL","2017",8.0000000,"","",0
+"956",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NI,Nicaragua,"NIC","2021",NA,"","",0
+"957",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NI,Nicaragua,"NIC","2020",NA,"","",0
+"958",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NI,Nicaragua,"NIC","2019",8.0000000,"","",0
+"959",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NI,Nicaragua,"NIC","2018",8.0000000,"","",0
+"960",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NI,Nicaragua,"NIC","2017",8.0000000,"","",0
+"961",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NE,Niger,"NER","2021",NA,"","",0
+"962",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NE,Niger,"NER","2020",NA,"","",0
+"963",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NE,Niger,"NER","2019",8.0000000,"","",0
+"964",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NE,Niger,"NER","2018",0.0000000,"","",0
+"965",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NE,Niger,"NER","2017",0.0000000,"","",0
+"966",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NG,Nigeria,"NGA","2021",NA,"","",0
+"967",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NG,Nigeria,"NGA","2020",NA,"","",0
+"968",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NG,Nigeria,"NGA","2019",8.0000000,"","",0
+"969",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NG,Nigeria,"NGA","2018",8.0000000,"","",0
+"970",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NG,Nigeria,"NGA","2017",8.0000000,"","",0
+"971",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MK,North Macedonia,"MKD","2021",NA,"","",0
+"972",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MK,North Macedonia,"MKD","2020",NA,"","",0
+"973",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MK,North Macedonia,"MKD","2019",7.0000000,"","",0
+"974",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MK,North Macedonia,"MKD","2018",7.0000000,"","",0
+"975",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MK,North Macedonia,"MKD","2017",7.0000000,"","",0
+"976",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MP,Northern Mariana Islands,"MNP","2021",NA,"","",0
+"977",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MP,Northern Mariana Islands,"MNP","2020",NA,"","",0
+"978",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MP,Northern Mariana Islands,"MNP","2019",NA,"","",0
+"979",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MP,Northern Mariana Islands,"MNP","2018",NA,"","",0
+"980",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MP,Northern Mariana Islands,"MNP","2017",NA,"","",0
+"981",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NO,Norway,"NOR","2021",NA,"","",0
+"982",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NO,Norway,"NOR","2020",NA,"","",0
+"983",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NO,Norway,"NOR","2019",6.0000000,"","",0
+"984",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NO,Norway,"NOR","2018",6.0000000,"","",0
+"985",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),NO,Norway,"NOR","2017",6.0000000,"","",0
+"986",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),OM,Oman,"OMN","2021",NA,"","",0
+"987",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),OM,Oman,"OMN","2020",NA,"","",0
+"988",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),OM,Oman,"OMN","2019",6.0000000,"","",0
+"989",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),OM,Oman,"OMN","2018",6.0000000,"","",0
+"990",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),OM,Oman,"OMN","2017",6.0000000,"","",0
+"991",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PK,Pakistan,"PAK","2021",NA,"","",0
+"992",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PK,Pakistan,"PAK","2020",NA,"","",0
+"993",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PK,Pakistan,"PAK","2019",7.0000000,"","",0
+"994",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PK,Pakistan,"PAK","2018",7.0000000,"","",0
+"995",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PK,Pakistan,"PAK","2017",7.0000000,"","",0
+"996",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PW,Palau,"PLW","2021",NA,"","",0
+"997",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PW,Palau,"PLW","2020",NA,"","",0
+"998",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PW,Palau,"PLW","2019",0.0000000,"","",0
+"999",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PW,Palau,"PLW","2018",0.0000000,"","",0
+"1000",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PW,Palau,"PLW","2017",0.0000000,"","",0
+"1001",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PA,Panama,"PAN","2021",NA,"","",0
+"1002",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PA,Panama,"PAN","2020",NA,"","",0
+"1003",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PA,Panama,"PAN","2019",8.0000000,"","",0
+"1004",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PA,Panama,"PAN","2018",8.0000000,"","",0
+"1005",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PA,Panama,"PAN","2017",8.0000000,"","",0
+"1006",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PG,Papua New Guinea,"PNG","2021",NA,"","",0
+"1007",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PG,Papua New Guinea,"PNG","2020",NA,"","",0
+"1008",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PG,Papua New Guinea,"PNG","2019",5.0000000,"","",0
+"1009",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PG,Papua New Guinea,"PNG","2018",5.0000000,"","",0
+"1010",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PG,Papua New Guinea,"PNG","2017",5.0000000,"","",0
+"1011",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PY,Paraguay,"PRY","2021",NA,"","",0
+"1012",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PY,Paraguay,"PRY","2020",NA,"","",0
+"1013",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PY,Paraguay,"PRY","2019",7.0000000,"","",0
+"1014",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PY,Paraguay,"PRY","2018",7.0000000,"","",0
+"1015",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PY,Paraguay,"PRY","2017",7.0000000,"","",0
+"1016",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PE,Peru,"PER","2021",NA,"","",0
+"1017",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PE,Peru,"PER","2020",NA,"","",0
+"1018",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PE,Peru,"PER","2019",8.0000000,"","",0
+"1019",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PE,Peru,"PER","2018",8.0000000,"","",0
+"1020",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PE,Peru,"PER","2017",8.0000000,"","",0
+"1021",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PH,Philippines,"PHL","2021",NA,"","",0
+"1022",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PH,Philippines,"PHL","2020",NA,"","",0
+"1023",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PH,Philippines,"PHL","2019",7.0000000,"","",0
+"1024",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PH,Philippines,"PHL","2018",7.0000000,"","",0
+"1025",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PH,Philippines,"PHL","2017",7.0000000,"","",0
+"1026",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PL,Poland,"POL","2021",NA,"","",0
+"1027",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PL,Poland,"POL","2020",NA,"","",0
+"1028",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PL,Poland,"POL","2019",8.0000000,"","",0
+"1029",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PL,Poland,"POL","2018",8.0000000,"","",0
+"1030",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PL,Poland,"POL","2017",8.0000000,"","",0
+"1031",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PT,Portugal,"PRT","2021",NA,"","",0
+"1032",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PT,Portugal,"PRT","2020",NA,"","",0
+"1033",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PT,Portugal,"PRT","2019",7.0000000,"","",0
+"1034",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PT,Portugal,"PRT","2018",7.0000000,"","",0
+"1035",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PT,Portugal,"PRT","2017",7.0000000,"","",0
+"1036",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PR,Puerto Rico,"PRI","2021",NA,"","",0
+"1037",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PR,Puerto Rico,"PRI","2020",NA,"","",0
+"1038",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PR,Puerto Rico,"PRI","2019",7.0000000,"","",0
+"1039",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PR,Puerto Rico,"PRI","2018",7.0000000,"","",0
+"1040",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PR,Puerto Rico,"PRI","2017",7.0000000,"","",0
+"1041",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),QA,Qatar,"QAT","2021",NA,"","",0
+"1042",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),QA,Qatar,"QAT","2020",NA,"","",0
+"1043",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),QA,Qatar,"QAT","2019",8.0000000,"","",0
+"1044",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),QA,Qatar,"QAT","2018",7.0000000,"","",0
+"1045",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),QA,Qatar,"QAT","2017",6.0000000,"","",0
+"1046",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RO,Romania,"ROU","2021",NA,"","",0
+"1047",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RO,Romania,"ROU","2020",NA,"","",0
+"1048",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RO,Romania,"ROU","2019",7.0000000,"","",0
+"1049",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RO,Romania,"ROU","2018",7.0000000,"","",0
+"1050",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RO,Romania,"ROU","2017",7.0000000,"","",0
+"1051",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RU,Russian Federation,"RUS","2021",NA,"","",0
+"1052",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RU,Russian Federation,"RUS","2020",NA,"","",0
+"1053",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RU,Russian Federation,"RUS","2019",7.0000000,"","",0
+"1054",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RU,Russian Federation,"RUS","2018",7.0000000,"","",0
+"1055",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RU,Russian Federation,"RUS","2017",7.0000000,"","",0
+"1056",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RW,Rwanda,"RWA","2021",NA,"","",0
+"1057",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RW,Rwanda,"RWA","2020",NA,"","",0
+"1058",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RW,Rwanda,"RWA","2019",8.0000000,"","",0
+"1059",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RW,Rwanda,"RWA","2018",8.0000000,"","",0
+"1060",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RW,Rwanda,"RWA","2017",8.0000000,"","",0
+"1061",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),WS,Samoa,"WSM","2021",NA,"","",0
+"1062",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),WS,Samoa,"WSM","2020",NA,"","",0
+"1063",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),WS,Samoa,"WSM","2019",0.0000000,"","",0
+"1064",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),WS,Samoa,"WSM","2018",0.0000000,"","",0
+"1065",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),WS,Samoa,"WSM","2017",0.0000000,"","",0
+"1066",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SM,San Marino,"SMR","2021",NA,"","",0
+"1067",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SM,San Marino,"SMR","2020",NA,"","",0
+"1068",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SM,San Marino,"SMR","2019",5.0000000,"","",0
+"1069",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SM,San Marino,"SMR","2018",5.0000000,"","",0
+"1070",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SM,San Marino,"SMR","2017",0.0000000,"","",0
+"1071",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ST,Sao Tome and Principe,"STP","2021",NA,"","",0
+"1072",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ST,Sao Tome and Principe,"STP","2020",NA,"","",0
+"1073",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ST,Sao Tome and Principe,"STP","2019",5.0000000,"","",0
+"1074",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ST,Sao Tome and Principe,"STP","2018",5.0000000,"","",0
+"1075",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ST,Sao Tome and Principe,"STP","2017",5.0000000,"","",0
+"1076",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SA,Saudi Arabia,"SAU","2021",NA,"","",0
+"1077",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SA,Saudi Arabia,"SAU","2020",NA,"","",0
+"1078",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SA,Saudi Arabia,"SAU","2019",8.0000000,"","",0
+"1079",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SA,Saudi Arabia,"SAU","2018",8.0000000,"","",0
+"1080",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SA,Saudi Arabia,"SAU","2017",8.0000000,"","",0
+"1081",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SN,Senegal,"SEN","2021",NA,"","",0
+"1082",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SN,Senegal,"SEN","2020",NA,"","",0
+"1083",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SN,Senegal,"SEN","2019",7.0000000,"","",0
+"1084",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SN,Senegal,"SEN","2018",0.0000000,"","",0
+"1085",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SN,Senegal,"SEN","2017",0.0000000,"","",0
+"1086",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RS,Serbia,"SRB","2021",NA,"","",0
+"1087",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RS,Serbia,"SRB","2020",NA,"","",0
+"1088",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RS,Serbia,"SRB","2019",7.0000000,"","",0
+"1089",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RS,Serbia,"SRB","2018",7.0000000,"","",0
+"1090",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),RS,Serbia,"SRB","2017",7.0000000,"","",0
+"1091",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SC,Seychelles,"SYC","2021",NA,"","",0
+"1092",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SC,Seychelles,"SYC","2020",NA,"","",0
+"1093",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SC,Seychelles,"SYC","2019",5.0000000,"","",0
+"1094",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SC,Seychelles,"SYC","2018",5.0000000,"","",0
+"1095",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SC,Seychelles,"SYC","2017",5.0000000,"","",0
+"1096",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SL,Sierra Leone,"SLE","2021",NA,"","",0
+"1097",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SL,Sierra Leone,"SLE","2020",NA,"","",0
+"1098",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SL,Sierra Leone,"SLE","2019",0.0000000,"","",0
+"1099",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SL,Sierra Leone,"SLE","2018",0.0000000,"","",0
+"1100",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SL,Sierra Leone,"SLE","2017",0.0000000,"","",0
+"1101",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SG,Singapore,"SGP","2021",NA,"","",0
+"1102",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SG,Singapore,"SGP","2020",NA,"","",0
+"1103",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SG,Singapore,"SGP","2019",7.0000000,"","",0
+"1104",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SG,Singapore,"SGP","2018",7.0000000,"","",0
+"1105",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SG,Singapore,"SGP","2017",7.0000000,"","",0
+"1106",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SX,Sint Maarten (Dutch part),"SXM","2021",NA,"","",0
+"1107",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SX,Sint Maarten (Dutch part),"SXM","2020",NA,"","",0
+"1108",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SX,Sint Maarten (Dutch part),"SXM","2019",NA,"","",0
+"1109",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SX,Sint Maarten (Dutch part),"SXM","2018",NA,"","",0
+"1110",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SX,Sint Maarten (Dutch part),"SXM","2017",NA,"","",0
+"1111",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SK,Slovak Republic,"SVK","2021",NA,"","",0
+"1112",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SK,Slovak Republic,"SVK","2020",NA,"","",0
+"1113",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SK,Slovak Republic,"SVK","2019",7.0000000,"","",0
+"1114",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SK,Slovak Republic,"SVK","2018",7.0000000,"","",0
+"1115",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SK,Slovak Republic,"SVK","2017",7.0000000,"","",0
+"1116",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SI,Slovenia,"SVN","2021",NA,"","",0
+"1117",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SI,Slovenia,"SVN","2020",NA,"","",0
+"1118",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SI,Slovenia,"SVN","2019",6.0000000,"","",0
+"1119",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SI,Slovenia,"SVN","2018",6.0000000,"","",0
+"1120",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SI,Slovenia,"SVN","2017",6.0000000,"","",0
+"1121",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SB,Solomon Islands,"SLB","2021",NA,"","",0
+"1122",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SB,Solomon Islands,"SLB","2020",NA,"","",0
+"1123",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SB,Solomon Islands,"SLB","2019",0.0000000,"","",0
+"1124",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SB,Solomon Islands,"SLB","2018",0.0000000,"","",0
+"1125",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SB,Solomon Islands,"SLB","2017",0.0000000,"","",0
+"1126",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SO,Somalia,"SOM","2021",NA,"","",0
+"1127",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SO,Somalia,"SOM","2020",NA,"","",0
+"1128",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SO,Somalia,"SOM","2019",0.0000000,"","",0
+"1129",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SO,Somalia,"SOM","2018",0.0000000,"","",0
+"1130",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SO,Somalia,"SOM","2017",0.0000000,"","",0
+"1131",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZA,South Africa,"ZAF","2021",NA,"","",0
+"1132",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZA,South Africa,"ZAF","2020",NA,"","",0
+"1133",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZA,South Africa,"ZAF","2019",7.0000000,"","",0
+"1134",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZA,South Africa,"ZAF","2018",7.0000000,"","",0
+"1135",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZA,South Africa,"ZAF","2017",7.0000000,"","",0
+"1136",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SS,South Sudan,"SSD","2021",NA,"","",0
+"1137",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SS,South Sudan,"SSD","2020",NA,"","",0
+"1138",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SS,South Sudan,"SSD","2019",0.0000000,"","",0
+"1139",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SS,South Sudan,"SSD","2018",0.0000000,"","",0
+"1140",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SS,South Sudan,"SSD","2017",0.0000000,"","",0
+"1141",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ES,Spain,"ESP","2021",NA,"","",0
+"1142",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ES,Spain,"ESP","2020",NA,"","",0
+"1143",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ES,Spain,"ESP","2019",7.0000000,"","",0
+"1144",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ES,Spain,"ESP","2018",7.0000000,"","",0
+"1145",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ES,Spain,"ESP","2017",7.0000000,"","",0
+"1146",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LK,Sri Lanka,"LKA","2021",NA,"","",0
+"1147",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LK,Sri Lanka,"LKA","2020",NA,"","",0
+"1148",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LK,Sri Lanka,"LKA","2019",6.0000000,"","",0
+"1149",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LK,Sri Lanka,"LKA","2018",6.0000000,"","",0
+"1150",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LK,Sri Lanka,"LKA","2017",6.0000000,"","",0
+"1151",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KN,St. Kitts and Nevis,"KNA","2021",NA,"","",0
+"1152",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KN,St. Kitts and Nevis,"KNA","2020",NA,"","",0
+"1153",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KN,St. Kitts and Nevis,"KNA","2019",0.0000000,"","",0
+"1154",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KN,St. Kitts and Nevis,"KNA","2018",0.0000000,"","",0
+"1155",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),KN,St. Kitts and Nevis,"KNA","2017",0.0000000,"","",0
+"1156",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LC,St. Lucia,"LCA","2021",NA,"","",0
+"1157",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LC,St. Lucia,"LCA","2020",NA,"","",0
+"1158",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LC,St. Lucia,"LCA","2019",0.0000000,"","",0
+"1159",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LC,St. Lucia,"LCA","2018",0.0000000,"","",0
+"1160",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),LC,St. Lucia,"LCA","2017",0.0000000,"","",0
+"1161",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MF,St. Martin (French part),"MAF","2021",NA,"","",0
+"1162",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MF,St. Martin (French part),"MAF","2020",NA,"","",0
+"1163",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MF,St. Martin (French part),"MAF","2019",NA,"","",0
+"1164",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MF,St. Martin (French part),"MAF","2018",NA,"","",0
+"1165",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),MF,St. Martin (French part),"MAF","2017",NA,"","",0
+"1166",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VC,St. Vincent and the Grenadines,"VCT","2021",NA,"","",0
+"1167",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VC,St. Vincent and the Grenadines,"VCT","2020",NA,"","",0
+"1168",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VC,St. Vincent and the Grenadines,"VCT","2019",0.0000000,"","",0
+"1169",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VC,St. Vincent and the Grenadines,"VCT","2018",0.0000000,"","",0
+"1170",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VC,St. Vincent and the Grenadines,"VCT","2017",0.0000000,"","",0
+"1171",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SD,Sudan,"SDN","2021",NA,"","",0
+"1172",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SD,Sudan,"SDN","2020",NA,"","",0
+"1173",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SD,Sudan,"SDN","2019",0.0000000,"","",0
+"1174",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SD,Sudan,"SDN","2018",0.0000000,"","",0
+"1175",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SD,Sudan,"SDN","2017",0.0000000,"","",0
+"1176",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SR,Suriname,"SUR","2021",NA,"","",0
+"1177",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SR,Suriname,"SUR","2020",NA,"","",0
+"1178",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SR,Suriname,"SUR","2019",0.0000000,"","",0
+"1179",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SR,Suriname,"SUR","2018",0.0000000,"","",0
+"1180",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SR,Suriname,"SUR","2017",0.0000000,"","",0
+"1181",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SE,Sweden,"SWE","2021",NA,"","",0
+"1182",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SE,Sweden,"SWE","2020",NA,"","",0
+"1183",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SE,Sweden,"SWE","2019",5.0000000,"","",0
+"1184",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SE,Sweden,"SWE","2018",5.0000000,"","",0
+"1185",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SE,Sweden,"SWE","2017",5.0000000,"","",0
+"1186",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CH,Switzerland,"CHE","2021",NA,"","",0
+"1187",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CH,Switzerland,"CHE","2020",NA,"","",0
+"1188",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CH,Switzerland,"CHE","2019",7.0000000,"","",0
+"1189",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CH,Switzerland,"CHE","2018",7.0000000,"","",0
+"1190",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),CH,Switzerland,"CHE","2017",7.0000000,"","",0
+"1191",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SY,Syrian Arab Republic,"SYR","2021",NA,"","",0
+"1192",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SY,Syrian Arab Republic,"SYR","2020",NA,"","",0
+"1193",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SY,Syrian Arab Republic,"SYR","2019",2.0000000,"","",0
+"1194",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SY,Syrian Arab Republic,"SYR","2018",2.0000000,"","",0
+"1195",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),SY,Syrian Arab Republic,"SYR","2017",2.0000000,"","",0
+"1196",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TJ,Tajikistan,"TJK","2021",NA,"","",0
+"1197",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TJ,Tajikistan,"TJK","2020",NA,"","",0
+"1198",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TJ,Tajikistan,"TJK","2019",7.0000000,"","",0
+"1199",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TJ,Tajikistan,"TJK","2018",7.0000000,"","",0
+"1200",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TJ,Tajikistan,"TJK","2017",7.0000000,"","",0
+"1201",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TZ,Tanzania,"TZA","2021",NA,"","",0
+"1202",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TZ,Tanzania,"TZA","2020",NA,"","",0
+"1203",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TZ,Tanzania,"TZA","2019",8.0000000,"","",0
+"1204",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TZ,Tanzania,"TZA","2018",8.0000000,"","",0
+"1205",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TZ,Tanzania,"TZA","2017",8.0000000,"","",0
+"1206",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TH,Thailand,"THA","2021",NA,"","",0
+"1207",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TH,Thailand,"THA","2020",NA,"","",0
+"1208",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TH,Thailand,"THA","2019",7.0000000,"","",0
+"1209",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TH,Thailand,"THA","2018",7.0000000,"","",0
+"1210",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TH,Thailand,"THA","2017",7.0000000,"","",0
+"1211",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TL,Timor-Leste,"TLS","2021",NA,"","",0
+"1212",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TL,Timor-Leste,"TLS","2020",NA,"","",0
+"1213",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TL,Timor-Leste,"TLS","2019",4.0000000,"","",0
+"1214",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TL,Timor-Leste,"TLS","2018",4.0000000,"","",0
+"1215",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TL,Timor-Leste,"TLS","2017",4.0000000,"","",0
+"1216",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TG,Togo,"TGO","2021",NA,"","",0
+"1217",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TG,Togo,"TGO","2020",NA,"","",0
+"1218",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TG,Togo,"TGO","2019",8.0000000,"","",0
+"1219",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TG,Togo,"TGO","2018",0.0000000,"","",0
+"1220",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TG,Togo,"TGO","2017",0.0000000,"","",0
+"1221",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TO,Tonga,"TON","2021",NA,"","",0
+"1222",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TO,Tonga,"TON","2020",NA,"","",0
+"1223",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TO,Tonga,"TON","2019",4.0000000,"","",0
+"1224",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TO,Tonga,"TON","2018",4.0000000,"","",0
+"1225",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TO,Tonga,"TON","2017",4.0000000,"","",0
+"1226",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TT,Trinidad and Tobago,"TTO","2021",NA,"","",0
+"1227",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TT,Trinidad and Tobago,"TTO","2020",NA,"","",0
+"1228",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TT,Trinidad and Tobago,"TTO","2019",6.0000000,"","",0
+"1229",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TT,Trinidad and Tobago,"TTO","2018",6.0000000,"","",0
+"1230",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TT,Trinidad and Tobago,"TTO","2017",6.0000000,"","",0
+"1231",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TN,Tunisia,"TUN","2021",NA,"","",0
+"1232",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TN,Tunisia,"TUN","2020",NA,"","",0
+"1233",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TN,Tunisia,"TUN","2019",7.0000000,"","",0
+"1234",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TN,Tunisia,"TUN","2018",7.0000000,"","",0
+"1235",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TN,Tunisia,"TUN","2017",7.0000000,"","",0
+"1236",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TR,Turkiye,"TUR","2021",NA,"","",0
+"1237",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TR,Turkiye,"TUR","2020",NA,"","",0
+"1238",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TR,Turkiye,"TUR","2019",8.0000000,"","",0
+"1239",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TR,Turkiye,"TUR","2018",8.0000000,"","",0
+"1240",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TR,Turkiye,"TUR","2017",7.0000000,"","",0
+"1241",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TM,Turkmenistan,"TKM","2021",NA,"","",0
+"1242",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TM,Turkmenistan,"TKM","2020",NA,"","",0
+"1243",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TM,Turkmenistan,"TKM","2019",NA,"","",0
+"1244",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TM,Turkmenistan,"TKM","2018",NA,"","",0
+"1245",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TM,Turkmenistan,"TKM","2017",NA,"","",0
+"1246",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TC,Turks and Caicos Islands,"TCA","2021",NA,"","",0
+"1247",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TC,Turks and Caicos Islands,"TCA","2020",NA,"","",0
+"1248",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TC,Turks and Caicos Islands,"TCA","2019",NA,"","",0
+"1249",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TC,Turks and Caicos Islands,"TCA","2018",NA,"","",0
+"1250",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TC,Turks and Caicos Islands,"TCA","2017",NA,"","",0
+"1251",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TV,Tuvalu,"TUV","2021",NA,"","",0
+"1252",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TV,Tuvalu,"TUV","2020",NA,"","",0
+"1253",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TV,Tuvalu,"TUV","2019",NA,"","",0
+"1254",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TV,Tuvalu,"TUV","2018",NA,"","",0
+"1255",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),TV,Tuvalu,"TUV","2017",NA,"","",0
+"1256",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UG,Uganda,"UGA","2021",NA,"","",0
+"1257",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UG,Uganda,"UGA","2020",NA,"","",0
+"1258",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UG,Uganda,"UGA","2019",7.0000000,"","",0
+"1259",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UG,Uganda,"UGA","2018",7.0000000,"","",0
+"1260",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UG,Uganda,"UGA","2017",7.0000000,"","",0
+"1261",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UA,Ukraine,"UKR","2021",NA,"","",0
+"1262",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UA,Ukraine,"UKR","2020",NA,"","",0
+"1263",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UA,Ukraine,"UKR","2019",7.0000000,"","",0
+"1264",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UA,Ukraine,"UKR","2018",7.0000000,"","",0
+"1265",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UA,Ukraine,"UKR","2017",7.0000000,"","",0
+"1266",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AE,United Arab Emirates,"ARE","2021",NA,"","",0
+"1267",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AE,United Arab Emirates,"ARE","2020",NA,"","",0
+"1268",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AE,United Arab Emirates,"ARE","2019",8.0000000,"","",0
+"1269",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AE,United Arab Emirates,"ARE","2018",8.0000000,"","",0
+"1270",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),AE,United Arab Emirates,"ARE","2017",8.0000000,"","",0
+"1271",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GB,United Kingdom,"GBR","2021",NA,"","",0
+"1272",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GB,United Kingdom,"GBR","2020",NA,"","",0
+"1273",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GB,United Kingdom,"GBR","2019",8.0000000,"","",0
+"1274",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GB,United Kingdom,"GBR","2018",8.0000000,"","",0
+"1275",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),GB,United Kingdom,"GBR","2017",8.0000000,"","",0
+"1276",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),US,United States,"USA","2021",NA,"","",0
+"1277",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),US,United States,"USA","2020",NA,"","",0
+"1278",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),US,United States,"USA","2019",8.0000000,"","",0
+"1279",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),US,United States,"USA","2018",8.0000000,"","",0
+"1280",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),US,United States,"USA","2017",8.0000000,"","",0
+"1281",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UY,Uruguay,"URY","2021",NA,"","",0
+"1282",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UY,Uruguay,"URY","2020",NA,"","",0
+"1283",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UY,Uruguay,"URY","2019",8.0000000,"","",0
+"1284",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UY,Uruguay,"URY","2018",8.0000000,"","",0
+"1285",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UY,Uruguay,"URY","2017",8.0000000,"","",0
+"1286",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UZ,Uzbekistan,"UZB","2021",NA,"","",0
+"1287",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UZ,Uzbekistan,"UZB","2020",NA,"","",0
+"1288",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UZ,Uzbekistan,"UZB","2019",7.0000000,"","",0
+"1289",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UZ,Uzbekistan,"UZB","2018",7.0000000,"","",0
+"1290",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),UZ,Uzbekistan,"UZB","2017",7.0000000,"","",0
+"1291",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VU,Vanuatu,"VUT","2021",NA,"","",0
+"1292",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VU,Vanuatu,"VUT","2020",NA,"","",0
+"1293",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VU,Vanuatu,"VUT","2019",4.0000000,"","",0
+"1294",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VU,Vanuatu,"VUT","2018",4.0000000,"","",0
+"1295",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VU,Vanuatu,"VUT","2017",4.0000000,"","",0
+"1296",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VE,Venezuela, RB,"VEN","2021",NA,"","",0
+"1297",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VE,Venezuela, RB,"VEN","2020",NA,"","",0
+"1298",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VE,Venezuela, RB,"VEN","2019",7.0000000,"","",0
+"1299",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VE,Venezuela, RB,"VEN","2018",7.0000000,"","",0
+"1300",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VE,Venezuela, RB,"VEN","2017",7.0000000,"","",0
+"1301",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VN,Vietnam,"VNM","2021",NA,"","",0
+"1302",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VN,Vietnam,"VNM","2020",NA,"","",0
+"1303",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VN,Vietnam,"VNM","2019",8.0000000,"","",0
+"1304",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VN,Vietnam,"VNM","2018",7.0000000,"","",0
+"1305",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VN,Vietnam,"VNM","2017",7.0000000,"","",0
+"1306",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VI,Virgin Islands (U.S.),"VIR","2021",NA,"","",0
+"1307",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VI,Virgin Islands (U.S.),"VIR","2020",NA,"","",0
+"1308",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VI,Virgin Islands (U.S.),"VIR","2019",NA,"","",0
+"1309",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VI,Virgin Islands (U.S.),"VIR","2018",NA,"","",0
+"1310",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),VI,Virgin Islands (U.S.),"VIR","2017",NA,"","",0
+"1311",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PS,West Bank and Gaza,"PSE","2021",NA,"","",0
+"1312",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PS,West Bank and Gaza,"PSE","2020",NA,"","",0
+"1313",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PS,West Bank and Gaza,"PSE","2019",8.0000000,"","",0
+"1314",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PS,West Bank and Gaza,"PSE","2018",8.0000000,"","",0
+"1315",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),PS,West Bank and Gaza,"PSE","2017",8.0000000,"","",0
+"1316",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),YE,Yemen, Rep.,"YEM","2021",NA,"","",0
+"1317",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),YE,Yemen, Rep.,"YEM","2020",NA,"","",0
+"1318",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),YE,Yemen, Rep.,"YEM","2019",0.0000000,"","",0
+"1319",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),YE,Yemen, Rep.,"YEM","2018",0.0000000,"","",0
+"1320",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),YE,Yemen, Rep.,"YEM","2017",0.0000000,"","",0
+"1321",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZM,Zambia,"ZMB","2021",NA,"","",0
+"1322",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZM,Zambia,"ZMB","2020",NA,"","",0
+"1323",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZM,Zambia,"ZMB","2019",8.0000000,"","",0
+"1324",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZM,Zambia,"ZMB","2018",8.0000000,"","",0
+"1325",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZM,Zambia,"ZMB","2017",8.0000000,"","",0
+"1326",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZW,Zimbabwe,"ZWE","2021",NA,"","",0
+"1327",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZW,Zimbabwe,"ZWE","2020",NA,"","",0
+"1328",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZW,Zimbabwe,"ZWE","2019",7.0000000,"","",0
+"1329",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZW,Zimbabwe,"ZWE","2018",6.0000000,"","",0
+"1330",IC.CRD.INFO.XQ,Depth of credit information index (0=low to 8=high),ZW,Zimbabwe,"ZWE","2017",4.0000000,"","",0
