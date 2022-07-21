@@ -1,869 +1,869 @@
-"","indicator.id","indicator.value","country.id","country.value","countryiso3code","date","value","unit","obs_status","decimal"
-"1",GFDD.OI.06,5-bank asset concentration,,Least developed countries: UN classification,"","2020",NA,"","",1
-"2",GFDD.OI.06,5-bank asset concentration,,Least developed countries: UN classification,"","2019",NA,"","",1
-"3",GFDD.OI.06,5-bank asset concentration,,Least developed countries: UN classification,"","2018",NA,"","",1
-"4",GFDD.OI.06,5-bank asset concentration,,Least developed countries: UN classification,"","2017",NA,"","",1
-"5",GFDD.OI.06,5-bank asset concentration,,Small island developing states: UN classification,"","2020",NA,"","",1
-"6",GFDD.OI.06,5-bank asset concentration,,Small island developing states: UN classification,"","2019",NA,"","",1
-"7",GFDD.OI.06,5-bank asset concentration,,Small island developing states: UN classification,"","2018",NA,"","",1
-"8",GFDD.OI.06,5-bank asset concentration,,Small island developing states: UN classification,"","2017",NA,"","",1
-"9",GFDD.OI.06,5-bank asset concentration,AF,Afghanistan,"AFG","2020", 82.81706,"","",1
-"10",GFDD.OI.06,5-bank asset concentration,AF,Afghanistan,"AFG","2019", 84.24867,"","",1
-"11",GFDD.OI.06,5-bank asset concentration,AF,Afghanistan,"AFG","2018", 84.94463,"","",1
-"12",GFDD.OI.06,5-bank asset concentration,AF,Afghanistan,"AFG","2017", 79.24435,"","",1
-"13",GFDD.OI.06,5-bank asset concentration,AL,Albania,"ALB","2020",100.00000,"","",1
-"14",GFDD.OI.06,5-bank asset concentration,AL,Albania,"ALB","2019", 92.25414,"","",1
-"15",GFDD.OI.06,5-bank asset concentration,AL,Albania,"ALB","2018", 90.85117,"","",1
-"16",GFDD.OI.06,5-bank asset concentration,AL,Albania,"ALB","2017", 87.54324,"","",1
-"17",GFDD.OI.06,5-bank asset concentration,DZ,Algeria,"DZA","2020",NA,"","",1
-"18",GFDD.OI.06,5-bank asset concentration,DZ,Algeria,"DZA","2019", 89.29102,"","",1
-"19",GFDD.OI.06,5-bank asset concentration,DZ,Algeria,"DZA","2018", 88.59583,"","",1
-"20",GFDD.OI.06,5-bank asset concentration,DZ,Algeria,"DZA","2017", 87.81059,"","",1
-"21",GFDD.OI.06,5-bank asset concentration,AD,Andorra,"AND","2020",NA,"","",1
-"22",GFDD.OI.06,5-bank asset concentration,AD,Andorra,"AND","2019",NA,"","",1
-"23",GFDD.OI.06,5-bank asset concentration,AD,Andorra,"AND","2018",NA,"","",1
-"24",GFDD.OI.06,5-bank asset concentration,AD,Andorra,"AND","2017",NA,"","",1
-"25",GFDD.OI.06,5-bank asset concentration,AO,Angola,"AGO","2020", 81.05857,"","",1
-"26",GFDD.OI.06,5-bank asset concentration,AO,Angola,"AGO","2019", 80.88555,"","",1
-"27",GFDD.OI.06,5-bank asset concentration,AO,Angola,"AGO","2018", 81.13787,"","",1
-"28",GFDD.OI.06,5-bank asset concentration,AO,Angola,"AGO","2017", 81.06333,"","",1
-"29",GFDD.OI.06,5-bank asset concentration,AG,Antigua and Barbuda,"ATG","2020",NA,"","",1
-"30",GFDD.OI.06,5-bank asset concentration,AG,Antigua and Barbuda,"ATG","2019",NA,"","",1
-"31",GFDD.OI.06,5-bank asset concentration,AG,Antigua and Barbuda,"ATG","2018",NA,"","",1
-"32",GFDD.OI.06,5-bank asset concentration,AG,Antigua and Barbuda,"ATG","2017",NA,"","",1
-"33",GFDD.OI.06,5-bank asset concentration,AR,Argentina,"ARG","2020", 85.99086,"","",1
-"34",GFDD.OI.06,5-bank asset concentration,AR,Argentina,"ARG","2019", 78.12563,"","",1
-"35",GFDD.OI.06,5-bank asset concentration,AR,Argentina,"ARG","2018", 85.21113,"","",1
-"36",GFDD.OI.06,5-bank asset concentration,AR,Argentina,"ARG","2017", 82.63516,"","",1
-"37",GFDD.OI.06,5-bank asset concentration,AM,Armenia,"ARM","2020", 74.00671,"","",1
-"38",GFDD.OI.06,5-bank asset concentration,AM,Armenia,"ARM","2019", 68.81674,"","",1
-"39",GFDD.OI.06,5-bank asset concentration,AM,Armenia,"ARM","2018", 69.18681,"","",1
-"40",GFDD.OI.06,5-bank asset concentration,AM,Armenia,"ARM","2017", 68.32945,"","",1
-"41",GFDD.OI.06,5-bank asset concentration,AW,Aruba,"ABW","2020",NA,"","",1
-"42",GFDD.OI.06,5-bank asset concentration,AW,Aruba,"ABW","2019",NA,"","",1
-"43",GFDD.OI.06,5-bank asset concentration,AW,Aruba,"ABW","2018",NA,"","",1
-"44",GFDD.OI.06,5-bank asset concentration,AW,Aruba,"ABW","2017",NA,"","",1
-"45",GFDD.OI.06,5-bank asset concentration,AU,Australia,"AUS","2020",NA,"","",1
-"46",GFDD.OI.06,5-bank asset concentration,AU,Australia,"AUS","2019",NA,"","",1
-"47",GFDD.OI.06,5-bank asset concentration,AU,Australia,"AUS","2018",NA,"","",1
-"48",GFDD.OI.06,5-bank asset concentration,AU,Australia,"AUS","2017",NA,"","",1
-"49",GFDD.OI.06,5-bank asset concentration,AT,Austria,"AUT","2020", 95.23170,"","",1
-"50",GFDD.OI.06,5-bank asset concentration,AT,Austria,"AUT","2019", 90.05181,"","",1
-"51",GFDD.OI.06,5-bank asset concentration,AT,Austria,"AUT","2018", 90.00130,"","",1
-"52",GFDD.OI.06,5-bank asset concentration,AT,Austria,"AUT","2017", 83.78063,"","",1
-"53",GFDD.OI.06,5-bank asset concentration,AZ,Azerbaijan,"AZE","2020", 80.18478,"","",1
-"54",GFDD.OI.06,5-bank asset concentration,AZ,Azerbaijan,"AZE","2019", 72.59940,"","",1
-"55",GFDD.OI.06,5-bank asset concentration,AZ,Azerbaijan,"AZE","2018", 71.35409,"","",1
-"56",GFDD.OI.06,5-bank asset concentration,AZ,Azerbaijan,"AZE","2017", 72.90870,"","",1
-"57",GFDD.OI.06,5-bank asset concentration,BS,Bahamas, The,"BHS","2020", 88.08904,"","",1
-"58",GFDD.OI.06,5-bank asset concentration,BS,Bahamas, The,"BHS","2019", 83.71818,"","",1
-"59",GFDD.OI.06,5-bank asset concentration,BS,Bahamas, The,"BHS","2018", 80.54953,"","",1
-"60",GFDD.OI.06,5-bank asset concentration,BS,Bahamas, The,"BHS","2017", 82.05938,"","",1
-"61",GFDD.OI.06,5-bank asset concentration,BH,Bahrain,"BHR","2020", 98.98689,"","",1
-"62",GFDD.OI.06,5-bank asset concentration,BH,Bahrain,"BHR","2019", 97.91684,"","",1
-"63",GFDD.OI.06,5-bank asset concentration,BH,Bahrain,"BHR","2018", 97.77278,"","",1
-"64",GFDD.OI.06,5-bank asset concentration,BH,Bahrain,"BHR","2017", 97.57139,"","",1
-"65",GFDD.OI.06,5-bank asset concentration,BD,Bangladesh,"BGD","2020", 71.14885,"","",1
-"66",GFDD.OI.06,5-bank asset concentration,BD,Bangladesh,"BGD","2019", 71.47920,"","",1
-"67",GFDD.OI.06,5-bank asset concentration,BD,Bangladesh,"BGD","2018", 72.50465,"","",1
-"68",GFDD.OI.06,5-bank asset concentration,BD,Bangladesh,"BGD","2017", 69.53402,"","",1
-"69",GFDD.OI.06,5-bank asset concentration,BB,Barbados,"BRB","2020",NA,"","",1
-"70",GFDD.OI.06,5-bank asset concentration,BB,Barbados,"BRB","2019",NA,"","",1
-"71",GFDD.OI.06,5-bank asset concentration,BB,Barbados,"BRB","2018",NA,"","",1
-"72",GFDD.OI.06,5-bank asset concentration,BB,Barbados,"BRB","2017",NA,"","",1
-"73",GFDD.OI.06,5-bank asset concentration,BY,Belarus,"BLR","2020", 84.00661,"","",1
-"74",GFDD.OI.06,5-bank asset concentration,BY,Belarus,"BLR","2019", 81.39584,"","",1
-"75",GFDD.OI.06,5-bank asset concentration,BY,Belarus,"BLR","2018", 81.69176,"","",1
-"76",GFDD.OI.06,5-bank asset concentration,BY,Belarus,"BLR","2017", 81.73470,"","",1
-"77",GFDD.OI.06,5-bank asset concentration,BE,Belgium,"BEL","2020", 96.55070,"","",1
-"78",GFDD.OI.06,5-bank asset concentration,BE,Belgium,"BEL","2019", 94.05086,"","",1
-"79",GFDD.OI.06,5-bank asset concentration,BE,Belgium,"BEL","2018", 93.03181,"","",1
-"80",GFDD.OI.06,5-bank asset concentration,BE,Belgium,"BEL","2017", 93.84309,"","",1
-"81",GFDD.OI.06,5-bank asset concentration,BZ,Belize,"BLZ","2020",NA,"","",1
-"82",GFDD.OI.06,5-bank asset concentration,BZ,Belize,"BLZ","2019",NA,"","",1
-"83",GFDD.OI.06,5-bank asset concentration,BZ,Belize,"BLZ","2018",NA,"","",1
-"84",GFDD.OI.06,5-bank asset concentration,BZ,Belize,"BLZ","2017",NA,"","",1
-"85",GFDD.OI.06,5-bank asset concentration,BJ,Benin,"BEN","2020",NA,"","",1
-"86",GFDD.OI.06,5-bank asset concentration,BJ,Benin,"BEN","2019", 94.42752,"","",1
-"87",GFDD.OI.06,5-bank asset concentration,BJ,Benin,"BEN","2018", 94.53157,"","",1
-"88",GFDD.OI.06,5-bank asset concentration,BJ,Benin,"BEN","2017", 94.73975,"","",1
-"89",GFDD.OI.06,5-bank asset concentration,BM,Bermuda,"BMU","2020", 99.55172,"","",1
-"90",GFDD.OI.06,5-bank asset concentration,BM,Bermuda,"BMU","2019", 99.38570,"","",1
-"91",GFDD.OI.06,5-bank asset concentration,BM,Bermuda,"BMU","2018", 99.03819,"","",1
-"92",GFDD.OI.06,5-bank asset concentration,BM,Bermuda,"BMU","2017", 99.03661,"","",1
-"93",GFDD.OI.06,5-bank asset concentration,BT,Bhutan,"BTN","2020",NA,"","",1
-"94",GFDD.OI.06,5-bank asset concentration,BT,Bhutan,"BTN","2019",NA,"","",1
-"95",GFDD.OI.06,5-bank asset concentration,BT,Bhutan,"BTN","2018",NA,"","",1
-"96",GFDD.OI.06,5-bank asset concentration,BT,Bhutan,"BTN","2017",NA,"","",1
-"97",GFDD.OI.06,5-bank asset concentration,BO,Bolivia,"BOL","2020", 69.63822,"","",1
-"98",GFDD.OI.06,5-bank asset concentration,BO,Bolivia,"BOL","2019", 68.94660,"","",1
-"99",GFDD.OI.06,5-bank asset concentration,BO,Bolivia,"BOL","2018", 68.32669,"","",1
-"100",GFDD.OI.06,5-bank asset concentration,BO,Bolivia,"BOL","2017", 69.27301,"","",1
-"101",GFDD.OI.06,5-bank asset concentration,BA,Bosnia and Herzegovina,"BIH","2020", 58.37867,"","",1
-"102",GFDD.OI.06,5-bank asset concentration,BA,Bosnia and Herzegovina,"BIH","2019", 58.46542,"","",1
-"103",GFDD.OI.06,5-bank asset concentration,BA,Bosnia and Herzegovina,"BIH","2018", 58.79680,"","",1
-"104",GFDD.OI.06,5-bank asset concentration,BA,Bosnia and Herzegovina,"BIH","2017", 59.59690,"","",1
-"105",GFDD.OI.06,5-bank asset concentration,BW,Botswana,"BWA","2020",NA,"","",1
-"106",GFDD.OI.06,5-bank asset concentration,BW,Botswana,"BWA","2019",NA,"","",1
-"107",GFDD.OI.06,5-bank asset concentration,BW,Botswana,"BWA","2018",NA,"","",1
-"108",GFDD.OI.06,5-bank asset concentration,BW,Botswana,"BWA","2017",100.00000,"","",1
-"109",GFDD.OI.06,5-bank asset concentration,BR,Brazil,"BRA","2020", 87.37513,"","",1
-"110",GFDD.OI.06,5-bank asset concentration,BR,Brazil,"BRA","2019", 87.82420,"","",1
-"111",GFDD.OI.06,5-bank asset concentration,BR,Brazil,"BRA","2018", 87.90524,"","",1
-"112",GFDD.OI.06,5-bank asset concentration,BR,Brazil,"BRA","2017", 88.37627,"","",1
-"113",GFDD.OI.06,5-bank asset concentration,VG,British Virgin Islands,"VGB","2020",NA,"","",1
-"114",GFDD.OI.06,5-bank asset concentration,VG,British Virgin Islands,"VGB","2019",NA,"","",1
-"115",GFDD.OI.06,5-bank asset concentration,VG,British Virgin Islands,"VGB","2018",NA,"","",1
-"116",GFDD.OI.06,5-bank asset concentration,VG,British Virgin Islands,"VGB","2017",NA,"","",1
-"117",GFDD.OI.06,5-bank asset concentration,BN,Brunei Darussalam,"BRN","2020",NA,"","",1
-"118",GFDD.OI.06,5-bank asset concentration,BN,Brunei Darussalam,"BRN","2019",NA,"","",1
-"119",GFDD.OI.06,5-bank asset concentration,BN,Brunei Darussalam,"BRN","2018",NA,"","",1
-"120",GFDD.OI.06,5-bank asset concentration,BN,Brunei Darussalam,"BRN","2017",NA,"","",1
-"121",GFDD.OI.06,5-bank asset concentration,BG,Bulgaria,"BGR","2020",100.00000,"","",1
-"122",GFDD.OI.06,5-bank asset concentration,BG,Bulgaria,"BGR","2019",NA,"","",1
-"123",GFDD.OI.06,5-bank asset concentration,BG,Bulgaria,"BGR","2018",NA,"","",1
-"124",GFDD.OI.06,5-bank asset concentration,BG,Bulgaria,"BGR","2017",100.00000,"","",1
-"125",GFDD.OI.06,5-bank asset concentration,BF,Burkina Faso,"BFA","2020",NA,"","",1
-"126",GFDD.OI.06,5-bank asset concentration,BF,Burkina Faso,"BFA","2019", 75.56194,"","",1
-"127",GFDD.OI.06,5-bank asset concentration,BF,Burkina Faso,"BFA","2018", 76.03369,"","",1
-"128",GFDD.OI.06,5-bank asset concentration,BF,Burkina Faso,"BFA","2017", 76.87019,"","",1
-"129",GFDD.OI.06,5-bank asset concentration,BI,Burundi,"BDI","2020",100.00000,"","",1
-"130",GFDD.OI.06,5-bank asset concentration,BI,Burundi,"BDI","2019",100.00000,"","",1
-"131",GFDD.OI.06,5-bank asset concentration,BI,Burundi,"BDI","2018",100.00000,"","",1
-"132",GFDD.OI.06,5-bank asset concentration,BI,Burundi,"BDI","2017",NA,"","",1
-"133",GFDD.OI.06,5-bank asset concentration,CV,Cabo Verde,"CPV","2020",100.00000,"","",1
-"134",GFDD.OI.06,5-bank asset concentration,CV,Cabo Verde,"CPV","2019", 89.15407,"","",1
-"135",GFDD.OI.06,5-bank asset concentration,CV,Cabo Verde,"CPV","2018", 91.35999,"","",1
-"136",GFDD.OI.06,5-bank asset concentration,CV,Cabo Verde,"CPV","2017", 92.82292,"","",1
-"137",GFDD.OI.06,5-bank asset concentration,KH,Cambodia,"KHM","2020", 50.93784,"","",1
-"138",GFDD.OI.06,5-bank asset concentration,KH,Cambodia,"KHM","2019", 47.41277,"","",1
-"139",GFDD.OI.06,5-bank asset concentration,KH,Cambodia,"KHM","2018", 46.84494,"","",1
-"140",GFDD.OI.06,5-bank asset concentration,KH,Cambodia,"KHM","2017", 45.57068,"","",1
-"141",GFDD.OI.06,5-bank asset concentration,CM,Cameroon,"CMR","2020",NA,"","",1
-"142",GFDD.OI.06,5-bank asset concentration,CM,Cameroon,"CMR","2019", 81.86285,"","",1
-"143",GFDD.OI.06,5-bank asset concentration,CM,Cameroon,"CMR","2018", 76.06192,"","",1
-"144",GFDD.OI.06,5-bank asset concentration,CM,Cameroon,"CMR","2017", 77.50314,"","",1
-"145",GFDD.OI.06,5-bank asset concentration,CA,Canada,"CAN","2020", 84.51996,"","",1
-"146",GFDD.OI.06,5-bank asset concentration,CA,Canada,"CAN","2019", 84.21588,"","",1
-"147",GFDD.OI.06,5-bank asset concentration,CA,Canada,"CAN","2018", 84.16013,"","",1
-"148",GFDD.OI.06,5-bank asset concentration,CA,Canada,"CAN","2017", 83.52188,"","",1
-"149",GFDD.OI.06,5-bank asset concentration,KY,Cayman Islands,"CYM","2020",NA,"","",1
-"150",GFDD.OI.06,5-bank asset concentration,KY,Cayman Islands,"CYM","2019",NA,"","",1
-"151",GFDD.OI.06,5-bank asset concentration,KY,Cayman Islands,"CYM","2018",NA,"","",1
-"152",GFDD.OI.06,5-bank asset concentration,KY,Cayman Islands,"CYM","2017",NA,"","",1
-"153",GFDD.OI.06,5-bank asset concentration,CF,Central African Republic,"CAF","2020",NA,"","",1
-"154",GFDD.OI.06,5-bank asset concentration,CF,Central African Republic,"CAF","2019",NA,"","",1
-"155",GFDD.OI.06,5-bank asset concentration,CF,Central African Republic,"CAF","2018",NA,"","",1
-"156",GFDD.OI.06,5-bank asset concentration,CF,Central African Republic,"CAF","2017",NA,"","",1
-"157",GFDD.OI.06,5-bank asset concentration,TD,Chad,"TCD","2020",NA,"","",1
-"158",GFDD.OI.06,5-bank asset concentration,TD,Chad,"TCD","2019",NA,"","",1
-"159",GFDD.OI.06,5-bank asset concentration,TD,Chad,"TCD","2018",NA,"","",1
-"160",GFDD.OI.06,5-bank asset concentration,TD,Chad,"TCD","2017",NA,"","",1
-"161",GFDD.OI.06,5-bank asset concentration,zz,Channel Islands,"","2020",NA,"","",1
-"162",GFDD.OI.06,5-bank asset concentration,zz,Channel Islands,"","2019",NA,"","",1
-"163",GFDD.OI.06,5-bank asset concentration,zz,Channel Islands,"","2018",NA,"","",1
-"164",GFDD.OI.06,5-bank asset concentration,zz,Channel Islands,"","2017",NA,"","",1
-"165",GFDD.OI.06,5-bank asset concentration,CL,Chile,"CHL","2020", 86.84068,"","",1
-"166",GFDD.OI.06,5-bank asset concentration,CL,Chile,"CHL","2019", 76.76704,"","",1
-"167",GFDD.OI.06,5-bank asset concentration,CL,Chile,"CHL","2018", 76.67760,"","",1
-"168",GFDD.OI.06,5-bank asset concentration,CL,Chile,"CHL","2017", 82.55959,"","",1
-"169",GFDD.OI.06,5-bank asset concentration,CN,China,"CHN","2020", 54.79700,"","",1
-"170",GFDD.OI.06,5-bank asset concentration,CN,China,"CHN","2019", 54.68069,"","",1
-"171",GFDD.OI.06,5-bank asset concentration,CN,China,"CHN","2018", 54.88923,"","",1
-"172",GFDD.OI.06,5-bank asset concentration,CN,China,"CHN","2017", 54.87444,"","",1
-"173",GFDD.OI.06,5-bank asset concentration,CO,Colombia,"COL","2020", 77.53613,"","",1
-"174",GFDD.OI.06,5-bank asset concentration,CO,Colombia,"COL","2019", 84.80120,"","",1
-"175",GFDD.OI.06,5-bank asset concentration,CO,Colombia,"COL","2018", 84.72042,"","",1
-"176",GFDD.OI.06,5-bank asset concentration,CO,Colombia,"COL","2017", 98.42010,"","",1
-"177",GFDD.OI.06,5-bank asset concentration,KM,Comoros,"COM","2020",NA,"","",1
-"178",GFDD.OI.06,5-bank asset concentration,KM,Comoros,"COM","2019",NA,"","",1
-"179",GFDD.OI.06,5-bank asset concentration,KM,Comoros,"COM","2018",NA,"","",1
-"180",GFDD.OI.06,5-bank asset concentration,KM,Comoros,"COM","2017",NA,"","",1
-"181",GFDD.OI.06,5-bank asset concentration,CD,Congo, Dem. Rep.,"","2020",NA,"","",1
-"182",GFDD.OI.06,5-bank asset concentration,CD,Congo, Dem. Rep.,"","2019", 84.11263,"","",1
-"183",GFDD.OI.06,5-bank asset concentration,CD,Congo, Dem. Rep.,"","2018", 85.93163,"","",1
-"184",GFDD.OI.06,5-bank asset concentration,CD,Congo, Dem. Rep.,"","2017", 83.63755,"","",1
-"185",GFDD.OI.06,5-bank asset concentration,CG,Congo, Rep.,"COG","2020",NA,"","",1
-"186",GFDD.OI.06,5-bank asset concentration,CG,Congo, Rep.,"COG","2019",NA,"","",1
-"187",GFDD.OI.06,5-bank asset concentration,CG,Congo, Rep.,"COG","2018",NA,"","",1
-"188",GFDD.OI.06,5-bank asset concentration,CG,Congo, Rep.,"COG","2017",NA,"","",1
-"189",GFDD.OI.06,5-bank asset concentration,CR,Costa Rica,"CRI","2020", 79.81002,"","",1
-"190",GFDD.OI.06,5-bank asset concentration,CR,Costa Rica,"CRI","2019", 79.43169,"","",1
-"191",GFDD.OI.06,5-bank asset concentration,CR,Costa Rica,"CRI","2018", 79.80156,"","",1
-"192",GFDD.OI.06,5-bank asset concentration,CR,Costa Rica,"CRI","2017", 79.62980,"","",1
-"193",GFDD.OI.06,5-bank asset concentration,CI,Cote d'Ivoire,"CIV","2020", 74.64278,"","",1
-"194",GFDD.OI.06,5-bank asset concentration,CI,Cote d'Ivoire,"CIV","2019", 66.30106,"","",1
-"195",GFDD.OI.06,5-bank asset concentration,CI,Cote d'Ivoire,"CIV","2018", 65.17382,"","",1
-"196",GFDD.OI.06,5-bank asset concentration,CI,Cote d'Ivoire,"CIV","2017", 67.13667,"","",1
-"197",GFDD.OI.06,5-bank asset concentration,HR,Croatia,"HRV","2020", 85.05699,"","",1
-"198",GFDD.OI.06,5-bank asset concentration,HR,Croatia,"HRV","2019", 83.73935,"","",1
-"199",GFDD.OI.06,5-bank asset concentration,HR,Croatia,"HRV","2018", 81.49285,"","",1
-"200",GFDD.OI.06,5-bank asset concentration,HR,Croatia,"HRV","2017", 75.15767,"","",1
-"201",GFDD.OI.06,5-bank asset concentration,CU,Cuba,"CUB","2020",NA,"","",1
-"202",GFDD.OI.06,5-bank asset concentration,CU,Cuba,"CUB","2019",NA,"","",1
-"203",GFDD.OI.06,5-bank asset concentration,CU,Cuba,"CUB","2018",NA,"","",1
-"204",GFDD.OI.06,5-bank asset concentration,CU,Cuba,"CUB","2017",NA,"","",1
-"205",GFDD.OI.06,5-bank asset concentration,CW,Curaçao,"CUW","2020",100.00000,"","",1
-"206",GFDD.OI.06,5-bank asset concentration,CW,Curaçao,"CUW","2019",100.00000,"","",1
-"207",GFDD.OI.06,5-bank asset concentration,CW,Curaçao,"CUW","2018",100.00000,"","",1
-"208",GFDD.OI.06,5-bank asset concentration,CW,Curaçao,"CUW","2017",100.00000,"","",1
-"209",GFDD.OI.06,5-bank asset concentration,CY,Cyprus,"CYP","2020", 84.35620,"","",1
-"210",GFDD.OI.06,5-bank asset concentration,CY,Cyprus,"CYP","2019", 72.56513,"","",1
-"211",GFDD.OI.06,5-bank asset concentration,CY,Cyprus,"CYP","2018", 73.12721,"","",1
-"212",GFDD.OI.06,5-bank asset concentration,CY,Cyprus,"CYP","2017", 72.05534,"","",1
-"213",GFDD.OI.06,5-bank asset concentration,CZ,Czech Republic,"CZE","2020", 82.52970,"","",1
-"214",GFDD.OI.06,5-bank asset concentration,CZ,Czech Republic,"CZE","2019", 82.36193,"","",1
-"215",GFDD.OI.06,5-bank asset concentration,CZ,Czech Republic,"CZE","2018", 85.02383,"","",1
-"216",GFDD.OI.06,5-bank asset concentration,CZ,Czech Republic,"CZE","2017", 83.57443,"","",1
-"217",GFDD.OI.06,5-bank asset concentration,DK,Denmark,"DNK","2020", 80.02422,"","",1
-"218",GFDD.OI.06,5-bank asset concentration,DK,Denmark,"DNK","2019", 78.26085,"","",1
-"219",GFDD.OI.06,5-bank asset concentration,DK,Denmark,"DNK","2018", 78.88039,"","",1
-"220",GFDD.OI.06,5-bank asset concentration,DK,Denmark,"DNK","2017", 77.69116,"","",1
-"221",GFDD.OI.06,5-bank asset concentration,DJ,Djibouti,"DJI","2020",NA,"","",1
-"222",GFDD.OI.06,5-bank asset concentration,DJ,Djibouti,"DJI","2019",NA,"","",1
-"223",GFDD.OI.06,5-bank asset concentration,DJ,Djibouti,"DJI","2018",NA,"","",1
-"224",GFDD.OI.06,5-bank asset concentration,DJ,Djibouti,"DJI","2017",NA,"","",1
-"225",GFDD.OI.06,5-bank asset concentration,DM,Dominica,"DMA","2020",NA,"","",1
-"226",GFDD.OI.06,5-bank asset concentration,DM,Dominica,"DMA","2019",NA,"","",1
-"227",GFDD.OI.06,5-bank asset concentration,DM,Dominica,"DMA","2018",NA,"","",1
-"228",GFDD.OI.06,5-bank asset concentration,DM,Dominica,"DMA","2017",NA,"","",1
-"229",GFDD.OI.06,5-bank asset concentration,DO,Dominican Republic,"DOM","2020", 86.00134,"","",1
-"230",GFDD.OI.06,5-bank asset concentration,DO,Dominican Republic,"DOM","2019", 84.99326,"","",1
-"231",GFDD.OI.06,5-bank asset concentration,DO,Dominican Republic,"DOM","2018", 84.66656,"","",1
-"232",GFDD.OI.06,5-bank asset concentration,DO,Dominican Republic,"DOM","2017", 84.51462,"","",1
-"233",GFDD.OI.06,5-bank asset concentration,EC,Ecuador,"ECU","2020", 90.71394,"","",1
-"234",GFDD.OI.06,5-bank asset concentration,EC,Ecuador,"ECU","2019", 90.78689,"","",1
-"235",GFDD.OI.06,5-bank asset concentration,EC,Ecuador,"ECU","2018", 92.05879,"","",1
-"236",GFDD.OI.06,5-bank asset concentration,EC,Ecuador,"ECU","2017", 92.12662,"","",1
-"237",GFDD.OI.06,5-bank asset concentration,EG,Egypt, Arab Rep.,"EGY","2020", 88.75202,"","",1
-"238",GFDD.OI.06,5-bank asset concentration,EG,Egypt, Arab Rep.,"EGY","2019", 83.96680,"","",1
-"239",GFDD.OI.06,5-bank asset concentration,EG,Egypt, Arab Rep.,"EGY","2018", 83.65858,"","",1
-"240",GFDD.OI.06,5-bank asset concentration,EG,Egypt, Arab Rep.,"EGY","2017", 83.89550,"","",1
-"241",GFDD.OI.06,5-bank asset concentration,SV,El Salvador,"SLV","2020", 94.78979,"","",1
-"242",GFDD.OI.06,5-bank asset concentration,SV,El Salvador,"SLV","2019", 91.33926,"","",1
-"243",GFDD.OI.06,5-bank asset concentration,SV,El Salvador,"SLV","2018", 90.86177,"","",1
-"244",GFDD.OI.06,5-bank asset concentration,SV,El Salvador,"SLV","2017", 91.42452,"","",1
-"245",GFDD.OI.06,5-bank asset concentration,GQ,Equatorial Guinea,"GNQ","2020",NA,"","",1
-"246",GFDD.OI.06,5-bank asset concentration,GQ,Equatorial Guinea,"GNQ","2019",NA,"","",1
-"247",GFDD.OI.06,5-bank asset concentration,GQ,Equatorial Guinea,"GNQ","2018",NA,"","",1
-"248",GFDD.OI.06,5-bank asset concentration,GQ,Equatorial Guinea,"GNQ","2017",NA,"","",1
-"249",GFDD.OI.06,5-bank asset concentration,ER,Eritrea,"ERI","2020",NA,"","",1
-"250",GFDD.OI.06,5-bank asset concentration,ER,Eritrea,"ERI","2019",NA,"","",1
-"251",GFDD.OI.06,5-bank asset concentration,ER,Eritrea,"ERI","2018",NA,"","",1
-"252",GFDD.OI.06,5-bank asset concentration,ER,Eritrea,"ERI","2017",NA,"","",1
-"253",GFDD.OI.06,5-bank asset concentration,EE,Estonia,"EST","2020",100.00000,"","",1
-"254",GFDD.OI.06,5-bank asset concentration,EE,Estonia,"EST","2019",100.00000,"","",1
-"255",GFDD.OI.06,5-bank asset concentration,EE,Estonia,"EST","2018",100.00000,"","",1
-"256",GFDD.OI.06,5-bank asset concentration,EE,Estonia,"EST","2017", 97.51958,"","",1
-"257",GFDD.OI.06,5-bank asset concentration,SZ,Eswatini,"SWZ","2020",NA,"","",1
-"258",GFDD.OI.06,5-bank asset concentration,SZ,Eswatini,"SWZ","2019",NA,"","",1
-"259",GFDD.OI.06,5-bank asset concentration,SZ,Eswatini,"SWZ","2018",NA,"","",1
-"260",GFDD.OI.06,5-bank asset concentration,SZ,Eswatini,"SWZ","2017",NA,"","",1
-"261",GFDD.OI.06,5-bank asset concentration,ET,Ethiopia,"ETH","2020", 69.93847,"","",1
-"262",GFDD.OI.06,5-bank asset concentration,ET,Ethiopia,"ETH","2019", 67.69099,"","",1
-"263",GFDD.OI.06,5-bank asset concentration,ET,Ethiopia,"ETH","2018", 67.72036,"","",1
-"264",GFDD.OI.06,5-bank asset concentration,ET,Ethiopia,"ETH","2017", 68.87475,"","",1
-"265",GFDD.OI.06,5-bank asset concentration,FO,Faroe Islands,"FRO","2020",NA,"","",1
-"266",GFDD.OI.06,5-bank asset concentration,FO,Faroe Islands,"FRO","2019",NA,"","",1
-"267",GFDD.OI.06,5-bank asset concentration,FO,Faroe Islands,"FRO","2018",NA,"","",1
-"268",GFDD.OI.06,5-bank asset concentration,FO,Faroe Islands,"FRO","2017",NA,"","",1
-"269",GFDD.OI.06,5-bank asset concentration,FJ,Fiji,"FJI","2020",NA,"","",1
-"270",GFDD.OI.06,5-bank asset concentration,FJ,Fiji,"FJI","2019",100.00000,"","",1
-"271",GFDD.OI.06,5-bank asset concentration,FJ,Fiji,"FJI","2018",100.00000,"","",1
-"272",GFDD.OI.06,5-bank asset concentration,FJ,Fiji,"FJI","2017",100.00000,"","",1
-"273",GFDD.OI.06,5-bank asset concentration,FI,Finland,"FIN","2020", 94.90811,"","",1
-"274",GFDD.OI.06,5-bank asset concentration,FI,Finland,"FIN","2019", 93.89262,"","",1
-"275",GFDD.OI.06,5-bank asset concentration,FI,Finland,"FIN","2018", 93.50617,"","",1
-"276",GFDD.OI.06,5-bank asset concentration,FI,Finland,"FIN","2017", 92.81166,"","",1
-"277",GFDD.OI.06,5-bank asset concentration,FR,France,"FRA","2020", 85.36097,"","",1
-"278",GFDD.OI.06,5-bank asset concentration,FR,France,"FRA","2019", 82.06725,"","",1
-"279",GFDD.OI.06,5-bank asset concentration,FR,France,"FRA","2018", 82.19890,"","",1
-"280",GFDD.OI.06,5-bank asset concentration,FR,France,"FRA","2017", 79.14206,"","",1
-"281",GFDD.OI.06,5-bank asset concentration,PF,French Polynesia,"PYF","2020",NA,"","",1
-"282",GFDD.OI.06,5-bank asset concentration,PF,French Polynesia,"PYF","2019",NA,"","",1
-"283",GFDD.OI.06,5-bank asset concentration,PF,French Polynesia,"PYF","2018",NA,"","",1
-"284",GFDD.OI.06,5-bank asset concentration,PF,French Polynesia,"PYF","2017",NA,"","",1
-"285",GFDD.OI.06,5-bank asset concentration,GA,Gabon,"GAB","2020",NA,"","",1
-"286",GFDD.OI.06,5-bank asset concentration,GA,Gabon,"GAB","2019",NA,"","",1
-"287",GFDD.OI.06,5-bank asset concentration,GA,Gabon,"GAB","2018",100.00000,"","",1
-"288",GFDD.OI.06,5-bank asset concentration,GA,Gabon,"GAB","2017",100.00000,"","",1
-"289",GFDD.OI.06,5-bank asset concentration,GM,Gambia, The,"GMB","2020",NA,"","",1
-"290",GFDD.OI.06,5-bank asset concentration,GM,Gambia, The,"GMB","2019",100.00000,"","",1
-"291",GFDD.OI.06,5-bank asset concentration,GM,Gambia, The,"GMB","2018",100.00000,"","",1
-"292",GFDD.OI.06,5-bank asset concentration,GM,Gambia, The,"GMB","2017",NA,"","",1
-"293",GFDD.OI.06,5-bank asset concentration,GE,Georgia,"GEO","2020", 98.67600,"","",1
-"294",GFDD.OI.06,5-bank asset concentration,GE,Georgia,"GEO","2019", 95.01186,"","",1
-"295",GFDD.OI.06,5-bank asset concentration,GE,Georgia,"GEO","2018", 94.80814,"","",1
-"296",GFDD.OI.06,5-bank asset concentration,GE,Georgia,"GEO","2017", 94.45494,"","",1
-"297",GFDD.OI.06,5-bank asset concentration,DE,Germany,"DEU","2020", 99.85282,"","",1
-"298",GFDD.OI.06,5-bank asset concentration,DE,Germany,"DEU","2019", 88.96822,"","",1
-"299",GFDD.OI.06,5-bank asset concentration,DE,Germany,"DEU","2018", 91.18978,"","",1
-"300",GFDD.OI.06,5-bank asset concentration,DE,Germany,"DEU","2017", 93.15964,"","",1
-"301",GFDD.OI.06,5-bank asset concentration,GH,Ghana,"GHA","2020", 63.72788,"","",1
-"302",GFDD.OI.06,5-bank asset concentration,GH,Ghana,"GHA","2019", 61.97347,"","",1
-"303",GFDD.OI.06,5-bank asset concentration,GH,Ghana,"GHA","2018", 63.23750,"","",1
-"304",GFDD.OI.06,5-bank asset concentration,GH,Ghana,"GHA","2017", 62.79992,"","",1
-"305",GFDD.OI.06,5-bank asset concentration,GI,Gibraltar,"GIB","2020",NA,"","",1
-"306",GFDD.OI.06,5-bank asset concentration,GI,Gibraltar,"GIB","2019",NA,"","",1
-"307",GFDD.OI.06,5-bank asset concentration,GI,Gibraltar,"GIB","2018",NA,"","",1
-"308",GFDD.OI.06,5-bank asset concentration,GI,Gibraltar,"GIB","2017",NA,"","",1
-"309",GFDD.OI.06,5-bank asset concentration,GR,Greece,"GRC","2020",NA,"","",1
-"310",GFDD.OI.06,5-bank asset concentration,GR,Greece,"GRC","2019",NA,"","",1
-"311",GFDD.OI.06,5-bank asset concentration,GR,Greece,"GRC","2018",NA,"","",1
-"312",GFDD.OI.06,5-bank asset concentration,GR,Greece,"GRC","2017",NA,"","",1
-"313",GFDD.OI.06,5-bank asset concentration,GL,Greenland,"GRL","2020",NA,"","",1
-"314",GFDD.OI.06,5-bank asset concentration,GL,Greenland,"GRL","2019",NA,"","",1
-"315",GFDD.OI.06,5-bank asset concentration,GL,Greenland,"GRL","2018",NA,"","",1
-"316",GFDD.OI.06,5-bank asset concentration,GL,Greenland,"GRL","2017",NA,"","",1
-"317",GFDD.OI.06,5-bank asset concentration,GD,Grenada,"GRD","2020",NA,"","",1
-"318",GFDD.OI.06,5-bank asset concentration,GD,Grenada,"GRD","2019",NA,"","",1
-"319",GFDD.OI.06,5-bank asset concentration,GD,Grenada,"GRD","2018",NA,"","",1
-"320",GFDD.OI.06,5-bank asset concentration,GD,Grenada,"GRD","2017",NA,"","",1
-"321",GFDD.OI.06,5-bank asset concentration,GU,Guam,"GUM","2020",NA,"","",1
-"322",GFDD.OI.06,5-bank asset concentration,GU,Guam,"GUM","2019",NA,"","",1
-"323",GFDD.OI.06,5-bank asset concentration,GU,Guam,"GUM","2018",NA,"","",1
-"324",GFDD.OI.06,5-bank asset concentration,GU,Guam,"GUM","2017",NA,"","",1
-"325",GFDD.OI.06,5-bank asset concentration,GT,Guatemala,"GTM","2020", 80.55556,"","",1
-"326",GFDD.OI.06,5-bank asset concentration,GT,Guatemala,"GTM","2019", 81.32793,"","",1
-"327",GFDD.OI.06,5-bank asset concentration,GT,Guatemala,"GTM","2018", 81.46834,"","",1
-"328",GFDD.OI.06,5-bank asset concentration,GT,Guatemala,"GTM","2017", 81.42807,"","",1
-"329",GFDD.OI.06,5-bank asset concentration,GN,Guinea,"GIN","2020",100.00000,"","",1
-"330",GFDD.OI.06,5-bank asset concentration,GN,Guinea,"GIN","2019", 90.27155,"","",1
-"331",GFDD.OI.06,5-bank asset concentration,GN,Guinea,"GIN","2018", 89.77150,"","",1
-"332",GFDD.OI.06,5-bank asset concentration,GN,Guinea,"GIN","2017", 87.63439,"","",1
-"333",GFDD.OI.06,5-bank asset concentration,GW,Guinea-Bissau,"GNB","2020",NA,"","",1
-"334",GFDD.OI.06,5-bank asset concentration,GW,Guinea-Bissau,"GNB","2019",NA,"","",1
-"335",GFDD.OI.06,5-bank asset concentration,GW,Guinea-Bissau,"GNB","2018",NA,"","",1
-"336",GFDD.OI.06,5-bank asset concentration,GW,Guinea-Bissau,"GNB","2017",NA,"","",1
-"337",GFDD.OI.06,5-bank asset concentration,GY,Guyana,"GUY","2020",100.00000,"","",1
-"338",GFDD.OI.06,5-bank asset concentration,GY,Guyana,"GUY","2019", 97.66744,"","",1
-"339",GFDD.OI.06,5-bank asset concentration,GY,Guyana,"GUY","2018", 97.61996,"","",1
-"340",GFDD.OI.06,5-bank asset concentration,GY,Guyana,"GUY","2017", 96.81822,"","",1
-"341",GFDD.OI.06,5-bank asset concentration,HT,Haiti,"HTI","2020",NA,"","",1
-"342",GFDD.OI.06,5-bank asset concentration,HT,Haiti,"HTI","2019",100.00000,"","",1
-"343",GFDD.OI.06,5-bank asset concentration,HT,Haiti,"HTI","2018",100.00000,"","",1
-"344",GFDD.OI.06,5-bank asset concentration,HT,Haiti,"HTI","2017",100.00000,"","",1
-"345",GFDD.OI.06,5-bank asset concentration,HN,Honduras,"HND","2020", 99.04853,"","",1
-"346",GFDD.OI.06,5-bank asset concentration,HN,Honduras,"HND","2019", 99.09644,"","",1
-"347",GFDD.OI.06,5-bank asset concentration,HN,Honduras,"HND","2018", 99.02702,"","",1
-"348",GFDD.OI.06,5-bank asset concentration,HN,Honduras,"HND","2017", 99.01051,"","",1
-"349",GFDD.OI.06,5-bank asset concentration,HK,Hong Kong SAR, China,"HKG","2020", 69.97083,"","",1
-"350",GFDD.OI.06,5-bank asset concentration,HK,Hong Kong SAR, China,"HKG","2019", 68.16422,"","",1
-"351",GFDD.OI.06,5-bank asset concentration,HK,Hong Kong SAR, China,"HKG","2018", 68.22018,"","",1
-"352",GFDD.OI.06,5-bank asset concentration,HK,Hong Kong SAR, China,"HKG","2017", 66.59316,"","",1
-"353",GFDD.OI.06,5-bank asset concentration,HU,Hungary,"HUN","2020",NA,"","",1
-"354",GFDD.OI.06,5-bank asset concentration,HU,Hungary,"HUN","2019",NA,"","",1
-"355",GFDD.OI.06,5-bank asset concentration,HU,Hungary,"HUN","2018", 98.36044,"","",1
-"356",GFDD.OI.06,5-bank asset concentration,HU,Hungary,"HUN","2017", 96.64402,"","",1
-"357",GFDD.OI.06,5-bank asset concentration,IS,Iceland,"ISL","2020",NA,"","",1
-"358",GFDD.OI.06,5-bank asset concentration,IS,Iceland,"ISL","2019",NA,"","",1
-"359",GFDD.OI.06,5-bank asset concentration,IS,Iceland,"ISL","2018",NA,"","",1
-"360",GFDD.OI.06,5-bank asset concentration,IS,Iceland,"ISL","2017",NA,"","",1
-"361",GFDD.OI.06,5-bank asset concentration,IN,India,"IND","2020", 72.61819,"","",1
-"362",GFDD.OI.06,5-bank asset concentration,IN,India,"IND","2019", 58.23427,"","",1
-"363",GFDD.OI.06,5-bank asset concentration,IN,India,"IND","2018", 56.89509,"","",1
-"364",GFDD.OI.06,5-bank asset concentration,IN,India,"IND","2017", 52.97345,"","",1
-"365",GFDD.OI.06,5-bank asset concentration,ID,Indonesia,"IDN","2020", 35.13658,"","",1
-"366",GFDD.OI.06,5-bank asset concentration,ID,Indonesia,"IDN","2019", 33.33284,"","",1
-"367",GFDD.OI.06,5-bank asset concentration,ID,Indonesia,"IDN","2018", 33.11512,"","",1
-"368",GFDD.OI.06,5-bank asset concentration,ID,Indonesia,"IDN","2017", 32.20777,"","",1
-"369",GFDD.OI.06,5-bank asset concentration,IR,Iran, Islamic Rep.,"IRN","2020",NA,"","",1
-"370",GFDD.OI.06,5-bank asset concentration,IR,Iran, Islamic Rep.,"IRN","2019",NA,"","",1
-"371",GFDD.OI.06,5-bank asset concentration,IR,Iran, Islamic Rep.,"IRN","2018",NA,"","",1
-"372",GFDD.OI.06,5-bank asset concentration,IR,Iran, Islamic Rep.,"IRN","2017",NA,"","",1
-"373",GFDD.OI.06,5-bank asset concentration,IQ,Iraq,"IRQ","2020", 85.82735,"","",1
-"374",GFDD.OI.06,5-bank asset concentration,IQ,Iraq,"IRQ","2019", 97.47520,"","",1
-"375",GFDD.OI.06,5-bank asset concentration,IQ,Iraq,"IRQ","2018", 95.84125,"","",1
-"376",GFDD.OI.06,5-bank asset concentration,IQ,Iraq,"IRQ","2017", 95.64321,"","",1
-"377",GFDD.OI.06,5-bank asset concentration,IE,Ireland,"IRL","2020",NA,"","",1
-"378",GFDD.OI.06,5-bank asset concentration,IE,Ireland,"IRL","2019",NA,"","",1
-"379",GFDD.OI.06,5-bank asset concentration,IE,Ireland,"IRL","2018",NA,"","",1
-"380",GFDD.OI.06,5-bank asset concentration,IE,Ireland,"IRL","2017",NA,"","",1
-"381",GFDD.OI.06,5-bank asset concentration,IM,Isle of Man,"IMN","2020",NA,"","",1
-"382",GFDD.OI.06,5-bank asset concentration,IM,Isle of Man,"IMN","2019",NA,"","",1
-"383",GFDD.OI.06,5-bank asset concentration,IM,Isle of Man,"IMN","2018",NA,"","",1
-"384",GFDD.OI.06,5-bank asset concentration,IM,Isle of Man,"IMN","2017",NA,"","",1
-"385",GFDD.OI.06,5-bank asset concentration,IL,Israel,"ISR","2020",NA,"","",1
-"386",GFDD.OI.06,5-bank asset concentration,IL,Israel,"ISR","2019",100.00000,"","",1
-"387",GFDD.OI.06,5-bank asset concentration,IL,Israel,"ISR","2018", 99.43105,"","",1
-"388",GFDD.OI.06,5-bank asset concentration,IL,Israel,"ISR","2017", 99.28532,"","",1
-"389",GFDD.OI.06,5-bank asset concentration,IT,Italy,"ITA","2020", 73.84022,"","",1
-"390",GFDD.OI.06,5-bank asset concentration,IT,Italy,"ITA","2019", 72.60264,"","",1
-"391",GFDD.OI.06,5-bank asset concentration,IT,Italy,"ITA","2018", 65.75478,"","",1
-"392",GFDD.OI.06,5-bank asset concentration,IT,Italy,"ITA","2017", 64.97675,"","",1
-"393",GFDD.OI.06,5-bank asset concentration,JM,Jamaica,"JAM","2020",NA,"","",1
-"394",GFDD.OI.06,5-bank asset concentration,JM,Jamaica,"JAM","2019", 92.56327,"","",1
-"395",GFDD.OI.06,5-bank asset concentration,JM,Jamaica,"JAM","2018", 93.37988,"","",1
-"396",GFDD.OI.06,5-bank asset concentration,JM,Jamaica,"JAM","2017", 96.44327,"","",1
-"397",GFDD.OI.06,5-bank asset concentration,JP,Japan,"JPN","2020", 43.87664,"","",1
-"398",GFDD.OI.06,5-bank asset concentration,JP,Japan,"JPN","2019", 39.41880,"","",1
-"399",GFDD.OI.06,5-bank asset concentration,JP,Japan,"JPN","2018", 39.59865,"","",1
-"400",GFDD.OI.06,5-bank asset concentration,JP,Japan,"JPN","2017", 45.23830,"","",1
-"401",GFDD.OI.06,5-bank asset concentration,JO,Jordan,"JOR","2020", 63.30688,"","",1
-"402",GFDD.OI.06,5-bank asset concentration,JO,Jordan,"JOR","2019", 63.34846,"","",1
-"403",GFDD.OI.06,5-bank asset concentration,JO,Jordan,"JOR","2018", 63.09919,"","",1
-"404",GFDD.OI.06,5-bank asset concentration,JO,Jordan,"JOR","2017", 63.76201,"","",1
-"405",GFDD.OI.06,5-bank asset concentration,KZ,Kazakhstan,"KAZ","2020", 75.12988,"","",1
-"406",GFDD.OI.06,5-bank asset concentration,KZ,Kazakhstan,"KAZ","2019", 74.37950,"","",1
-"407",GFDD.OI.06,5-bank asset concentration,KZ,Kazakhstan,"KAZ","2018", 76.17213,"","",1
-"408",GFDD.OI.06,5-bank asset concentration,KZ,Kazakhstan,"KAZ","2017", 76.04752,"","",1
-"409",GFDD.OI.06,5-bank asset concentration,KE,Kenya,"KEN","2020", 85.68653,"","",1
-"410",GFDD.OI.06,5-bank asset concentration,KE,Kenya,"KEN","2019", 84.26135,"","",1
-"411",GFDD.OI.06,5-bank asset concentration,KE,Kenya,"KEN","2018", 82.36706,"","",1
-"412",GFDD.OI.06,5-bank asset concentration,KE,Kenya,"KEN","2017", 80.80308,"","",1
-"413",GFDD.OI.06,5-bank asset concentration,KI,Kiribati,"KIR","2020",NA,"","",1
-"414",GFDD.OI.06,5-bank asset concentration,KI,Kiribati,"KIR","2019",NA,"","",1
-"415",GFDD.OI.06,5-bank asset concentration,KI,Kiribati,"KIR","2018",NA,"","",1
-"416",GFDD.OI.06,5-bank asset concentration,KI,Kiribati,"KIR","2017",NA,"","",1
-"417",GFDD.OI.06,5-bank asset concentration,KP,Korea, Dem. Rep.,"PRK","2020",NA,"","",1
-"418",GFDD.OI.06,5-bank asset concentration,KP,Korea, Dem. Rep.,"PRK","2019",NA,"","",1
-"419",GFDD.OI.06,5-bank asset concentration,KP,Korea, Dem. Rep.,"PRK","2018",NA,"","",1
-"420",GFDD.OI.06,5-bank asset concentration,KP,Korea, Dem. Rep.,"PRK","2017",NA,"","",1
-"421",GFDD.OI.06,5-bank asset concentration,KR,Korea, Rep.,"KOR","2020", 89.60439,"","",1
-"422",GFDD.OI.06,5-bank asset concentration,KR,Korea, Rep.,"KOR","2019", 89.49235,"","",1
-"423",GFDD.OI.06,5-bank asset concentration,KR,Korea, Rep.,"KOR","2018", 88.75544,"","",1
-"424",GFDD.OI.06,5-bank asset concentration,KR,Korea, Rep.,"KOR","2017", 89.18535,"","",1
-"425",GFDD.OI.06,5-bank asset concentration,XK,Kosovo,"XKX","2020",NA,"","",1
-"426",GFDD.OI.06,5-bank asset concentration,XK,Kosovo,"XKX","2019",NA,"","",1
-"427",GFDD.OI.06,5-bank asset concentration,XK,Kosovo,"XKX","2018",NA,"","",1
-"428",GFDD.OI.06,5-bank asset concentration,XK,Kosovo,"XKX","2017",NA,"","",1
-"429",GFDD.OI.06,5-bank asset concentration,KW,Kuwait,"KWT","2020",100.00000,"","",1
-"430",GFDD.OI.06,5-bank asset concentration,KW,Kuwait,"KWT","2019", 99.70075,"","",1
-"431",GFDD.OI.06,5-bank asset concentration,KW,Kuwait,"KWT","2018", 99.69955,"","",1
-"432",GFDD.OI.06,5-bank asset concentration,KW,Kuwait,"KWT","2017", 99.68280,"","",1
-"433",GFDD.OI.06,5-bank asset concentration,KG,Kyrgyz Republic,"KGZ","2020", 70.67601,"","",1
-"434",GFDD.OI.06,5-bank asset concentration,KG,Kyrgyz Republic,"KGZ","2019", 71.58319,"","",1
-"435",GFDD.OI.06,5-bank asset concentration,KG,Kyrgyz Republic,"KGZ","2018", 70.13313,"","",1
-"436",GFDD.OI.06,5-bank asset concentration,KG,Kyrgyz Republic,"KGZ","2017", 69.72526,"","",1
-"437",GFDD.OI.06,5-bank asset concentration,LA,Lao PDR,"LAO","2020", 88.30962,"","",1
-"438",GFDD.OI.06,5-bank asset concentration,LA,Lao PDR,"LAO","2019", 84.88391,"","",1
-"439",GFDD.OI.06,5-bank asset concentration,LA,Lao PDR,"LAO","2018", 83.84776,"","",1
-"440",GFDD.OI.06,5-bank asset concentration,LA,Lao PDR,"LAO","2017", 83.31451,"","",1
-"441",GFDD.OI.06,5-bank asset concentration,LV,Latvia,"LVA","2020",NA,"","",1
-"442",GFDD.OI.06,5-bank asset concentration,LV,Latvia,"LVA","2019",NA,"","",1
-"443",GFDD.OI.06,5-bank asset concentration,LV,Latvia,"LVA","2018",NA,"","",1
-"444",GFDD.OI.06,5-bank asset concentration,LV,Latvia,"LVA","2017",NA,"","",1
-"445",GFDD.OI.06,5-bank asset concentration,LB,Lebanon,"LBN","2020",100.00000,"","",1
-"446",GFDD.OI.06,5-bank asset concentration,LB,Lebanon,"LBN","2019", 67.67338,"","",1
-"447",GFDD.OI.06,5-bank asset concentration,LB,Lebanon,"LBN","2018", 63.62526,"","",1
-"448",GFDD.OI.06,5-bank asset concentration,LB,Lebanon,"LBN","2017", 61.97494,"","",1
-"449",GFDD.OI.06,5-bank asset concentration,LS,Lesotho,"LSO","2020",NA,"","",1
-"450",GFDD.OI.06,5-bank asset concentration,LS,Lesotho,"LSO","2019",NA,"","",1
-"451",GFDD.OI.06,5-bank asset concentration,LS,Lesotho,"LSO","2018",NA,"","",1
-"452",GFDD.OI.06,5-bank asset concentration,LS,Lesotho,"LSO","2017",NA,"","",1
-"453",GFDD.OI.06,5-bank asset concentration,LR,Liberia,"LBR","2020",NA,"","",1
-"454",GFDD.OI.06,5-bank asset concentration,LR,Liberia,"LBR","2019",NA,"","",1
-"455",GFDD.OI.06,5-bank asset concentration,LR,Liberia,"LBR","2018",NA,"","",1
-"456",GFDD.OI.06,5-bank asset concentration,LR,Liberia,"LBR","2017",NA,"","",1
-"457",GFDD.OI.06,5-bank asset concentration,LY,Libya,"LBY","2020",NA,"","",1
-"458",GFDD.OI.06,5-bank asset concentration,LY,Libya,"LBY","2019", 98.32643,"","",1
-"459",GFDD.OI.06,5-bank asset concentration,LY,Libya,"LBY","2018", 90.64843,"","",1
-"460",GFDD.OI.06,5-bank asset concentration,LY,Libya,"LBY","2017", 89.00992,"","",1
-"461",GFDD.OI.06,5-bank asset concentration,LI,Liechtenstein,"LIE","2020",NA,"","",1
-"462",GFDD.OI.06,5-bank asset concentration,LI,Liechtenstein,"LIE","2019",NA,"","",1
-"463",GFDD.OI.06,5-bank asset concentration,LI,Liechtenstein,"LIE","2018",NA,"","",1
-"464",GFDD.OI.06,5-bank asset concentration,LI,Liechtenstein,"LIE","2017",NA,"","",1
-"465",GFDD.OI.06,5-bank asset concentration,LT,Lithuania,"LTU","2020",NA,"","",1
-"466",GFDD.OI.06,5-bank asset concentration,LT,Lithuania,"LTU","2019",NA,"","",1
-"467",GFDD.OI.06,5-bank asset concentration,LT,Lithuania,"LTU","2018",NA,"","",1
-"468",GFDD.OI.06,5-bank asset concentration,LT,Lithuania,"LTU","2017",NA,"","",1
-"469",GFDD.OI.06,5-bank asset concentration,LU,Luxembourg,"LUX","2020",100.00000,"","",1
-"470",GFDD.OI.06,5-bank asset concentration,LU,Luxembourg,"LUX","2019", 98.45884,"","",1
-"471",GFDD.OI.06,5-bank asset concentration,LU,Luxembourg,"LUX","2018", 95.96484,"","",1
-"472",GFDD.OI.06,5-bank asset concentration,LU,Luxembourg,"LUX","2017", 91.57886,"","",1
-"473",GFDD.OI.06,5-bank asset concentration,MO,Macao SAR, China,"MAC","2020", 90.94905,"","",1
-"474",GFDD.OI.06,5-bank asset concentration,MO,Macao SAR, China,"MAC","2019", 89.05711,"","",1
-"475",GFDD.OI.06,5-bank asset concentration,MO,Macao SAR, China,"MAC","2018", 89.41071,"","",1
-"476",GFDD.OI.06,5-bank asset concentration,MO,Macao SAR, China,"MAC","2017", 87.70803,"","",1
-"477",GFDD.OI.06,5-bank asset concentration,MG,Madagascar,"MDG","2020",NA,"","",1
-"478",GFDD.OI.06,5-bank asset concentration,MG,Madagascar,"MDG","2019",100.00000,"","",1
-"479",GFDD.OI.06,5-bank asset concentration,MG,Madagascar,"MDG","2018",100.00000,"","",1
-"480",GFDD.OI.06,5-bank asset concentration,MG,Madagascar,"MDG","2017",100.00000,"","",1
-"481",GFDD.OI.06,5-bank asset concentration,MW,Malawi,"MWI","2020",NA,"","",1
-"482",GFDD.OI.06,5-bank asset concentration,MW,Malawi,"MWI","2019",NA,"","",1
-"483",GFDD.OI.06,5-bank asset concentration,MW,Malawi,"MWI","2018",NA,"","",1
-"484",GFDD.OI.06,5-bank asset concentration,MW,Malawi,"MWI","2017",NA,"","",1
-"485",GFDD.OI.06,5-bank asset concentration,MY,Malaysia,"MYS","2020", 98.41644,"","",1
-"486",GFDD.OI.06,5-bank asset concentration,MY,Malaysia,"MYS","2019", 85.46008,"","",1
-"487",GFDD.OI.06,5-bank asset concentration,MY,Malaysia,"MYS","2018", 84.38601,"","",1
-"488",GFDD.OI.06,5-bank asset concentration,MY,Malaysia,"MYS","2017", 84.53629,"","",1
-"489",GFDD.OI.06,5-bank asset concentration,MV,Maldives,"MDV","2020",NA,"","",1
-"490",GFDD.OI.06,5-bank asset concentration,MV,Maldives,"MDV","2019",NA,"","",1
-"491",GFDD.OI.06,5-bank asset concentration,MV,Maldives,"MDV","2018",NA,"","",1
-"492",GFDD.OI.06,5-bank asset concentration,MV,Maldives,"MDV","2017",NA,"","",1
-"493",GFDD.OI.06,5-bank asset concentration,ML,Mali,"MLI","2020",NA,"","",1
-"494",GFDD.OI.06,5-bank asset concentration,ML,Mali,"MLI","2019", 74.18768,"","",1
-"495",GFDD.OI.06,5-bank asset concentration,ML,Mali,"MLI","2018", 73.38599,"","",1
-"496",GFDD.OI.06,5-bank asset concentration,ML,Mali,"MLI","2017", 72.72890,"","",1
-"497",GFDD.OI.06,5-bank asset concentration,MT,Malta,"MLT","2020",100.00000,"","",1
-"498",GFDD.OI.06,5-bank asset concentration,MT,Malta,"MLT","2019",100.00000,"","",1
-"499",GFDD.OI.06,5-bank asset concentration,MT,Malta,"MLT","2018",100.00000,"","",1
-"500",GFDD.OI.06,5-bank asset concentration,MT,Malta,"MLT","2017",100.00000,"","",1
-"501",GFDD.OI.06,5-bank asset concentration,MH,Marshall Islands,"MHL","2020",NA,"","",1
-"502",GFDD.OI.06,5-bank asset concentration,MH,Marshall Islands,"MHL","2019",NA,"","",1
-"503",GFDD.OI.06,5-bank asset concentration,MH,Marshall Islands,"MHL","2018",NA,"","",1
-"504",GFDD.OI.06,5-bank asset concentration,MH,Marshall Islands,"MHL","2017",NA,"","",1
-"505",GFDD.OI.06,5-bank asset concentration,MR,Mauritania,"MRT","2020",NA,"","",1
-"506",GFDD.OI.06,5-bank asset concentration,MR,Mauritania,"MRT","2019", 92.90285,"","",1
-"507",GFDD.OI.06,5-bank asset concentration,MR,Mauritania,"MRT","2018", 82.84457,"","",1
-"508",GFDD.OI.06,5-bank asset concentration,MR,Mauritania,"MRT","2017", 87.41875,"","",1
-"509",GFDD.OI.06,5-bank asset concentration,MU,Mauritius,"MUS","2020", 88.82724,"","",1
-"510",GFDD.OI.06,5-bank asset concentration,MU,Mauritius,"MUS","2019", 79.10236,"","",1
-"511",GFDD.OI.06,5-bank asset concentration,MU,Mauritius,"MUS","2018", 77.88977,"","",1
-"512",GFDD.OI.06,5-bank asset concentration,MU,Mauritius,"MUS","2017", 80.30667,"","",1
-"513",GFDD.OI.06,5-bank asset concentration,MX,Mexico,"MEX","2020", 55.49257,"","",1
-"514",GFDD.OI.06,5-bank asset concentration,MX,Mexico,"MEX","2019", 55.64628,"","",1
-"515",GFDD.OI.06,5-bank asset concentration,MX,Mexico,"MEX","2018", 55.28024,"","",1
-"516",GFDD.OI.06,5-bank asset concentration,MX,Mexico,"MEX","2017", 61.67126,"","",1
-"517",GFDD.OI.06,5-bank asset concentration,FM,Micronesia, Fed. Sts.,"FSM","2020",NA,"","",1
-"518",GFDD.OI.06,5-bank asset concentration,FM,Micronesia, Fed. Sts.,"FSM","2019",NA,"","",1
-"519",GFDD.OI.06,5-bank asset concentration,FM,Micronesia, Fed. Sts.,"FSM","2018",NA,"","",1
-"520",GFDD.OI.06,5-bank asset concentration,FM,Micronesia, Fed. Sts.,"FSM","2017",NA,"","",1
-"521",GFDD.OI.06,5-bank asset concentration,MD,Moldova,"MDA","2020", 94.87215,"","",1
-"522",GFDD.OI.06,5-bank asset concentration,MD,Moldova,"MDA","2019", 86.23431,"","",1
-"523",GFDD.OI.06,5-bank asset concentration,MD,Moldova,"MDA","2018", 87.00589,"","",1
-"524",GFDD.OI.06,5-bank asset concentration,MD,Moldova,"MDA","2017", 87.88281,"","",1
-"525",GFDD.OI.06,5-bank asset concentration,MC,Monaco,"MCO","2020",NA,"","",1
-"526",GFDD.OI.06,5-bank asset concentration,MC,Monaco,"MCO","2019",NA,"","",1
-"527",GFDD.OI.06,5-bank asset concentration,MC,Monaco,"MCO","2018",NA,"","",1
-"528",GFDD.OI.06,5-bank asset concentration,MC,Monaco,"MCO","2017",NA,"","",1
-"529",GFDD.OI.06,5-bank asset concentration,MN,Mongolia,"MNG","2020",100.00000,"","",1
-"530",GFDD.OI.06,5-bank asset concentration,MN,Mongolia,"MNG","2019",100.00000,"","",1
-"531",GFDD.OI.06,5-bank asset concentration,MN,Mongolia,"MNG","2018", 98.22893,"","",1
-"532",GFDD.OI.06,5-bank asset concentration,MN,Mongolia,"MNG","2017", 96.28397,"","",1
-"533",GFDD.OI.06,5-bank asset concentration,ME,Montenegro,"MNE","2020",NA,"","",1
-"534",GFDD.OI.06,5-bank asset concentration,ME,Montenegro,"MNE","2019", 80.41129,"","",1
-"535",GFDD.OI.06,5-bank asset concentration,ME,Montenegro,"MNE","2018", 80.28614,"","",1
-"536",GFDD.OI.06,5-bank asset concentration,ME,Montenegro,"MNE","2017", 74.47309,"","",1
-"537",GFDD.OI.06,5-bank asset concentration,MA,Morocco,"MAR","2020",NA,"","",1
-"538",GFDD.OI.06,5-bank asset concentration,MA,Morocco,"MAR","2019",100.00000,"","",1
-"539",GFDD.OI.06,5-bank asset concentration,MA,Morocco,"MAR","2018",100.00000,"","",1
-"540",GFDD.OI.06,5-bank asset concentration,MA,Morocco,"MAR","2017", 99.26317,"","",1
-"541",GFDD.OI.06,5-bank asset concentration,MZ,Mozambique,"MOZ","2020", 88.01919,"","",1
-"542",GFDD.OI.06,5-bank asset concentration,MZ,Mozambique,"MOZ","2019", 88.24859,"","",1
-"543",GFDD.OI.06,5-bank asset concentration,MZ,Mozambique,"MOZ","2018", 89.16943,"","",1
-"544",GFDD.OI.06,5-bank asset concentration,MZ,Mozambique,"MOZ","2017", 92.54707,"","",1
-"545",GFDD.OI.06,5-bank asset concentration,MM,Myanmar,"MMR","2020",NA,"","",1
-"546",GFDD.OI.06,5-bank asset concentration,MM,Myanmar,"MMR","2019", 97.84174,"","",1
-"547",GFDD.OI.06,5-bank asset concentration,MM,Myanmar,"MMR","2018", 98.30793,"","",1
-"548",GFDD.OI.06,5-bank asset concentration,MM,Myanmar,"MMR","2017",100.00000,"","",1
-"549",GFDD.OI.06,5-bank asset concentration,NA,Namibia,"NAM","2020",NA,"","",1
-"550",GFDD.OI.06,5-bank asset concentration,NA,Namibia,"NAM","2019",NA,"","",1
-"551",GFDD.OI.06,5-bank asset concentration,NA,Namibia,"NAM","2018",NA,"","",1
-"552",GFDD.OI.06,5-bank asset concentration,NA,Namibia,"NAM","2017",NA,"","",1
-"553",GFDD.OI.06,5-bank asset concentration,NR,Nauru,"NRU","2020",NA,"","",1
-"554",GFDD.OI.06,5-bank asset concentration,NR,Nauru,"NRU","2019",NA,"","",1
-"555",GFDD.OI.06,5-bank asset concentration,NR,Nauru,"NRU","2018",NA,"","",1
-"556",GFDD.OI.06,5-bank asset concentration,NR,Nauru,"NRU","2017",NA,"","",1
-"557",GFDD.OI.06,5-bank asset concentration,NP,Nepal,"NPL","2020", 59.62270,"","",1
-"558",GFDD.OI.06,5-bank asset concentration,NP,Nepal,"NPL","2019", 51.56404,"","",1
-"559",GFDD.OI.06,5-bank asset concentration,NP,Nepal,"NPL","2018", 53.46395,"","",1
-"560",GFDD.OI.06,5-bank asset concentration,NP,Nepal,"NPL","2017", 55.63332,"","",1
-"561",GFDD.OI.06,5-bank asset concentration,NL,Netherlands,"NLD","2020", 86.03455,"","",1
-"562",GFDD.OI.06,5-bank asset concentration,NL,Netherlands,"NLD","2019", 85.03669,"","",1
-"563",GFDD.OI.06,5-bank asset concentration,NL,Netherlands,"NLD","2018", 96.86993,"","",1
-"564",GFDD.OI.06,5-bank asset concentration,NL,Netherlands,"NLD","2017", 96.09305,"","",1
-"565",GFDD.OI.06,5-bank asset concentration,NC,New Caledonia,"NCL","2020",NA,"","",1
-"566",GFDD.OI.06,5-bank asset concentration,NC,New Caledonia,"NCL","2019",NA,"","",1
-"567",GFDD.OI.06,5-bank asset concentration,NC,New Caledonia,"NCL","2018",NA,"","",1
-"568",GFDD.OI.06,5-bank asset concentration,NC,New Caledonia,"NCL","2017",NA,"","",1
-"569",GFDD.OI.06,5-bank asset concentration,NZ,New Zealand,"NZL","2020", 94.89739,"","",1
-"570",GFDD.OI.06,5-bank asset concentration,NZ,New Zealand,"NZL","2019", 95.19867,"","",1
-"571",GFDD.OI.06,5-bank asset concentration,NZ,New Zealand,"NZL","2018", 95.30299,"","",1
-"572",GFDD.OI.06,5-bank asset concentration,NZ,New Zealand,"NZL","2017", 95.39384,"","",1
-"573",GFDD.OI.06,5-bank asset concentration,NI,Nicaragua,"NIC","2020",NA,"","",1
-"574",GFDD.OI.06,5-bank asset concentration,NI,Nicaragua,"NIC","2019",NA,"","",1
-"575",GFDD.OI.06,5-bank asset concentration,NI,Nicaragua,"NIC","2018",NA,"","",1
-"576",GFDD.OI.06,5-bank asset concentration,NI,Nicaragua,"NIC","2017",NA,"","",1
-"577",GFDD.OI.06,5-bank asset concentration,NE,Niger,"NER","2020",NA,"","",1
-"578",GFDD.OI.06,5-bank asset concentration,NE,Niger,"NER","2019", 86.55383,"","",1
-"579",GFDD.OI.06,5-bank asset concentration,NE,Niger,"NER","2018", 86.62097,"","",1
-"580",GFDD.OI.06,5-bank asset concentration,NE,Niger,"NER","2017", 85.31916,"","",1
-"581",GFDD.OI.06,5-bank asset concentration,NG,Nigeria,"NGA","2020", 93.09720,"","",1
-"582",GFDD.OI.06,5-bank asset concentration,NG,Nigeria,"NGA","2019", 96.18783,"","",1
-"583",GFDD.OI.06,5-bank asset concentration,NG,Nigeria,"NGA","2018", 97.83888,"","",1
-"584",GFDD.OI.06,5-bank asset concentration,NG,Nigeria,"NGA","2017", 95.79731,"","",1
-"585",GFDD.OI.06,5-bank asset concentration,MK,North Macedonia,"MKD","2020",NA,"","",1
-"586",GFDD.OI.06,5-bank asset concentration,MK,North Macedonia,"MKD","2019", 95.69759,"","",1
-"587",GFDD.OI.06,5-bank asset concentration,MK,North Macedonia,"MKD","2018", 89.78458,"","",1
-"588",GFDD.OI.06,5-bank asset concentration,MK,North Macedonia,"MKD","2017", 89.15929,"","",1
-"589",GFDD.OI.06,5-bank asset concentration,NO,Norway,"NOR","2020", 89.62040,"","",1
-"590",GFDD.OI.06,5-bank asset concentration,NO,Norway,"NOR","2019", 86.56530,"","",1
-"591",GFDD.OI.06,5-bank asset concentration,NO,Norway,"NOR","2018", 85.02094,"","",1
-"592",GFDD.OI.06,5-bank asset concentration,NO,Norway,"NOR","2017", 83.98106,"","",1
-"593",GFDD.OI.06,5-bank asset concentration,OM,Oman,"OMN","2020", 99.31505,"","",1
-"594",GFDD.OI.06,5-bank asset concentration,OM,Oman,"OMN","2019", 99.08215,"","",1
-"595",GFDD.OI.06,5-bank asset concentration,OM,Oman,"OMN","2018", 99.08144,"","",1
-"596",GFDD.OI.06,5-bank asset concentration,OM,Oman,"OMN","2017", 98.99288,"","",1
-"597",GFDD.OI.06,5-bank asset concentration,PK,Pakistan,"PAK","2020", 93.73055,"","",1
-"598",GFDD.OI.06,5-bank asset concentration,PK,Pakistan,"PAK","2019", 88.43541,"","",1
-"599",GFDD.OI.06,5-bank asset concentration,PK,Pakistan,"PAK","2018", 87.87472,"","",1
-"600",GFDD.OI.06,5-bank asset concentration,PK,Pakistan,"PAK","2017", 86.42428,"","",1
-"601",GFDD.OI.06,5-bank asset concentration,PW,Palau,"PLW","2020",NA,"","",1
-"602",GFDD.OI.06,5-bank asset concentration,PW,Palau,"PLW","2019",NA,"","",1
-"603",GFDD.OI.06,5-bank asset concentration,PW,Palau,"PLW","2018",NA,"","",1
-"604",GFDD.OI.06,5-bank asset concentration,PW,Palau,"PLW","2017",NA,"","",1
-"605",GFDD.OI.06,5-bank asset concentration,PA,Panama,"PAN","2020", 62.60190,"","",1
-"606",GFDD.OI.06,5-bank asset concentration,PA,Panama,"PAN","2019", 59.52650,"","",1
-"607",GFDD.OI.06,5-bank asset concentration,PA,Panama,"PAN","2018", 58.28497,"","",1
-"608",GFDD.OI.06,5-bank asset concentration,PA,Panama,"PAN","2017", 56.30847,"","",1
-"609",GFDD.OI.06,5-bank asset concentration,PG,Papua New Guinea,"PNG","2020",NA,"","",1
-"610",GFDD.OI.06,5-bank asset concentration,PG,Papua New Guinea,"PNG","2019",NA,"","",1
-"611",GFDD.OI.06,5-bank asset concentration,PG,Papua New Guinea,"PNG","2018",NA,"","",1
-"612",GFDD.OI.06,5-bank asset concentration,PG,Papua New Guinea,"PNG","2017",NA,"","",1
-"613",GFDD.OI.06,5-bank asset concentration,PY,Paraguay,"PRY","2020", 61.02675,"","",1
-"614",GFDD.OI.06,5-bank asset concentration,PY,Paraguay,"PRY","2019", 60.69122,"","",1
-"615",GFDD.OI.06,5-bank asset concentration,PY,Paraguay,"PRY","2018", 64.52599,"","",1
-"616",GFDD.OI.06,5-bank asset concentration,PY,Paraguay,"PRY","2017", 65.11752,"","",1
-"617",GFDD.OI.06,5-bank asset concentration,PE,Peru,"PER","2020", 82.15797,"","",1
-"618",GFDD.OI.06,5-bank asset concentration,PE,Peru,"PER","2019", 79.16411,"","",1
-"619",GFDD.OI.06,5-bank asset concentration,PE,Peru,"PER","2018", 79.97680,"","",1
-"620",GFDD.OI.06,5-bank asset concentration,PE,Peru,"PER","2017", 80.00552,"","",1
-"621",GFDD.OI.06,5-bank asset concentration,PH,Philippines,"PHL","2020", 78.87118,"","",1
-"622",GFDD.OI.06,5-bank asset concentration,PH,Philippines,"PHL","2019", 69.30672,"","",1
-"623",GFDD.OI.06,5-bank asset concentration,PH,Philippines,"PHL","2018", 69.74912,"","",1
-"624",GFDD.OI.06,5-bank asset concentration,PH,Philippines,"PHL","2017", 71.61987,"","",1
-"625",GFDD.OI.06,5-bank asset concentration,PL,Poland,"POL","2020", 91.06262,"","",1
-"626",GFDD.OI.06,5-bank asset concentration,PL,Poland,"POL","2019", 73.52898,"","",1
-"627",GFDD.OI.06,5-bank asset concentration,PL,Poland,"POL","2018", 62.10790,"","",1
-"628",GFDD.OI.06,5-bank asset concentration,PL,Poland,"POL","2017", 65.69498,"","",1
-"629",GFDD.OI.06,5-bank asset concentration,PT,Portugal,"PRT","2020", 90.26849,"","",1
-"630",GFDD.OI.06,5-bank asset concentration,PT,Portugal,"PRT","2019", 88.41818,"","",1
-"631",GFDD.OI.06,5-bank asset concentration,PT,Portugal,"PRT","2018", 87.59612,"","",1
-"632",GFDD.OI.06,5-bank asset concentration,PT,Portugal,"PRT","2017", 84.71272,"","",1
-"633",GFDD.OI.06,5-bank asset concentration,PR,Puerto Rico,"PRI","2020",NA,"","",1
-"634",GFDD.OI.06,5-bank asset concentration,PR,Puerto Rico,"PRI","2019",NA,"","",1
-"635",GFDD.OI.06,5-bank asset concentration,PR,Puerto Rico,"PRI","2018",NA,"","",1
-"636",GFDD.OI.06,5-bank asset concentration,PR,Puerto Rico,"PRI","2017",NA,"","",1
-"637",GFDD.OI.06,5-bank asset concentration,QA,Qatar,"QAT","2020",100.00000,"","",1
-"638",GFDD.OI.06,5-bank asset concentration,QA,Qatar,"QAT","2019", 99.93289,"","",1
-"639",GFDD.OI.06,5-bank asset concentration,QA,Qatar,"QAT","2018", 99.93703,"","",1
-"640",GFDD.OI.06,5-bank asset concentration,QA,Qatar,"QAT","2017", 99.93639,"","",1
-"641",GFDD.OI.06,5-bank asset concentration,RO,Romania,"ROU","2020", 89.85473,"","",1
-"642",GFDD.OI.06,5-bank asset concentration,RO,Romania,"ROU","2019", 75.24830,"","",1
-"643",GFDD.OI.06,5-bank asset concentration,RO,Romania,"ROU","2018", 74.15422,"","",1
-"644",GFDD.OI.06,5-bank asset concentration,RO,Romania,"ROU","2017", 73.44800,"","",1
-"645",GFDD.OI.06,5-bank asset concentration,RU,Russian Federation,"RUS","2020", 44.66878,"","",1
-"646",GFDD.OI.06,5-bank asset concentration,RU,Russian Federation,"RUS","2019", 41.68933,"","",1
-"647",GFDD.OI.06,5-bank asset concentration,RU,Russian Federation,"RUS","2018", 43.95353,"","",1
-"648",GFDD.OI.06,5-bank asset concentration,RU,Russian Federation,"RUS","2017", 35.14469,"","",1
-"649",GFDD.OI.06,5-bank asset concentration,RW,Rwanda,"RWA","2020", 76.29556,"","",1
-"650",GFDD.OI.06,5-bank asset concentration,RW,Rwanda,"RWA","2019", 75.92616,"","",1
-"651",GFDD.OI.06,5-bank asset concentration,RW,Rwanda,"RWA","2018", 74.85297,"","",1
-"652",GFDD.OI.06,5-bank asset concentration,RW,Rwanda,"RWA","2017", 76.53490,"","",1
-"653",GFDD.OI.06,5-bank asset concentration,WS,Samoa,"WSM","2020",NA,"","",1
-"654",GFDD.OI.06,5-bank asset concentration,WS,Samoa,"WSM","2019",NA,"","",1
-"655",GFDD.OI.06,5-bank asset concentration,WS,Samoa,"WSM","2018",NA,"","",1
-"656",GFDD.OI.06,5-bank asset concentration,WS,Samoa,"WSM","2017",NA,"","",1
-"657",GFDD.OI.06,5-bank asset concentration,SM,San Marino,"SMR","2020",NA,"","",1
-"658",GFDD.OI.06,5-bank asset concentration,SM,San Marino,"SMR","2019",NA,"","",1
-"659",GFDD.OI.06,5-bank asset concentration,SM,San Marino,"SMR","2018",NA,"","",1
-"660",GFDD.OI.06,5-bank asset concentration,SM,San Marino,"SMR","2017",NA,"","",1
-"661",GFDD.OI.06,5-bank asset concentration,ST,São Tomé and Principe,"STP","2020",NA,"","",1
-"662",GFDD.OI.06,5-bank asset concentration,ST,São Tomé and Principe,"STP","2019",NA,"","",1
-"663",GFDD.OI.06,5-bank asset concentration,ST,São Tomé and Principe,"STP","2018",NA,"","",1
-"664",GFDD.OI.06,5-bank asset concentration,ST,São Tomé and Principe,"STP","2017",NA,"","",1
-"665",GFDD.OI.06,5-bank asset concentration,SA,Saudi Arabia,"SAU","2020", 84.08725,"","",1
-"666",GFDD.OI.06,5-bank asset concentration,SA,Saudi Arabia,"SAU","2019", 82.55296,"","",1
-"667",GFDD.OI.06,5-bank asset concentration,SA,Saudi Arabia,"SAU","2018", 78.26692,"","",1
-"668",GFDD.OI.06,5-bank asset concentration,SA,Saudi Arabia,"SAU","2017", 77.53028,"","",1
-"669",GFDD.OI.06,5-bank asset concentration,SN,Senegal,"SEN","2020",NA,"","",1
-"670",GFDD.OI.06,5-bank asset concentration,SN,Senegal,"SEN","2019", 60.29663,"","",1
-"671",GFDD.OI.06,5-bank asset concentration,SN,Senegal,"SEN","2018", 56.36278,"","",1
-"672",GFDD.OI.06,5-bank asset concentration,SN,Senegal,"SEN","2017", 56.61801,"","",1
-"673",GFDD.OI.06,5-bank asset concentration,RS,Serbia,"","2020", 84.83154,"","",1
-"674",GFDD.OI.06,5-bank asset concentration,RS,Serbia,"","2019", 80.97277,"","",1
-"675",GFDD.OI.06,5-bank asset concentration,RS,Serbia,"","2018", 76.65152,"","",1
-"676",GFDD.OI.06,5-bank asset concentration,RS,Serbia,"","2017", 77.29102,"","",1
-"677",GFDD.OI.06,5-bank asset concentration,SC,Seychelles,"SYC","2020",NA,"","",1
-"678",GFDD.OI.06,5-bank asset concentration,SC,Seychelles,"SYC","2019",NA,"","",1
-"679",GFDD.OI.06,5-bank asset concentration,SC,Seychelles,"SYC","2018",NA,"","",1
-"680",GFDD.OI.06,5-bank asset concentration,SC,Seychelles,"SYC","2017",NA,"","",1
-"681",GFDD.OI.06,5-bank asset concentration,SL,Sierra Leone,"SLE","2020",NA,"","",1
-"682",GFDD.OI.06,5-bank asset concentration,SL,Sierra Leone,"SLE","2019",NA,"","",1
-"683",GFDD.OI.06,5-bank asset concentration,SL,Sierra Leone,"SLE","2018",NA,"","",1
-"684",GFDD.OI.06,5-bank asset concentration,SL,Sierra Leone,"SLE","2017",NA,"","",1
-"685",GFDD.OI.06,5-bank asset concentration,SG,Singapore,"SGP","2020",NA,"","",1
-"686",GFDD.OI.06,5-bank asset concentration,SG,Singapore,"SGP","2019",100.00000,"","",1
-"687",GFDD.OI.06,5-bank asset concentration,SG,Singapore,"SGP","2018", 93.94058,"","",1
-"688",GFDD.OI.06,5-bank asset concentration,SG,Singapore,"SGP","2017",100.00000,"","",1
-"689",GFDD.OI.06,5-bank asset concentration,SX,Sint Maarten (Dutch part),"SXM","2020",NA,"","",1
-"690",GFDD.OI.06,5-bank asset concentration,SX,Sint Maarten (Dutch part),"SXM","2019",NA,"","",1
-"691",GFDD.OI.06,5-bank asset concentration,SX,Sint Maarten (Dutch part),"SXM","2018",NA,"","",1
-"692",GFDD.OI.06,5-bank asset concentration,SX,Sint Maarten (Dutch part),"SXM","2017",NA,"","",1
-"693",GFDD.OI.06,5-bank asset concentration,SK,Slovak Republic,"SVK","2020",NA,"","",1
-"694",GFDD.OI.06,5-bank asset concentration,SK,Slovak Republic,"SVK","2019",100.00000,"","",1
-"695",GFDD.OI.06,5-bank asset concentration,SK,Slovak Republic,"SVK","2018",100.00000,"","",1
-"696",GFDD.OI.06,5-bank asset concentration,SK,Slovak Republic,"SVK","2017",100.00000,"","",1
-"697",GFDD.OI.06,5-bank asset concentration,SI,Slovenia,"SVN","2020",NA,"","",1
-"698",GFDD.OI.06,5-bank asset concentration,SI,Slovenia,"SVN","2019",NA,"","",1
-"699",GFDD.OI.06,5-bank asset concentration,SI,Slovenia,"SVN","2018",NA,"","",1
-"700",GFDD.OI.06,5-bank asset concentration,SI,Slovenia,"SVN","2017",NA,"","",1
-"701",GFDD.OI.06,5-bank asset concentration,SB,Solomon Islands,"SLB","2020",NA,"","",1
-"702",GFDD.OI.06,5-bank asset concentration,SB,Solomon Islands,"SLB","2019",NA,"","",1
-"703",GFDD.OI.06,5-bank asset concentration,SB,Solomon Islands,"SLB","2018",NA,"","",1
-"704",GFDD.OI.06,5-bank asset concentration,SB,Solomon Islands,"SLB","2017",NA,"","",1
-"705",GFDD.OI.06,5-bank asset concentration,SO,Somalia,"SOM","2020",NA,"","",1
-"706",GFDD.OI.06,5-bank asset concentration,SO,Somalia,"SOM","2019",NA,"","",1
-"707",GFDD.OI.06,5-bank asset concentration,SO,Somalia,"SOM","2018",NA,"","",1
-"708",GFDD.OI.06,5-bank asset concentration,SO,Somalia,"SOM","2017",NA,"","",1
-"709",GFDD.OI.06,5-bank asset concentration,ZA,South Africa,"ZAF","2020", 99.86399,"","",1
-"710",GFDD.OI.06,5-bank asset concentration,ZA,South Africa,"ZAF","2019", 99.70531,"","",1
-"711",GFDD.OI.06,5-bank asset concentration,ZA,South Africa,"ZAF","2018", 99.51707,"","",1
-"712",GFDD.OI.06,5-bank asset concentration,ZA,South Africa,"ZAF","2017", 99.26501,"","",1
-"713",GFDD.OI.06,5-bank asset concentration,SS,South Sudan,"SSD","2020",NA,"","",1
-"714",GFDD.OI.06,5-bank asset concentration,SS,South Sudan,"SSD","2019",NA,"","",1
-"715",GFDD.OI.06,5-bank asset concentration,SS,South Sudan,"SSD","2018",NA,"","",1
-"716",GFDD.OI.06,5-bank asset concentration,SS,South Sudan,"SSD","2017",NA,"","",1
-"717",GFDD.OI.06,5-bank asset concentration,ES,Spain,"ESP","2020", 82.58269,"","",1
-"718",GFDD.OI.06,5-bank asset concentration,ES,Spain,"ESP","2019", 76.28630,"","",1
-"719",GFDD.OI.06,5-bank asset concentration,ES,Spain,"ESP","2018", 79.26758,"","",1
-"720",GFDD.OI.06,5-bank asset concentration,ES,Spain,"ESP","2017", 87.87357,"","",1
-"721",GFDD.OI.06,5-bank asset concentration,LK,Sri Lanka,"LKA","2020", 87.92467,"","",1
-"722",GFDD.OI.06,5-bank asset concentration,LK,Sri Lanka,"LKA","2019", 84.10007,"","",1
-"723",GFDD.OI.06,5-bank asset concentration,LK,Sri Lanka,"LKA","2018", 84.68713,"","",1
-"724",GFDD.OI.06,5-bank asset concentration,LK,Sri Lanka,"LKA","2017", 84.13969,"","",1
-"725",GFDD.OI.06,5-bank asset concentration,KN,St. Kitts and Nevis,"KNA","2020",NA,"","",1
-"726",GFDD.OI.06,5-bank asset concentration,KN,St. Kitts and Nevis,"KNA","2019",NA,"","",1
-"727",GFDD.OI.06,5-bank asset concentration,KN,St. Kitts and Nevis,"KNA","2018",NA,"","",1
-"728",GFDD.OI.06,5-bank asset concentration,KN,St. Kitts and Nevis,"KNA","2017",NA,"","",1
-"729",GFDD.OI.06,5-bank asset concentration,LC,St. Lucia,"LCA","2020",NA,"","",1
-"730",GFDD.OI.06,5-bank asset concentration,LC,St. Lucia,"LCA","2019",NA,"","",1
-"731",GFDD.OI.06,5-bank asset concentration,LC,St. Lucia,"LCA","2018",NA,"","",1
-"732",GFDD.OI.06,5-bank asset concentration,LC,St. Lucia,"LCA","2017",NA,"","",1
-"733",GFDD.OI.06,5-bank asset concentration,VC,St. Vincent and the Grenadines,"VCT","2020",NA,"","",1
-"734",GFDD.OI.06,5-bank asset concentration,VC,St. Vincent and the Grenadines,"VCT","2019",NA,"","",1
-"735",GFDD.OI.06,5-bank asset concentration,VC,St. Vincent and the Grenadines,"VCT","2018",NA,"","",1
-"736",GFDD.OI.06,5-bank asset concentration,VC,St. Vincent and the Grenadines,"VCT","2017",NA,"","",1
-"737",GFDD.OI.06,5-bank asset concentration,SD,Sudan,"SDN","2020",NA,"","",1
-"738",GFDD.OI.06,5-bank asset concentration,SD,Sudan,"SDN","2019",NA,"","",1
-"739",GFDD.OI.06,5-bank asset concentration,SD,Sudan,"SDN","2018",NA,"","",1
-"740",GFDD.OI.06,5-bank asset concentration,SD,Sudan,"SDN","2017",NA,"","",1
-"741",GFDD.OI.06,5-bank asset concentration,SR,Suriname,"SUR","2020",NA,"","",1
-"742",GFDD.OI.06,5-bank asset concentration,SR,Suriname,"SUR","2019",NA,"","",1
-"743",GFDD.OI.06,5-bank asset concentration,SR,Suriname,"SUR","2018",NA,"","",1
-"744",GFDD.OI.06,5-bank asset concentration,SR,Suriname,"SUR","2017",NA,"","",1
-"745",GFDD.OI.06,5-bank asset concentration,SE,Sweden,"SWE","2020", 77.09253,"","",1
-"746",GFDD.OI.06,5-bank asset concentration,SE,Sweden,"SWE","2019", 77.36905,"","",1
-"747",GFDD.OI.06,5-bank asset concentration,SE,Sweden,"SWE","2018", 76.58350,"","",1
-"748",GFDD.OI.06,5-bank asset concentration,SE,Sweden,"SWE","2017", 79.56055,"","",1
-"749",GFDD.OI.06,5-bank asset concentration,CH,Switzerland,"CHE","2020", 99.15402,"","",1
-"750",GFDD.OI.06,5-bank asset concentration,CH,Switzerland,"CHE","2019", 95.54364,"","",1
-"751",GFDD.OI.06,5-bank asset concentration,CH,Switzerland,"CHE","2018", 95.66571,"","",1
-"752",GFDD.OI.06,5-bank asset concentration,CH,Switzerland,"CHE","2017", 95.59157,"","",1
-"753",GFDD.OI.06,5-bank asset concentration,SY,Syrian Arab Republic,"SYR","2020", 63.57516,"","",1
-"754",GFDD.OI.06,5-bank asset concentration,SY,Syrian Arab Republic,"SYR","2019", 89.07067,"","",1
-"755",GFDD.OI.06,5-bank asset concentration,SY,Syrian Arab Republic,"SYR","2018", 88.41549,"","",1
-"756",GFDD.OI.06,5-bank asset concentration,SY,Syrian Arab Republic,"SYR","2017", 86.81733,"","",1
-"757",GFDD.OI.06,5-bank asset concentration,TW,Taiwan, China,"TWN","2020", 87.73587,"","",1
-"758",GFDD.OI.06,5-bank asset concentration,TW,Taiwan, China,"TWN","2019", 85.09612,"","",1
-"759",GFDD.OI.06,5-bank asset concentration,TW,Taiwan, China,"TWN","2018", 85.56061,"","",1
-"760",GFDD.OI.06,5-bank asset concentration,TW,Taiwan, China,"TWN","2017", 83.37137,"","",1
-"761",GFDD.OI.06,5-bank asset concentration,TJ,Tajikistan,"TJK","2020", 99.99315,"","",1
-"762",GFDD.OI.06,5-bank asset concentration,TJ,Tajikistan,"TJK","2019", 98.45561,"","",1
-"763",GFDD.OI.06,5-bank asset concentration,TJ,Tajikistan,"TJK","2018", 98.58559,"","",1
-"764",GFDD.OI.06,5-bank asset concentration,TJ,Tajikistan,"TJK","2017", 98.99287,"","",1
-"765",GFDD.OI.06,5-bank asset concentration,TZ,Tanzania,"TZA","2020", 74.87679,"","",1
-"766",GFDD.OI.06,5-bank asset concentration,TZ,Tanzania,"TZA","2019", 52.19128,"","",1
-"767",GFDD.OI.06,5-bank asset concentration,TZ,Tanzania,"TZA","2018", 52.44899,"","",1
-"768",GFDD.OI.06,5-bank asset concentration,TZ,Tanzania,"TZA","2017", 49.43341,"","",1
-"769",GFDD.OI.06,5-bank asset concentration,TH,Thailand,"THA","2020", 86.44986,"","",1
-"770",GFDD.OI.06,5-bank asset concentration,TH,Thailand,"THA","2019", 74.97795,"","",1
-"771",GFDD.OI.06,5-bank asset concentration,TH,Thailand,"THA","2018", 76.52323,"","",1
-"772",GFDD.OI.06,5-bank asset concentration,TH,Thailand,"THA","2017", 75.42615,"","",1
-"773",GFDD.OI.06,5-bank asset concentration,TL,Timor-Leste,"","2020",NA,"","",1
-"774",GFDD.OI.06,5-bank asset concentration,TL,Timor-Leste,"","2019",NA,"","",1
-"775",GFDD.OI.06,5-bank asset concentration,TL,Timor-Leste,"","2018",NA,"","",1
-"776",GFDD.OI.06,5-bank asset concentration,TL,Timor-Leste,"","2017",NA,"","",1
-"777",GFDD.OI.06,5-bank asset concentration,TG,Togo,"TGO","2020",NA,"","",1
-"778",GFDD.OI.06,5-bank asset concentration,TG,Togo,"TGO","2019", 84.70602,"","",1
-"779",GFDD.OI.06,5-bank asset concentration,TG,Togo,"TGO","2018", 87.93130,"","",1
-"780",GFDD.OI.06,5-bank asset concentration,TG,Togo,"TGO","2017", 87.62070,"","",1
-"781",GFDD.OI.06,5-bank asset concentration,TO,Tonga,"TON","2020",NA,"","",1
-"782",GFDD.OI.06,5-bank asset concentration,TO,Tonga,"TON","2019",NA,"","",1
-"783",GFDD.OI.06,5-bank asset concentration,TO,Tonga,"TON","2018",NA,"","",1
-"784",GFDD.OI.06,5-bank asset concentration,TO,Tonga,"TON","2017",NA,"","",1
-"785",GFDD.OI.06,5-bank asset concentration,TT,Trinidad and Tobago,"TTO","2020",100.00000,"","",1
-"786",GFDD.OI.06,5-bank asset concentration,TT,Trinidad and Tobago,"TTO","2019",100.00000,"","",1
-"787",GFDD.OI.06,5-bank asset concentration,TT,Trinidad and Tobago,"TTO","2018",NA,"","",1
-"788",GFDD.OI.06,5-bank asset concentration,TT,Trinidad and Tobago,"TTO","2017",NA,"","",1
-"789",GFDD.OI.06,5-bank asset concentration,TN,Tunisia,"TUN","2020",NA,"","",1
-"790",GFDD.OI.06,5-bank asset concentration,TN,Tunisia,"TUN","2019",NA,"","",1
-"791",GFDD.OI.06,5-bank asset concentration,TN,Tunisia,"TUN","2018",NA,"","",1
-"792",GFDD.OI.06,5-bank asset concentration,TN,Tunisia,"TUN","2017",NA,"","",1
-"793",GFDD.OI.06,5-bank asset concentration,TR,Turkey,"TUR","2020", 81.15810,"","",1
-"794",GFDD.OI.06,5-bank asset concentration,TR,Turkey,"TUR","2019", 81.08843,"","",1
-"795",GFDD.OI.06,5-bank asset concentration,TR,Turkey,"TUR","2018", 80.72803,"","",1
-"796",GFDD.OI.06,5-bank asset concentration,TR,Turkey,"TUR","2017", 81.46325,"","",1
-"797",GFDD.OI.06,5-bank asset concentration,TM,Turkmenistan,"TKM","2020",NA,"","",1
-"798",GFDD.OI.06,5-bank asset concentration,TM,Turkmenistan,"TKM","2019",NA,"","",1
-"799",GFDD.OI.06,5-bank asset concentration,TM,Turkmenistan,"TKM","2018",NA,"","",1
-"800",GFDD.OI.06,5-bank asset concentration,TM,Turkmenistan,"TKM","2017",NA,"","",1
-"801",GFDD.OI.06,5-bank asset concentration,TC,Turks and Caicos Islands,"TCA","2020",NA,"","",1
-"802",GFDD.OI.06,5-bank asset concentration,TC,Turks and Caicos Islands,"TCA","2019",NA,"","",1
-"803",GFDD.OI.06,5-bank asset concentration,TC,Turks and Caicos Islands,"TCA","2018",NA,"","",1
-"804",GFDD.OI.06,5-bank asset concentration,TC,Turks and Caicos Islands,"TCA","2017",NA,"","",1
-"805",GFDD.OI.06,5-bank asset concentration,TV,Tuvalu,"TUV","2020",NA,"","",1
-"806",GFDD.OI.06,5-bank asset concentration,TV,Tuvalu,"TUV","2019",NA,"","",1
-"807",GFDD.OI.06,5-bank asset concentration,TV,Tuvalu,"TUV","2018",NA,"","",1
-"808",GFDD.OI.06,5-bank asset concentration,TV,Tuvalu,"TUV","2017",NA,"","",1
-"809",GFDD.OI.06,5-bank asset concentration,UG,Uganda,"UGA","2020", 91.68804,"","",1
-"810",GFDD.OI.06,5-bank asset concentration,UG,Uganda,"UGA","2019", 75.78612,"","",1
-"811",GFDD.OI.06,5-bank asset concentration,UG,Uganda,"UGA","2018", 75.97685,"","",1
-"812",GFDD.OI.06,5-bank asset concentration,UG,Uganda,"UGA","2017", 76.48745,"","",1
-"813",GFDD.OI.06,5-bank asset concentration,UA,Ukraine,"UKR","2020", 60.49677,"","",1
-"814",GFDD.OI.06,5-bank asset concentration,UA,Ukraine,"UKR","2019", 61.05813,"","",1
-"815",GFDD.OI.06,5-bank asset concentration,UA,Ukraine,"UKR","2018", 58.95872,"","",1
-"816",GFDD.OI.06,5-bank asset concentration,UA,Ukraine,"UKR","2017", 56.21777,"","",1
-"817",GFDD.OI.06,5-bank asset concentration,AE,United Arab Emirates,"ARE","2020", 84.34979,"","",1
-"818",GFDD.OI.06,5-bank asset concentration,AE,United Arab Emirates,"ARE","2019", 83.99667,"","",1
-"819",GFDD.OI.06,5-bank asset concentration,AE,United Arab Emirates,"ARE","2018", 78.00527,"","",1
-"820",GFDD.OI.06,5-bank asset concentration,AE,United Arab Emirates,"ARE","2017", 77.61298,"","",1
-"821",GFDD.OI.06,5-bank asset concentration,GB,United Kingdom,"GBR","2020", 68.36285,"","",1
-"822",GFDD.OI.06,5-bank asset concentration,GB,United Kingdom,"GBR","2019", 60.38666,"","",1
-"823",GFDD.OI.06,5-bank asset concentration,GB,United Kingdom,"GBR","2018", 58.73520,"","",1
-"824",GFDD.OI.06,5-bank asset concentration,GB,United Kingdom,"GBR","2017", 61.88575,"","",1
-"825",GFDD.OI.06,5-bank asset concentration,US,United States,"USA","2020", 46.24142,"","",1
-"826",GFDD.OI.06,5-bank asset concentration,US,United States,"USA","2019", 45.73803,"","",1
-"827",GFDD.OI.06,5-bank asset concentration,US,United States,"USA","2018", 45.70721,"","",1
-"828",GFDD.OI.06,5-bank asset concentration,US,United States,"USA","2017", 46.77561,"","",1
-"829",GFDD.OI.06,5-bank asset concentration,UY,Uruguay,"URY","2020", 98.70084,"","",1
-"830",GFDD.OI.06,5-bank asset concentration,UY,Uruguay,"URY","2019", 98.43193,"","",1
-"831",GFDD.OI.06,5-bank asset concentration,UY,Uruguay,"URY","2018", 98.46985,"","",1
-"832",GFDD.OI.06,5-bank asset concentration,UY,Uruguay,"URY","2017", 98.37153,"","",1
-"833",GFDD.OI.06,5-bank asset concentration,UZ,Uzbekistan,"UZB","2020", 87.98565,"","",1
-"834",GFDD.OI.06,5-bank asset concentration,UZ,Uzbekistan,"UZB","2019", 75.09425,"","",1
-"835",GFDD.OI.06,5-bank asset concentration,UZ,Uzbekistan,"UZB","2018", 75.87324,"","",1
-"836",GFDD.OI.06,5-bank asset concentration,UZ,Uzbekistan,"UZB","2017", 77.65862,"","",1
-"837",GFDD.OI.06,5-bank asset concentration,VU,Vanuatu,"VUT","2020",NA,"","",1
-"838",GFDD.OI.06,5-bank asset concentration,VU,Vanuatu,"VUT","2019",NA,"","",1
-"839",GFDD.OI.06,5-bank asset concentration,VU,Vanuatu,"VUT","2018",NA,"","",1
-"840",GFDD.OI.06,5-bank asset concentration,VU,Vanuatu,"VUT","2017",NA,"","",1
-"841",GFDD.OI.06,5-bank asset concentration,VE,Venezuela, RB,"VEN","2020", 88.87124,"","",1
-"842",GFDD.OI.06,5-bank asset concentration,VE,Venezuela, RB,"VEN","2019", 86.30823,"","",1
-"843",GFDD.OI.06,5-bank asset concentration,VE,Venezuela, RB,"VEN","2018", 87.77804,"","",1
-"844",GFDD.OI.06,5-bank asset concentration,VE,Venezuela, RB,"VEN","2017", 85.18269,"","",1
-"845",GFDD.OI.06,5-bank asset concentration,VN,Vietnam,"VNM","2020", 87.10758,"","",1
-"846",GFDD.OI.06,5-bank asset concentration,VN,Vietnam,"VNM","2019", 48.41315,"","",1
-"847",GFDD.OI.06,5-bank asset concentration,VN,Vietnam,"VNM","2018", 46.33524,"","",1
-"848",GFDD.OI.06,5-bank asset concentration,VN,Vietnam,"VNM","2017", 44.11192,"","",1
-"849",GFDD.OI.06,5-bank asset concentration,VI,Virgin Islands (U.S.),"VIR","2020",NA,"","",1
-"850",GFDD.OI.06,5-bank asset concentration,VI,Virgin Islands (U.S.),"VIR","2019",NA,"","",1
-"851",GFDD.OI.06,5-bank asset concentration,VI,Virgin Islands (U.S.),"VIR","2018",NA,"","",1
-"852",GFDD.OI.06,5-bank asset concentration,VI,Virgin Islands (U.S.),"VIR","2017",NA,"","",1
-"853",GFDD.OI.06,5-bank asset concentration,PS,West Bank and Gaza,"","2020",NA,"","",1
-"854",GFDD.OI.06,5-bank asset concentration,PS,West Bank and Gaza,"","2019",NA,"","",1
-"855",GFDD.OI.06,5-bank asset concentration,PS,West Bank and Gaza,"","2018",NA,"","",1
-"856",GFDD.OI.06,5-bank asset concentration,PS,West Bank and Gaza,"","2017",NA,"","",1
-"857",GFDD.OI.06,5-bank asset concentration,YE,Yemen, Rep.,"","2020",NA,"","",1
-"858",GFDD.OI.06,5-bank asset concentration,YE,Yemen, Rep.,"","2019",NA,"","",1
-"859",GFDD.OI.06,5-bank asset concentration,YE,Yemen, Rep.,"","2018",NA,"","",1
-"860",GFDD.OI.06,5-bank asset concentration,YE,Yemen, Rep.,"","2017",100.00000,"","",1
-"861",GFDD.OI.06,5-bank asset concentration,ZM,Zambia,"ZMB","2020",NA,"","",1
-"862",GFDD.OI.06,5-bank asset concentration,ZM,Zambia,"ZMB","2019", 91.93606,"","",1
-"863",GFDD.OI.06,5-bank asset concentration,ZM,Zambia,"ZMB","2018", 87.37607,"","",1
-"864",GFDD.OI.06,5-bank asset concentration,ZM,Zambia,"ZMB","2017", 94.22124,"","",1
-"865",GFDD.OI.06,5-bank asset concentration,ZW,Zimbabwe,"ZWE","2020", 90.32189,"","",1
-"866",GFDD.OI.06,5-bank asset concentration,ZW,Zimbabwe,"ZWE","2019", 86.10391,"","",1
-"867",GFDD.OI.06,5-bank asset concentration,ZW,Zimbabwe,"ZWE","2018", 79.57492,"","",1
-"868",GFDD.OI.06,5-bank asset concentration,ZW,Zimbabwe,"ZWE","2017", 75.10069,"","",1
+"";"banks_con_indicator.id";"banks_con_indicator.value";"banks_con_country.id";"banks_con_country.value";"country_code";"year";"banks_con_value";"banks_con_unit";"banks_con_obs_status";"banks_con_decimal"
+"1";GFDD.OI.06;5-bank asset concentration;;Least developed countries: UN classification;"";"2020";NA;"";"";1
+"2";GFDD.OI.06;5-bank asset concentration;;Least developed countries: UN classification;"";"2019";NA;"";"";1
+"3";GFDD.OI.06;5-bank asset concentration;;Least developed countries: UN classification;"";"2018";NA;"";"";1
+"4";GFDD.OI.06;5-bank asset concentration;;Least developed countries: UN classification;"";"2017";NA;"";"";1
+"5";GFDD.OI.06;5-bank asset concentration;;Small island developing states: UN classification;"";"2020";NA;"";"";1
+"6";GFDD.OI.06;5-bank asset concentration;;Small island developing states: UN classification;"";"2019";NA;"";"";1
+"7";GFDD.OI.06;5-bank asset concentration;;Small island developing states: UN classification;"";"2018";NA;"";"";1
+"8";GFDD.OI.06;5-bank asset concentration;;Small island developing states: UN classification;"";"2017";NA;"";"";1
+"9";GFDD.OI.06;5-bank asset concentration;AF;Afghanistan;"AFG";"2020"; 82.81706;"";"";1
+"10";GFDD.OI.06;5-bank asset concentration;AF;Afghanistan;"AFG";"2019"; 84.24867;"";"";1
+"11";GFDD.OI.06;5-bank asset concentration;AF;Afghanistan;"AFG";"2018"; 84.94463;"";"";1
+"12";GFDD.OI.06;5-bank asset concentration;AF;Afghanistan;"AFG";"2017"; 79.24435;"";"";1
+"13";GFDD.OI.06;5-bank asset concentration;AL;Albania;"ALB";"2020";100.00000;"";"";1
+"14";GFDD.OI.06;5-bank asset concentration;AL;Albania;"ALB";"2019"; 92.25414;"";"";1
+"15";GFDD.OI.06;5-bank asset concentration;AL;Albania;"ALB";"2018"; 90.85117;"";"";1
+"16";GFDD.OI.06;5-bank asset concentration;AL;Albania;"ALB";"2017"; 87.54324;"";"";1
+"17";GFDD.OI.06;5-bank asset concentration;DZ;Algeria;"DZA";"2020";NA;"";"";1
+"18";GFDD.OI.06;5-bank asset concentration;DZ;Algeria;"DZA";"2019"; 89.29102;"";"";1
+"19";GFDD.OI.06;5-bank asset concentration;DZ;Algeria;"DZA";"2018"; 88.59583;"";"";1
+"20";GFDD.OI.06;5-bank asset concentration;DZ;Algeria;"DZA";"2017"; 87.81059;"";"";1
+"21";GFDD.OI.06;5-bank asset concentration;AD;Andorra;"AND";"2020";NA;"";"";1
+"22";GFDD.OI.06;5-bank asset concentration;AD;Andorra;"AND";"2019";NA;"";"";1
+"23";GFDD.OI.06;5-bank asset concentration;AD;Andorra;"AND";"2018";NA;"";"";1
+"24";GFDD.OI.06;5-bank asset concentration;AD;Andorra;"AND";"2017";NA;"";"";1
+"25";GFDD.OI.06;5-bank asset concentration;AO;Angola;"AGO";"2020"; 81.05857;"";"";1
+"26";GFDD.OI.06;5-bank asset concentration;AO;Angola;"AGO";"2019"; 80.88555;"";"";1
+"27";GFDD.OI.06;5-bank asset concentration;AO;Angola;"AGO";"2018"; 81.13787;"";"";1
+"28";GFDD.OI.06;5-bank asset concentration;AO;Angola;"AGO";"2017"; 81.06333;"";"";1
+"29";GFDD.OI.06;5-bank asset concentration;AG;Antigua and Barbuda;"ATG";"2020";NA;"";"";1
+"30";GFDD.OI.06;5-bank asset concentration;AG;Antigua and Barbuda;"ATG";"2019";NA;"";"";1
+"31";GFDD.OI.06;5-bank asset concentration;AG;Antigua and Barbuda;"ATG";"2018";NA;"";"";1
+"32";GFDD.OI.06;5-bank asset concentration;AG;Antigua and Barbuda;"ATG";"2017";NA;"";"";1
+"33";GFDD.OI.06;5-bank asset concentration;AR;Argentina;"ARG";"2020"; 85.99086;"";"";1
+"34";GFDD.OI.06;5-bank asset concentration;AR;Argentina;"ARG";"2019"; 78.12563;"";"";1
+"35";GFDD.OI.06;5-bank asset concentration;AR;Argentina;"ARG";"2018"; 85.21113;"";"";1
+"36";GFDD.OI.06;5-bank asset concentration;AR;Argentina;"ARG";"2017"; 82.63516;"";"";1
+"37";GFDD.OI.06;5-bank asset concentration;AM;Armenia;"ARM";"2020"; 74.00671;"";"";1
+"38";GFDD.OI.06;5-bank asset concentration;AM;Armenia;"ARM";"2019"; 68.81674;"";"";1
+"39";GFDD.OI.06;5-bank asset concentration;AM;Armenia;"ARM";"2018"; 69.18681;"";"";1
+"40";GFDD.OI.06;5-bank asset concentration;AM;Armenia;"ARM";"2017"; 68.32945;"";"";1
+"41";GFDD.OI.06;5-bank asset concentration;AW;Aruba;"ABW";"2020";NA;"";"";1
+"42";GFDD.OI.06;5-bank asset concentration;AW;Aruba;"ABW";"2019";NA;"";"";1
+"43";GFDD.OI.06;5-bank asset concentration;AW;Aruba;"ABW";"2018";NA;"";"";1
+"44";GFDD.OI.06;5-bank asset concentration;AW;Aruba;"ABW";"2017";NA;"";"";1
+"45";GFDD.OI.06;5-bank asset concentration;AU;Australia;"AUS";"2020";NA;"";"";1
+"46";GFDD.OI.06;5-bank asset concentration;AU;Australia;"AUS";"2019";NA;"";"";1
+"47";GFDD.OI.06;5-bank asset concentration;AU;Australia;"AUS";"2018";NA;"";"";1
+"48";GFDD.OI.06;5-bank asset concentration;AU;Australia;"AUS";"2017";NA;"";"";1
+"49";GFDD.OI.06;5-bank asset concentration;AT;Austria;"AUT";"2020"; 95.23170;"";"";1
+"50";GFDD.OI.06;5-bank asset concentration;AT;Austria;"AUT";"2019"; 90.05181;"";"";1
+"51";GFDD.OI.06;5-bank asset concentration;AT;Austria;"AUT";"2018"; 90.00130;"";"";1
+"52";GFDD.OI.06;5-bank asset concentration;AT;Austria;"AUT";"2017"; 83.78063;"";"";1
+"53";GFDD.OI.06;5-bank asset concentration;AZ;Azerbaijan;"AZE";"2020"; 80.18478;"";"";1
+"54";GFDD.OI.06;5-bank asset concentration;AZ;Azerbaijan;"AZE";"2019"; 72.59940;"";"";1
+"55";GFDD.OI.06;5-bank asset concentration;AZ;Azerbaijan;"AZE";"2018"; 71.35409;"";"";1
+"56";GFDD.OI.06;5-bank asset concentration;AZ;Azerbaijan;"AZE";"2017"; 72.90870;"";"";1
+"57";GFDD.OI.06;5-bank asset concentration;BS;Bahamas, The;"BHS";"2020"; 88.08904;"";"";1
+"58";GFDD.OI.06;5-bank asset concentration;BS;Bahamas, The;"BHS";"2019"; 83.71818;"";"";1
+"59";GFDD.OI.06;5-bank asset concentration;BS;Bahamas, The;"BHS";"2018"; 80.54953;"";"";1
+"60";GFDD.OI.06;5-bank asset concentration;BS;Bahamas, The;"BHS";"2017"; 82.05938;"";"";1
+"61";GFDD.OI.06;5-bank asset concentration;BH;Bahrain;"BHR";"2020"; 98.98689;"";"";1
+"62";GFDD.OI.06;5-bank asset concentration;BH;Bahrain;"BHR";"2019"; 97.91684;"";"";1
+"63";GFDD.OI.06;5-bank asset concentration;BH;Bahrain;"BHR";"2018"; 97.77278;"";"";1
+"64";GFDD.OI.06;5-bank asset concentration;BH;Bahrain;"BHR";"2017"; 97.57139;"";"";1
+"65";GFDD.OI.06;5-bank asset concentration;BD;Bangladesh;"BGD";"2020"; 71.14885;"";"";1
+"66";GFDD.OI.06;5-bank asset concentration;BD;Bangladesh;"BGD";"2019"; 71.47920;"";"";1
+"67";GFDD.OI.06;5-bank asset concentration;BD;Bangladesh;"BGD";"2018"; 72.50465;"";"";1
+"68";GFDD.OI.06;5-bank asset concentration;BD;Bangladesh;"BGD";"2017"; 69.53402;"";"";1
+"69";GFDD.OI.06;5-bank asset concentration;BB;Barbados;"BRB";"2020";NA;"";"";1
+"70";GFDD.OI.06;5-bank asset concentration;BB;Barbados;"BRB";"2019";NA;"";"";1
+"71";GFDD.OI.06;5-bank asset concentration;BB;Barbados;"BRB";"2018";NA;"";"";1
+"72";GFDD.OI.06;5-bank asset concentration;BB;Barbados;"BRB";"2017";NA;"";"";1
+"73";GFDD.OI.06;5-bank asset concentration;BY;Belarus;"BLR";"2020"; 84.00661;"";"";1
+"74";GFDD.OI.06;5-bank asset concentration;BY;Belarus;"BLR";"2019"; 81.39584;"";"";1
+"75";GFDD.OI.06;5-bank asset concentration;BY;Belarus;"BLR";"2018"; 81.69176;"";"";1
+"76";GFDD.OI.06;5-bank asset concentration;BY;Belarus;"BLR";"2017"; 81.73470;"";"";1
+"77";GFDD.OI.06;5-bank asset concentration;BE;Belgium;"BEL";"2020"; 96.55070;"";"";1
+"78";GFDD.OI.06;5-bank asset concentration;BE;Belgium;"BEL";"2019"; 94.05086;"";"";1
+"79";GFDD.OI.06;5-bank asset concentration;BE;Belgium;"BEL";"2018"; 93.03181;"";"";1
+"80";GFDD.OI.06;5-bank asset concentration;BE;Belgium;"BEL";"2017"; 93.84309;"";"";1
+"81";GFDD.OI.06;5-bank asset concentration;BZ;Belize;"BLZ";"2020";NA;"";"";1
+"82";GFDD.OI.06;5-bank asset concentration;BZ;Belize;"BLZ";"2019";NA;"";"";1
+"83";GFDD.OI.06;5-bank asset concentration;BZ;Belize;"BLZ";"2018";NA;"";"";1
+"84";GFDD.OI.06;5-bank asset concentration;BZ;Belize;"BLZ";"2017";NA;"";"";1
+"85";GFDD.OI.06;5-bank asset concentration;BJ;Benin;"BEN";"2020";NA;"";"";1
+"86";GFDD.OI.06;5-bank asset concentration;BJ;Benin;"BEN";"2019"; 94.42752;"";"";1
+"87";GFDD.OI.06;5-bank asset concentration;BJ;Benin;"BEN";"2018"; 94.53157;"";"";1
+"88";GFDD.OI.06;5-bank asset concentration;BJ;Benin;"BEN";"2017"; 94.73975;"";"";1
+"89";GFDD.OI.06;5-bank asset concentration;BM;Bermuda;"BMU";"2020"; 99.55172;"";"";1
+"90";GFDD.OI.06;5-bank asset concentration;BM;Bermuda;"BMU";"2019"; 99.38570;"";"";1
+"91";GFDD.OI.06;5-bank asset concentration;BM;Bermuda;"BMU";"2018"; 99.03819;"";"";1
+"92";GFDD.OI.06;5-bank asset concentration;BM;Bermuda;"BMU";"2017"; 99.03661;"";"";1
+"93";GFDD.OI.06;5-bank asset concentration;BT;Bhutan;"BTN";"2020";NA;"";"";1
+"94";GFDD.OI.06;5-bank asset concentration;BT;Bhutan;"BTN";"2019";NA;"";"";1
+"95";GFDD.OI.06;5-bank asset concentration;BT;Bhutan;"BTN";"2018";NA;"";"";1
+"96";GFDD.OI.06;5-bank asset concentration;BT;Bhutan;"BTN";"2017";NA;"";"";1
+"97";GFDD.OI.06;5-bank asset concentration;BO;Bolivia;"BOL";"2020"; 69.63822;"";"";1
+"98";GFDD.OI.06;5-bank asset concentration;BO;Bolivia;"BOL";"2019"; 68.94660;"";"";1
+"99";GFDD.OI.06;5-bank asset concentration;BO;Bolivia;"BOL";"2018"; 68.32669;"";"";1
+"100";GFDD.OI.06;5-bank asset concentration;BO;Bolivia;"BOL";"2017"; 69.27301;"";"";1
+"101";GFDD.OI.06;5-bank asset concentration;BA;Bosnia and Herzegovina;"BIH";"2020"; 58.37867;"";"";1
+"102";GFDD.OI.06;5-bank asset concentration;BA;Bosnia and Herzegovina;"BIH";"2019"; 58.46542;"";"";1
+"103";GFDD.OI.06;5-bank asset concentration;BA;Bosnia and Herzegovina;"BIH";"2018"; 58.79680;"";"";1
+"104";GFDD.OI.06;5-bank asset concentration;BA;Bosnia and Herzegovina;"BIH";"2017"; 59.59690;"";"";1
+"105";GFDD.OI.06;5-bank asset concentration;BW;Botswana;"BWA";"2020";NA;"";"";1
+"106";GFDD.OI.06;5-bank asset concentration;BW;Botswana;"BWA";"2019";NA;"";"";1
+"107";GFDD.OI.06;5-bank asset concentration;BW;Botswana;"BWA";"2018";NA;"";"";1
+"108";GFDD.OI.06;5-bank asset concentration;BW;Botswana;"BWA";"2017";100.00000;"";"";1
+"109";GFDD.OI.06;5-bank asset concentration;BR;Brazil;"BRA";"2020"; 87.37513;"";"";1
+"110";GFDD.OI.06;5-bank asset concentration;BR;Brazil;"BRA";"2019"; 87.82420;"";"";1
+"111";GFDD.OI.06;5-bank asset concentration;BR;Brazil;"BRA";"2018"; 87.90524;"";"";1
+"112";GFDD.OI.06;5-bank asset concentration;BR;Brazil;"BRA";"2017"; 88.37627;"";"";1
+"113";GFDD.OI.06;5-bank asset concentration;VG;British Virgin Islands;"VGB";"2020";NA;"";"";1
+"114";GFDD.OI.06;5-bank asset concentration;VG;British Virgin Islands;"VGB";"2019";NA;"";"";1
+"115";GFDD.OI.06;5-bank asset concentration;VG;British Virgin Islands;"VGB";"2018";NA;"";"";1
+"116";GFDD.OI.06;5-bank asset concentration;VG;British Virgin Islands;"VGB";"2017";NA;"";"";1
+"117";GFDD.OI.06;5-bank asset concentration;BN;Brunei Darussalam;"BRN";"2020";NA;"";"";1
+"118";GFDD.OI.06;5-bank asset concentration;BN;Brunei Darussalam;"BRN";"2019";NA;"";"";1
+"119";GFDD.OI.06;5-bank asset concentration;BN;Brunei Darussalam;"BRN";"2018";NA;"";"";1
+"120";GFDD.OI.06;5-bank asset concentration;BN;Brunei Darussalam;"BRN";"2017";NA;"";"";1
+"121";GFDD.OI.06;5-bank asset concentration;BG;Bulgaria;"BGR";"2020";100.00000;"";"";1
+"122";GFDD.OI.06;5-bank asset concentration;BG;Bulgaria;"BGR";"2019";NA;"";"";1
+"123";GFDD.OI.06;5-bank asset concentration;BG;Bulgaria;"BGR";"2018";NA;"";"";1
+"124";GFDD.OI.06;5-bank asset concentration;BG;Bulgaria;"BGR";"2017";100.00000;"";"";1
+"125";GFDD.OI.06;5-bank asset concentration;BF;Burkina Faso;"BFA";"2020";NA;"";"";1
+"126";GFDD.OI.06;5-bank asset concentration;BF;Burkina Faso;"BFA";"2019"; 75.56194;"";"";1
+"127";GFDD.OI.06;5-bank asset concentration;BF;Burkina Faso;"BFA";"2018"; 76.03369;"";"";1
+"128";GFDD.OI.06;5-bank asset concentration;BF;Burkina Faso;"BFA";"2017"; 76.87019;"";"";1
+"129";GFDD.OI.06;5-bank asset concentration;BI;Burundi;"BDI";"2020";100.00000;"";"";1
+"130";GFDD.OI.06;5-bank asset concentration;BI;Burundi;"BDI";"2019";100.00000;"";"";1
+"131";GFDD.OI.06;5-bank asset concentration;BI;Burundi;"BDI";"2018";100.00000;"";"";1
+"132";GFDD.OI.06;5-bank asset concentration;BI;Burundi;"BDI";"2017";NA;"";"";1
+"133";GFDD.OI.06;5-bank asset concentration;CV;Cabo Verde;"CPV";"2020";100.00000;"";"";1
+"134";GFDD.OI.06;5-bank asset concentration;CV;Cabo Verde;"CPV";"2019"; 89.15407;"";"";1
+"135";GFDD.OI.06;5-bank asset concentration;CV;Cabo Verde;"CPV";"2018"; 91.35999;"";"";1
+"136";GFDD.OI.06;5-bank asset concentration;CV;Cabo Verde;"CPV";"2017"; 92.82292;"";"";1
+"137";GFDD.OI.06;5-bank asset concentration;KH;Cambodia;"KHM";"2020"; 50.93784;"";"";1
+"138";GFDD.OI.06;5-bank asset concentration;KH;Cambodia;"KHM";"2019"; 47.41277;"";"";1
+"139";GFDD.OI.06;5-bank asset concentration;KH;Cambodia;"KHM";"2018"; 46.84494;"";"";1
+"140";GFDD.OI.06;5-bank asset concentration;KH;Cambodia;"KHM";"2017"; 45.57068;"";"";1
+"141";GFDD.OI.06;5-bank asset concentration;CM;Cameroon;"CMR";"2020";NA;"";"";1
+"142";GFDD.OI.06;5-bank asset concentration;CM;Cameroon;"CMR";"2019"; 81.86285;"";"";1
+"143";GFDD.OI.06;5-bank asset concentration;CM;Cameroon;"CMR";"2018"; 76.06192;"";"";1
+"144";GFDD.OI.06;5-bank asset concentration;CM;Cameroon;"CMR";"2017"; 77.50314;"";"";1
+"145";GFDD.OI.06;5-bank asset concentration;CA;Canada;"CAN";"2020"; 84.51996;"";"";1
+"146";GFDD.OI.06;5-bank asset concentration;CA;Canada;"CAN";"2019"; 84.21588;"";"";1
+"147";GFDD.OI.06;5-bank asset concentration;CA;Canada;"CAN";"2018"; 84.16013;"";"";1
+"148";GFDD.OI.06;5-bank asset concentration;CA;Canada;"CAN";"2017"; 83.52188;"";"";1
+"149";GFDD.OI.06;5-bank asset concentration;KY;Cayman Islands;"CYM";"2020";NA;"";"";1
+"150";GFDD.OI.06;5-bank asset concentration;KY;Cayman Islands;"CYM";"2019";NA;"";"";1
+"151";GFDD.OI.06;5-bank asset concentration;KY;Cayman Islands;"CYM";"2018";NA;"";"";1
+"152";GFDD.OI.06;5-bank asset concentration;KY;Cayman Islands;"CYM";"2017";NA;"";"";1
+"153";GFDD.OI.06;5-bank asset concentration;CF;Central African Republic;"CAF";"2020";NA;"";"";1
+"154";GFDD.OI.06;5-bank asset concentration;CF;Central African Republic;"CAF";"2019";NA;"";"";1
+"155";GFDD.OI.06;5-bank asset concentration;CF;Central African Republic;"CAF";"2018";NA;"";"";1
+"156";GFDD.OI.06;5-bank asset concentration;CF;Central African Republic;"CAF";"2017";NA;"";"";1
+"157";GFDD.OI.06;5-bank asset concentration;TD;Chad;"TCD";"2020";NA;"";"";1
+"158";GFDD.OI.06;5-bank asset concentration;TD;Chad;"TCD";"2019";NA;"";"";1
+"159";GFDD.OI.06;5-bank asset concentration;TD;Chad;"TCD";"2018";NA;"";"";1
+"160";GFDD.OI.06;5-bank asset concentration;TD;Chad;"TCD";"2017";NA;"";"";1
+"161";GFDD.OI.06;5-bank asset concentration;zz;Channel Islands;"";"2020";NA;"";"";1
+"162";GFDD.OI.06;5-bank asset concentration;zz;Channel Islands;"";"2019";NA;"";"";1
+"163";GFDD.OI.06;5-bank asset concentration;zz;Channel Islands;"";"2018";NA;"";"";1
+"164";GFDD.OI.06;5-bank asset concentration;zz;Channel Islands;"";"2017";NA;"";"";1
+"165";GFDD.OI.06;5-bank asset concentration;CL;Chile;"CHL";"2020"; 86.84068;"";"";1
+"166";GFDD.OI.06;5-bank asset concentration;CL;Chile;"CHL";"2019"; 76.76704;"";"";1
+"167";GFDD.OI.06;5-bank asset concentration;CL;Chile;"CHL";"2018"; 76.67760;"";"";1
+"168";GFDD.OI.06;5-bank asset concentration;CL;Chile;"CHL";"2017"; 82.55959;"";"";1
+"169";GFDD.OI.06;5-bank asset concentration;CN;China;"CHN";"2020"; 54.79700;"";"";1
+"170";GFDD.OI.06;5-bank asset concentration;CN;China;"CHN";"2019"; 54.68069;"";"";1
+"171";GFDD.OI.06;5-bank asset concentration;CN;China;"CHN";"2018"; 54.88923;"";"";1
+"172";GFDD.OI.06;5-bank asset concentration;CN;China;"CHN";"2017"; 54.87444;"";"";1
+"173";GFDD.OI.06;5-bank asset concentration;CO;Colombia;"COL";"2020"; 77.53613;"";"";1
+"174";GFDD.OI.06;5-bank asset concentration;CO;Colombia;"COL";"2019"; 84.80120;"";"";1
+"175";GFDD.OI.06;5-bank asset concentration;CO;Colombia;"COL";"2018"; 84.72042;"";"";1
+"176";GFDD.OI.06;5-bank asset concentration;CO;Colombia;"COL";"2017"; 98.42010;"";"";1
+"177";GFDD.OI.06;5-bank asset concentration;KM;Comoros;"COM";"2020";NA;"";"";1
+"178";GFDD.OI.06;5-bank asset concentration;KM;Comoros;"COM";"2019";NA;"";"";1
+"179";GFDD.OI.06;5-bank asset concentration;KM;Comoros;"COM";"2018";NA;"";"";1
+"180";GFDD.OI.06;5-bank asset concentration;KM;Comoros;"COM";"2017";NA;"";"";1
+"181";GFDD.OI.06;5-bank asset concentration;CD;Congo, Dem. Rep.;"";"2020";NA;"";"";1
+"182";GFDD.OI.06;5-bank asset concentration;CD;Congo, Dem. Rep.;"";"2019"; 84.11263;"";"";1
+"183";GFDD.OI.06;5-bank asset concentration;CD;Congo, Dem. Rep.;"";"2018"; 85.93163;"";"";1
+"184";GFDD.OI.06;5-bank asset concentration;CD;Congo, Dem. Rep.;"";"2017"; 83.63755;"";"";1
+"185";GFDD.OI.06;5-bank asset concentration;CG;Congo, Rep.;"COG";"2020";NA;"";"";1
+"186";GFDD.OI.06;5-bank asset concentration;CG;Congo, Rep.;"COG";"2019";NA;"";"";1
+"187";GFDD.OI.06;5-bank asset concentration;CG;Congo, Rep.;"COG";"2018";NA;"";"";1
+"188";GFDD.OI.06;5-bank asset concentration;CG;Congo, Rep.;"COG";"2017";NA;"";"";1
+"189";GFDD.OI.06;5-bank asset concentration;CR;Costa Rica;"CRI";"2020"; 79.81002;"";"";1
+"190";GFDD.OI.06;5-bank asset concentration;CR;Costa Rica;"CRI";"2019"; 79.43169;"";"";1
+"191";GFDD.OI.06;5-bank asset concentration;CR;Costa Rica;"CRI";"2018"; 79.80156;"";"";1
+"192";GFDD.OI.06;5-bank asset concentration;CR;Costa Rica;"CRI";"2017"; 79.62980;"";"";1
+"193";GFDD.OI.06;5-bank asset concentration;CI;Cote d'Ivoire;"CIV";"2020"; 74.64278;"";"";1
+"194";GFDD.OI.06;5-bank asset concentration;CI;Cote d'Ivoire;"CIV";"2019"; 66.30106;"";"";1
+"195";GFDD.OI.06;5-bank asset concentration;CI;Cote d'Ivoire;"CIV";"2018"; 65.17382;"";"";1
+"196";GFDD.OI.06;5-bank asset concentration;CI;Cote d'Ivoire;"CIV";"2017"; 67.13667;"";"";1
+"197";GFDD.OI.06;5-bank asset concentration;HR;Croatia;"HRV";"2020"; 85.05699;"";"";1
+"198";GFDD.OI.06;5-bank asset concentration;HR;Croatia;"HRV";"2019"; 83.73935;"";"";1
+"199";GFDD.OI.06;5-bank asset concentration;HR;Croatia;"HRV";"2018"; 81.49285;"";"";1
+"200";GFDD.OI.06;5-bank asset concentration;HR;Croatia;"HRV";"2017"; 75.15767;"";"";1
+"201";GFDD.OI.06;5-bank asset concentration;CU;Cuba;"CUB";"2020";NA;"";"";1
+"202";GFDD.OI.06;5-bank asset concentration;CU;Cuba;"CUB";"2019";NA;"";"";1
+"203";GFDD.OI.06;5-bank asset concentration;CU;Cuba;"CUB";"2018";NA;"";"";1
+"204";GFDD.OI.06;5-bank asset concentration;CU;Cuba;"CUB";"2017";NA;"";"";1
+"205";GFDD.OI.06;5-bank asset concentration;CW;Curaçao;"CUW";"2020";100.00000;"";"";1
+"206";GFDD.OI.06;5-bank asset concentration;CW;Curaçao;"CUW";"2019";100.00000;"";"";1
+"207";GFDD.OI.06;5-bank asset concentration;CW;Curaçao;"CUW";"2018";100.00000;"";"";1
+"208";GFDD.OI.06;5-bank asset concentration;CW;Curaçao;"CUW";"2017";100.00000;"";"";1
+"209";GFDD.OI.06;5-bank asset concentration;CY;Cyprus;"CYP";"2020"; 84.35620;"";"";1
+"210";GFDD.OI.06;5-bank asset concentration;CY;Cyprus;"CYP";"2019"; 72.56513;"";"";1
+"211";GFDD.OI.06;5-bank asset concentration;CY;Cyprus;"CYP";"2018"; 73.12721;"";"";1
+"212";GFDD.OI.06;5-bank asset concentration;CY;Cyprus;"CYP";"2017"; 72.05534;"";"";1
+"213";GFDD.OI.06;5-bank asset concentration;CZ;Czech Republic;"CZE";"2020"; 82.52970;"";"";1
+"214";GFDD.OI.06;5-bank asset concentration;CZ;Czech Republic;"CZE";"2019"; 82.36193;"";"";1
+"215";GFDD.OI.06;5-bank asset concentration;CZ;Czech Republic;"CZE";"2018"; 85.02383;"";"";1
+"216";GFDD.OI.06;5-bank asset concentration;CZ;Czech Republic;"CZE";"2017"; 83.57443;"";"";1
+"217";GFDD.OI.06;5-bank asset concentration;DK;Denmark;"DNK";"2020"; 80.02422;"";"";1
+"218";GFDD.OI.06;5-bank asset concentration;DK;Denmark;"DNK";"2019"; 78.26085;"";"";1
+"219";GFDD.OI.06;5-bank asset concentration;DK;Denmark;"DNK";"2018"; 78.88039;"";"";1
+"220";GFDD.OI.06;5-bank asset concentration;DK;Denmark;"DNK";"2017"; 77.69116;"";"";1
+"221";GFDD.OI.06;5-bank asset concentration;DJ;Djibouti;"DJI";"2020";NA;"";"";1
+"222";GFDD.OI.06;5-bank asset concentration;DJ;Djibouti;"DJI";"2019";NA;"";"";1
+"223";GFDD.OI.06;5-bank asset concentration;DJ;Djibouti;"DJI";"2018";NA;"";"";1
+"224";GFDD.OI.06;5-bank asset concentration;DJ;Djibouti;"DJI";"2017";NA;"";"";1
+"225";GFDD.OI.06;5-bank asset concentration;DM;Dominica;"DMA";"2020";NA;"";"";1
+"226";GFDD.OI.06;5-bank asset concentration;DM;Dominica;"DMA";"2019";NA;"";"";1
+"227";GFDD.OI.06;5-bank asset concentration;DM;Dominica;"DMA";"2018";NA;"";"";1
+"228";GFDD.OI.06;5-bank asset concentration;DM;Dominica;"DMA";"2017";NA;"";"";1
+"229";GFDD.OI.06;5-bank asset concentration;DO;Dominican Republic;"DOM";"2020"; 86.00134;"";"";1
+"230";GFDD.OI.06;5-bank asset concentration;DO;Dominican Republic;"DOM";"2019"; 84.99326;"";"";1
+"231";GFDD.OI.06;5-bank asset concentration;DO;Dominican Republic;"DOM";"2018"; 84.66656;"";"";1
+"232";GFDD.OI.06;5-bank asset concentration;DO;Dominican Republic;"DOM";"2017"; 84.51462;"";"";1
+"233";GFDD.OI.06;5-bank asset concentration;EC;Ecuador;"ECU";"2020"; 90.71394;"";"";1
+"234";GFDD.OI.06;5-bank asset concentration;EC;Ecuador;"ECU";"2019"; 90.78689;"";"";1
+"235";GFDD.OI.06;5-bank asset concentration;EC;Ecuador;"ECU";"2018"; 92.05879;"";"";1
+"236";GFDD.OI.06;5-bank asset concentration;EC;Ecuador;"ECU";"2017"; 92.12662;"";"";1
+"237";GFDD.OI.06;5-bank asset concentration;EG;Egypt, Arab Rep.;"EGY";"2020"; 88.75202;"";"";1
+"238";GFDD.OI.06;5-bank asset concentration;EG;Egypt, Arab Rep.;"EGY";"2019"; 83.96680;"";"";1
+"239";GFDD.OI.06;5-bank asset concentration;EG;Egypt, Arab Rep.;"EGY";"2018"; 83.65858;"";"";1
+"240";GFDD.OI.06;5-bank asset concentration;EG;Egypt, Arab Rep.;"EGY";"2017"; 83.89550;"";"";1
+"241";GFDD.OI.06;5-bank asset concentration;SV;El Salvador;"SLV";"2020"; 94.78979;"";"";1
+"242";GFDD.OI.06;5-bank asset concentration;SV;El Salvador;"SLV";"2019"; 91.33926;"";"";1
+"243";GFDD.OI.06;5-bank asset concentration;SV;El Salvador;"SLV";"2018"; 90.86177;"";"";1
+"244";GFDD.OI.06;5-bank asset concentration;SV;El Salvador;"SLV";"2017"; 91.42452;"";"";1
+"245";GFDD.OI.06;5-bank asset concentration;GQ;Equatorial Guinea;"GNQ";"2020";NA;"";"";1
+"246";GFDD.OI.06;5-bank asset concentration;GQ;Equatorial Guinea;"GNQ";"2019";NA;"";"";1
+"247";GFDD.OI.06;5-bank asset concentration;GQ;Equatorial Guinea;"GNQ";"2018";NA;"";"";1
+"248";GFDD.OI.06;5-bank asset concentration;GQ;Equatorial Guinea;"GNQ";"2017";NA;"";"";1
+"249";GFDD.OI.06;5-bank asset concentration;ER;Eritrea;"ERI";"2020";NA;"";"";1
+"250";GFDD.OI.06;5-bank asset concentration;ER;Eritrea;"ERI";"2019";NA;"";"";1
+"251";GFDD.OI.06;5-bank asset concentration;ER;Eritrea;"ERI";"2018";NA;"";"";1
+"252";GFDD.OI.06;5-bank asset concentration;ER;Eritrea;"ERI";"2017";NA;"";"";1
+"253";GFDD.OI.06;5-bank asset concentration;EE;Estonia;"EST";"2020";100.00000;"";"";1
+"254";GFDD.OI.06;5-bank asset concentration;EE;Estonia;"EST";"2019";100.00000;"";"";1
+"255";GFDD.OI.06;5-bank asset concentration;EE;Estonia;"EST";"2018";100.00000;"";"";1
+"256";GFDD.OI.06;5-bank asset concentration;EE;Estonia;"EST";"2017"; 97.51958;"";"";1
+"257";GFDD.OI.06;5-bank asset concentration;SZ;Eswatini;"SWZ";"2020";NA;"";"";1
+"258";GFDD.OI.06;5-bank asset concentration;SZ;Eswatini;"SWZ";"2019";NA;"";"";1
+"259";GFDD.OI.06;5-bank asset concentration;SZ;Eswatini;"SWZ";"2018";NA;"";"";1
+"260";GFDD.OI.06;5-bank asset concentration;SZ;Eswatini;"SWZ";"2017";NA;"";"";1
+"261";GFDD.OI.06;5-bank asset concentration;ET;Ethiopia;"ETH";"2020"; 69.93847;"";"";1
+"262";GFDD.OI.06;5-bank asset concentration;ET;Ethiopia;"ETH";"2019"; 67.69099;"";"";1
+"263";GFDD.OI.06;5-bank asset concentration;ET;Ethiopia;"ETH";"2018"; 67.72036;"";"";1
+"264";GFDD.OI.06;5-bank asset concentration;ET;Ethiopia;"ETH";"2017"; 68.87475;"";"";1
+"265";GFDD.OI.06;5-bank asset concentration;FO;Faroe Islands;"FRO";"2020";NA;"";"";1
+"266";GFDD.OI.06;5-bank asset concentration;FO;Faroe Islands;"FRO";"2019";NA;"";"";1
+"267";GFDD.OI.06;5-bank asset concentration;FO;Faroe Islands;"FRO";"2018";NA;"";"";1
+"268";GFDD.OI.06;5-bank asset concentration;FO;Faroe Islands;"FRO";"2017";NA;"";"";1
+"269";GFDD.OI.06;5-bank asset concentration;FJ;Fiji;"FJI";"2020";NA;"";"";1
+"270";GFDD.OI.06;5-bank asset concentration;FJ;Fiji;"FJI";"2019";100.00000;"";"";1
+"271";GFDD.OI.06;5-bank asset concentration;FJ;Fiji;"FJI";"2018";100.00000;"";"";1
+"272";GFDD.OI.06;5-bank asset concentration;FJ;Fiji;"FJI";"2017";100.00000;"";"";1
+"273";GFDD.OI.06;5-bank asset concentration;FI;Finland;"FIN";"2020"; 94.90811;"";"";1
+"274";GFDD.OI.06;5-bank asset concentration;FI;Finland;"FIN";"2019"; 93.89262;"";"";1
+"275";GFDD.OI.06;5-bank asset concentration;FI;Finland;"FIN";"2018"; 93.50617;"";"";1
+"276";GFDD.OI.06;5-bank asset concentration;FI;Finland;"FIN";"2017"; 92.81166;"";"";1
+"277";GFDD.OI.06;5-bank asset concentration;FR;France;"FRA";"2020"; 85.36097;"";"";1
+"278";GFDD.OI.06;5-bank asset concentration;FR;France;"FRA";"2019"; 82.06725;"";"";1
+"279";GFDD.OI.06;5-bank asset concentration;FR;France;"FRA";"2018"; 82.19890;"";"";1
+"280";GFDD.OI.06;5-bank asset concentration;FR;France;"FRA";"2017"; 79.14206;"";"";1
+"281";GFDD.OI.06;5-bank asset concentration;PF;French Polynesia;"PYF";"2020";NA;"";"";1
+"282";GFDD.OI.06;5-bank asset concentration;PF;French Polynesia;"PYF";"2019";NA;"";"";1
+"283";GFDD.OI.06;5-bank asset concentration;PF;French Polynesia;"PYF";"2018";NA;"";"";1
+"284";GFDD.OI.06;5-bank asset concentration;PF;French Polynesia;"PYF";"2017";NA;"";"";1
+"285";GFDD.OI.06;5-bank asset concentration;GA;Gabon;"GAB";"2020";NA;"";"";1
+"286";GFDD.OI.06;5-bank asset concentration;GA;Gabon;"GAB";"2019";NA;"";"";1
+"287";GFDD.OI.06;5-bank asset concentration;GA;Gabon;"GAB";"2018";100.00000;"";"";1
+"288";GFDD.OI.06;5-bank asset concentration;GA;Gabon;"GAB";"2017";100.00000;"";"";1
+"289";GFDD.OI.06;5-bank asset concentration;GM;Gambia, The;"GMB";"2020";NA;"";"";1
+"290";GFDD.OI.06;5-bank asset concentration;GM;Gambia, The;"GMB";"2019";100.00000;"";"";1
+"291";GFDD.OI.06;5-bank asset concentration;GM;Gambia, The;"GMB";"2018";100.00000;"";"";1
+"292";GFDD.OI.06;5-bank asset concentration;GM;Gambia, The;"GMB";"2017";NA;"";"";1
+"293";GFDD.OI.06;5-bank asset concentration;GE;Georgia;"GEO";"2020"; 98.67600;"";"";1
+"294";GFDD.OI.06;5-bank asset concentration;GE;Georgia;"GEO";"2019"; 95.01186;"";"";1
+"295";GFDD.OI.06;5-bank asset concentration;GE;Georgia;"GEO";"2018"; 94.80814;"";"";1
+"296";GFDD.OI.06;5-bank asset concentration;GE;Georgia;"GEO";"2017"; 94.45494;"";"";1
+"297";GFDD.OI.06;5-bank asset concentration;DE;Germany;"DEU";"2020"; 99.85282;"";"";1
+"298";GFDD.OI.06;5-bank asset concentration;DE;Germany;"DEU";"2019"; 88.96822;"";"";1
+"299";GFDD.OI.06;5-bank asset concentration;DE;Germany;"DEU";"2018"; 91.18978;"";"";1
+"300";GFDD.OI.06;5-bank asset concentration;DE;Germany;"DEU";"2017"; 93.15964;"";"";1
+"301";GFDD.OI.06;5-bank asset concentration;GH;Ghana;"GHA";"2020"; 63.72788;"";"";1
+"302";GFDD.OI.06;5-bank asset concentration;GH;Ghana;"GHA";"2019"; 61.97347;"";"";1
+"303";GFDD.OI.06;5-bank asset concentration;GH;Ghana;"GHA";"2018"; 63.23750;"";"";1
+"304";GFDD.OI.06;5-bank asset concentration;GH;Ghana;"GHA";"2017"; 62.79992;"";"";1
+"305";GFDD.OI.06;5-bank asset concentration;GI;Gibraltar;"GIB";"2020";NA;"";"";1
+"306";GFDD.OI.06;5-bank asset concentration;GI;Gibraltar;"GIB";"2019";NA;"";"";1
+"307";GFDD.OI.06;5-bank asset concentration;GI;Gibraltar;"GIB";"2018";NA;"";"";1
+"308";GFDD.OI.06;5-bank asset concentration;GI;Gibraltar;"GIB";"2017";NA;"";"";1
+"309";GFDD.OI.06;5-bank asset concentration;GR;Greece;"GRC";"2020";NA;"";"";1
+"310";GFDD.OI.06;5-bank asset concentration;GR;Greece;"GRC";"2019";NA;"";"";1
+"311";GFDD.OI.06;5-bank asset concentration;GR;Greece;"GRC";"2018";NA;"";"";1
+"312";GFDD.OI.06;5-bank asset concentration;GR;Greece;"GRC";"2017";NA;"";"";1
+"313";GFDD.OI.06;5-bank asset concentration;GL;Greenland;"GRL";"2020";NA;"";"";1
+"314";GFDD.OI.06;5-bank asset concentration;GL;Greenland;"GRL";"2019";NA;"";"";1
+"315";GFDD.OI.06;5-bank asset concentration;GL;Greenland;"GRL";"2018";NA;"";"";1
+"316";GFDD.OI.06;5-bank asset concentration;GL;Greenland;"GRL";"2017";NA;"";"";1
+"317";GFDD.OI.06;5-bank asset concentration;GD;Grenada;"GRD";"2020";NA;"";"";1
+"318";GFDD.OI.06;5-bank asset concentration;GD;Grenada;"GRD";"2019";NA;"";"";1
+"319";GFDD.OI.06;5-bank asset concentration;GD;Grenada;"GRD";"2018";NA;"";"";1
+"320";GFDD.OI.06;5-bank asset concentration;GD;Grenada;"GRD";"2017";NA;"";"";1
+"321";GFDD.OI.06;5-bank asset concentration;GU;Guam;"GUM";"2020";NA;"";"";1
+"322";GFDD.OI.06;5-bank asset concentration;GU;Guam;"GUM";"2019";NA;"";"";1
+"323";GFDD.OI.06;5-bank asset concentration;GU;Guam;"GUM";"2018";NA;"";"";1
+"324";GFDD.OI.06;5-bank asset concentration;GU;Guam;"GUM";"2017";NA;"";"";1
+"325";GFDD.OI.06;5-bank asset concentration;GT;Guatemala;"GTM";"2020"; 80.55556;"";"";1
+"326";GFDD.OI.06;5-bank asset concentration;GT;Guatemala;"GTM";"2019"; 81.32793;"";"";1
+"327";GFDD.OI.06;5-bank asset concentration;GT;Guatemala;"GTM";"2018"; 81.46834;"";"";1
+"328";GFDD.OI.06;5-bank asset concentration;GT;Guatemala;"GTM";"2017"; 81.42807;"";"";1
+"329";GFDD.OI.06;5-bank asset concentration;GN;Guinea;"GIN";"2020";100.00000;"";"";1
+"330";GFDD.OI.06;5-bank asset concentration;GN;Guinea;"GIN";"2019"; 90.27155;"";"";1
+"331";GFDD.OI.06;5-bank asset concentration;GN;Guinea;"GIN";"2018"; 89.77150;"";"";1
+"332";GFDD.OI.06;5-bank asset concentration;GN;Guinea;"GIN";"2017"; 87.63439;"";"";1
+"333";GFDD.OI.06;5-bank asset concentration;GW;Guinea-Bissau;"GNB";"2020";NA;"";"";1
+"334";GFDD.OI.06;5-bank asset concentration;GW;Guinea-Bissau;"GNB";"2019";NA;"";"";1
+"335";GFDD.OI.06;5-bank asset concentration;GW;Guinea-Bissau;"GNB";"2018";NA;"";"";1
+"336";GFDD.OI.06;5-bank asset concentration;GW;Guinea-Bissau;"GNB";"2017";NA;"";"";1
+"337";GFDD.OI.06;5-bank asset concentration;GY;Guyana;"GUY";"2020";100.00000;"";"";1
+"338";GFDD.OI.06;5-bank asset concentration;GY;Guyana;"GUY";"2019"; 97.66744;"";"";1
+"339";GFDD.OI.06;5-bank asset concentration;GY;Guyana;"GUY";"2018"; 97.61996;"";"";1
+"340";GFDD.OI.06;5-bank asset concentration;GY;Guyana;"GUY";"2017"; 96.81822;"";"";1
+"341";GFDD.OI.06;5-bank asset concentration;HT;Haiti;"HTI";"2020";NA;"";"";1
+"342";GFDD.OI.06;5-bank asset concentration;HT;Haiti;"HTI";"2019";100.00000;"";"";1
+"343";GFDD.OI.06;5-bank asset concentration;HT;Haiti;"HTI";"2018";100.00000;"";"";1
+"344";GFDD.OI.06;5-bank asset concentration;HT;Haiti;"HTI";"2017";100.00000;"";"";1
+"345";GFDD.OI.06;5-bank asset concentration;HN;Honduras;"HND";"2020"; 99.04853;"";"";1
+"346";GFDD.OI.06;5-bank asset concentration;HN;Honduras;"HND";"2019"; 99.09644;"";"";1
+"347";GFDD.OI.06;5-bank asset concentration;HN;Honduras;"HND";"2018"; 99.02702;"";"";1
+"348";GFDD.OI.06;5-bank asset concentration;HN;Honduras;"HND";"2017"; 99.01051;"";"";1
+"349";GFDD.OI.06;5-bank asset concentration;HK;Hong Kong SAR, China;"HKG";"2020"; 69.97083;"";"";1
+"350";GFDD.OI.06;5-bank asset concentration;HK;Hong Kong SAR, China;"HKG";"2019"; 68.16422;"";"";1
+"351";GFDD.OI.06;5-bank asset concentration;HK;Hong Kong SAR, China;"HKG";"2018"; 68.22018;"";"";1
+"352";GFDD.OI.06;5-bank asset concentration;HK;Hong Kong SAR, China;"HKG";"2017"; 66.59316;"";"";1
+"353";GFDD.OI.06;5-bank asset concentration;HU;Hungary;"HUN";"2020";NA;"";"";1
+"354";GFDD.OI.06;5-bank asset concentration;HU;Hungary;"HUN";"2019";NA;"";"";1
+"355";GFDD.OI.06;5-bank asset concentration;HU;Hungary;"HUN";"2018"; 98.36044;"";"";1
+"356";GFDD.OI.06;5-bank asset concentration;HU;Hungary;"HUN";"2017"; 96.64402;"";"";1
+"357";GFDD.OI.06;5-bank asset concentration;IS;Iceland;"ISL";"2020";NA;"";"";1
+"358";GFDD.OI.06;5-bank asset concentration;IS;Iceland;"ISL";"2019";NA;"";"";1
+"359";GFDD.OI.06;5-bank asset concentration;IS;Iceland;"ISL";"2018";NA;"";"";1
+"360";GFDD.OI.06;5-bank asset concentration;IS;Iceland;"ISL";"2017";NA;"";"";1
+"361";GFDD.OI.06;5-bank asset concentration;IN;India;"IND";"2020"; 72.61819;"";"";1
+"362";GFDD.OI.06;5-bank asset concentration;IN;India;"IND";"2019"; 58.23427;"";"";1
+"363";GFDD.OI.06;5-bank asset concentration;IN;India;"IND";"2018"; 56.89509;"";"";1
+"364";GFDD.OI.06;5-bank asset concentration;IN;India;"IND";"2017"; 52.97345;"";"";1
+"365";GFDD.OI.06;5-bank asset concentration;ID;Indonesia;"IDN";"2020"; 35.13658;"";"";1
+"366";GFDD.OI.06;5-bank asset concentration;ID;Indonesia;"IDN";"2019"; 33.33284;"";"";1
+"367";GFDD.OI.06;5-bank asset concentration;ID;Indonesia;"IDN";"2018"; 33.11512;"";"";1
+"368";GFDD.OI.06;5-bank asset concentration;ID;Indonesia;"IDN";"2017"; 32.20777;"";"";1
+"369";GFDD.OI.06;5-bank asset concentration;IR;Iran, Islamic Rep.;"IRN";"2020";NA;"";"";1
+"370";GFDD.OI.06;5-bank asset concentration;IR;Iran, Islamic Rep.;"IRN";"2019";NA;"";"";1
+"371";GFDD.OI.06;5-bank asset concentration;IR;Iran, Islamic Rep.;"IRN";"2018";NA;"";"";1
+"372";GFDD.OI.06;5-bank asset concentration;IR;Iran, Islamic Rep.;"IRN";"2017";NA;"";"";1
+"373";GFDD.OI.06;5-bank asset concentration;IQ;Iraq;"IRQ";"2020"; 85.82735;"";"";1
+"374";GFDD.OI.06;5-bank asset concentration;IQ;Iraq;"IRQ";"2019"; 97.47520;"";"";1
+"375";GFDD.OI.06;5-bank asset concentration;IQ;Iraq;"IRQ";"2018"; 95.84125;"";"";1
+"376";GFDD.OI.06;5-bank asset concentration;IQ;Iraq;"IRQ";"2017"; 95.64321;"";"";1
+"377";GFDD.OI.06;5-bank asset concentration;IE;Ireland;"IRL";"2020";NA;"";"";1
+"378";GFDD.OI.06;5-bank asset concentration;IE;Ireland;"IRL";"2019";NA;"";"";1
+"379";GFDD.OI.06;5-bank asset concentration;IE;Ireland;"IRL";"2018";NA;"";"";1
+"380";GFDD.OI.06;5-bank asset concentration;IE;Ireland;"IRL";"2017";NA;"";"";1
+"381";GFDD.OI.06;5-bank asset concentration;IM;Isle of Man;"IMN";"2020";NA;"";"";1
+"382";GFDD.OI.06;5-bank asset concentration;IM;Isle of Man;"IMN";"2019";NA;"";"";1
+"383";GFDD.OI.06;5-bank asset concentration;IM;Isle of Man;"IMN";"2018";NA;"";"";1
+"384";GFDD.OI.06;5-bank asset concentration;IM;Isle of Man;"IMN";"2017";NA;"";"";1
+"385";GFDD.OI.06;5-bank asset concentration;IL;Israel;"ISR";"2020";NA;"";"";1
+"386";GFDD.OI.06;5-bank asset concentration;IL;Israel;"ISR";"2019";100.00000;"";"";1
+"387";GFDD.OI.06;5-bank asset concentration;IL;Israel;"ISR";"2018"; 99.43105;"";"";1
+"388";GFDD.OI.06;5-bank asset concentration;IL;Israel;"ISR";"2017"; 99.28532;"";"";1
+"389";GFDD.OI.06;5-bank asset concentration;IT;Italy;"ITA";"2020"; 73.84022;"";"";1
+"390";GFDD.OI.06;5-bank asset concentration;IT;Italy;"ITA";"2019"; 72.60264;"";"";1
+"391";GFDD.OI.06;5-bank asset concentration;IT;Italy;"ITA";"2018"; 65.75478;"";"";1
+"392";GFDD.OI.06;5-bank asset concentration;IT;Italy;"ITA";"2017"; 64.97675;"";"";1
+"393";GFDD.OI.06;5-bank asset concentration;JM;Jamaica;"JAM";"2020";NA;"";"";1
+"394";GFDD.OI.06;5-bank asset concentration;JM;Jamaica;"JAM";"2019"; 92.56327;"";"";1
+"395";GFDD.OI.06;5-bank asset concentration;JM;Jamaica;"JAM";"2018"; 93.37988;"";"";1
+"396";GFDD.OI.06;5-bank asset concentration;JM;Jamaica;"JAM";"2017"; 96.44327;"";"";1
+"397";GFDD.OI.06;5-bank asset concentration;JP;Japan;"JPN";"2020"; 43.87664;"";"";1
+"398";GFDD.OI.06;5-bank asset concentration;JP;Japan;"JPN";"2019"; 39.41880;"";"";1
+"399";GFDD.OI.06;5-bank asset concentration;JP;Japan;"JPN";"2018"; 39.59865;"";"";1
+"400";GFDD.OI.06;5-bank asset concentration;JP;Japan;"JPN";"2017"; 45.23830;"";"";1
+"401";GFDD.OI.06;5-bank asset concentration;JO;Jordan;"JOR";"2020"; 63.30688;"";"";1
+"402";GFDD.OI.06;5-bank asset concentration;JO;Jordan;"JOR";"2019"; 63.34846;"";"";1
+"403";GFDD.OI.06;5-bank asset concentration;JO;Jordan;"JOR";"2018"; 63.09919;"";"";1
+"404";GFDD.OI.06;5-bank asset concentration;JO;Jordan;"JOR";"2017"; 63.76201;"";"";1
+"405";GFDD.OI.06;5-bank asset concentration;KZ;Kazakhstan;"KAZ";"2020"; 75.12988;"";"";1
+"406";GFDD.OI.06;5-bank asset concentration;KZ;Kazakhstan;"KAZ";"2019"; 74.37950;"";"";1
+"407";GFDD.OI.06;5-bank asset concentration;KZ;Kazakhstan;"KAZ";"2018"; 76.17213;"";"";1
+"408";GFDD.OI.06;5-bank asset concentration;KZ;Kazakhstan;"KAZ";"2017"; 76.04752;"";"";1
+"409";GFDD.OI.06;5-bank asset concentration;KE;Kenya;"KEN";"2020"; 85.68653;"";"";1
+"410";GFDD.OI.06;5-bank asset concentration;KE;Kenya;"KEN";"2019"; 84.26135;"";"";1
+"411";GFDD.OI.06;5-bank asset concentration;KE;Kenya;"KEN";"2018"; 82.36706;"";"";1
+"412";GFDD.OI.06;5-bank asset concentration;KE;Kenya;"KEN";"2017"; 80.80308;"";"";1
+"413";GFDD.OI.06;5-bank asset concentration;KI;Kiribati;"KIR";"2020";NA;"";"";1
+"414";GFDD.OI.06;5-bank asset concentration;KI;Kiribati;"KIR";"2019";NA;"";"";1
+"415";GFDD.OI.06;5-bank asset concentration;KI;Kiribati;"KIR";"2018";NA;"";"";1
+"416";GFDD.OI.06;5-bank asset concentration;KI;Kiribati;"KIR";"2017";NA;"";"";1
+"417";GFDD.OI.06;5-bank asset concentration;KP;Korea, Dem. Rep.;"PRK";"2020";NA;"";"";1
+"418";GFDD.OI.06;5-bank asset concentration;KP;Korea, Dem. Rep.;"PRK";"2019";NA;"";"";1
+"419";GFDD.OI.06;5-bank asset concentration;KP;Korea, Dem. Rep.;"PRK";"2018";NA;"";"";1
+"420";GFDD.OI.06;5-bank asset concentration;KP;Korea, Dem. Rep.;"PRK";"2017";NA;"";"";1
+"421";GFDD.OI.06;5-bank asset concentration;KR;Korea, Rep.;"KOR";"2020"; 89.60439;"";"";1
+"422";GFDD.OI.06;5-bank asset concentration;KR;Korea, Rep.;"KOR";"2019"; 89.49235;"";"";1
+"423";GFDD.OI.06;5-bank asset concentration;KR;Korea, Rep.;"KOR";"2018"; 88.75544;"";"";1
+"424";GFDD.OI.06;5-bank asset concentration;KR;Korea, Rep.;"KOR";"2017"; 89.18535;"";"";1
+"425";GFDD.OI.06;5-bank asset concentration;XK;Kosovo;"XKX";"2020";NA;"";"";1
+"426";GFDD.OI.06;5-bank asset concentration;XK;Kosovo;"XKX";"2019";NA;"";"";1
+"427";GFDD.OI.06;5-bank asset concentration;XK;Kosovo;"XKX";"2018";NA;"";"";1
+"428";GFDD.OI.06;5-bank asset concentration;XK;Kosovo;"XKX";"2017";NA;"";"";1
+"429";GFDD.OI.06;5-bank asset concentration;KW;Kuwait;"KWT";"2020";100.00000;"";"";1
+"430";GFDD.OI.06;5-bank asset concentration;KW;Kuwait;"KWT";"2019"; 99.70075;"";"";1
+"431";GFDD.OI.06;5-bank asset concentration;KW;Kuwait;"KWT";"2018"; 99.69955;"";"";1
+"432";GFDD.OI.06;5-bank asset concentration;KW;Kuwait;"KWT";"2017"; 99.68280;"";"";1
+"433";GFDD.OI.06;5-bank asset concentration;KG;Kyrgyz Republic;"KGZ";"2020"; 70.67601;"";"";1
+"434";GFDD.OI.06;5-bank asset concentration;KG;Kyrgyz Republic;"KGZ";"2019"; 71.58319;"";"";1
+"435";GFDD.OI.06;5-bank asset concentration;KG;Kyrgyz Republic;"KGZ";"2018"; 70.13313;"";"";1
+"436";GFDD.OI.06;5-bank asset concentration;KG;Kyrgyz Republic;"KGZ";"2017"; 69.72526;"";"";1
+"437";GFDD.OI.06;5-bank asset concentration;LA;Lao PDR;"LAO";"2020"; 88.30962;"";"";1
+"438";GFDD.OI.06;5-bank asset concentration;LA;Lao PDR;"LAO";"2019"; 84.88391;"";"";1
+"439";GFDD.OI.06;5-bank asset concentration;LA;Lao PDR;"LAO";"2018"; 83.84776;"";"";1
+"440";GFDD.OI.06;5-bank asset concentration;LA;Lao PDR;"LAO";"2017"; 83.31451;"";"";1
+"441";GFDD.OI.06;5-bank asset concentration;LV;Latvia;"LVA";"2020";NA;"";"";1
+"442";GFDD.OI.06;5-bank asset concentration;LV;Latvia;"LVA";"2019";NA;"";"";1
+"443";GFDD.OI.06;5-bank asset concentration;LV;Latvia;"LVA";"2018";NA;"";"";1
+"444";GFDD.OI.06;5-bank asset concentration;LV;Latvia;"LVA";"2017";NA;"";"";1
+"445";GFDD.OI.06;5-bank asset concentration;LB;Lebanon;"LBN";"2020";100.00000;"";"";1
+"446";GFDD.OI.06;5-bank asset concentration;LB;Lebanon;"LBN";"2019"; 67.67338;"";"";1
+"447";GFDD.OI.06;5-bank asset concentration;LB;Lebanon;"LBN";"2018"; 63.62526;"";"";1
+"448";GFDD.OI.06;5-bank asset concentration;LB;Lebanon;"LBN";"2017"; 61.97494;"";"";1
+"449";GFDD.OI.06;5-bank asset concentration;LS;Lesotho;"LSO";"2020";NA;"";"";1
+"450";GFDD.OI.06;5-bank asset concentration;LS;Lesotho;"LSO";"2019";NA;"";"";1
+"451";GFDD.OI.06;5-bank asset concentration;LS;Lesotho;"LSO";"2018";NA;"";"";1
+"452";GFDD.OI.06;5-bank asset concentration;LS;Lesotho;"LSO";"2017";NA;"";"";1
+"453";GFDD.OI.06;5-bank asset concentration;LR;Liberia;"LBR";"2020";NA;"";"";1
+"454";GFDD.OI.06;5-bank asset concentration;LR;Liberia;"LBR";"2019";NA;"";"";1
+"455";GFDD.OI.06;5-bank asset concentration;LR;Liberia;"LBR";"2018";NA;"";"";1
+"456";GFDD.OI.06;5-bank asset concentration;LR;Liberia;"LBR";"2017";NA;"";"";1
+"457";GFDD.OI.06;5-bank asset concentration;LY;Libya;"LBY";"2020";NA;"";"";1
+"458";GFDD.OI.06;5-bank asset concentration;LY;Libya;"LBY";"2019"; 98.32643;"";"";1
+"459";GFDD.OI.06;5-bank asset concentration;LY;Libya;"LBY";"2018"; 90.64843;"";"";1
+"460";GFDD.OI.06;5-bank asset concentration;LY;Libya;"LBY";"2017"; 89.00992;"";"";1
+"461";GFDD.OI.06;5-bank asset concentration;LI;Liechtenstein;"LIE";"2020";NA;"";"";1
+"462";GFDD.OI.06;5-bank asset concentration;LI;Liechtenstein;"LIE";"2019";NA;"";"";1
+"463";GFDD.OI.06;5-bank asset concentration;LI;Liechtenstein;"LIE";"2018";NA;"";"";1
+"464";GFDD.OI.06;5-bank asset concentration;LI;Liechtenstein;"LIE";"2017";NA;"";"";1
+"465";GFDD.OI.06;5-bank asset concentration;LT;Lithuania;"LTU";"2020";NA;"";"";1
+"466";GFDD.OI.06;5-bank asset concentration;LT;Lithuania;"LTU";"2019";NA;"";"";1
+"467";GFDD.OI.06;5-bank asset concentration;LT;Lithuania;"LTU";"2018";NA;"";"";1
+"468";GFDD.OI.06;5-bank asset concentration;LT;Lithuania;"LTU";"2017";NA;"";"";1
+"469";GFDD.OI.06;5-bank asset concentration;LU;Luxembourg;"LUX";"2020";100.00000;"";"";1
+"470";GFDD.OI.06;5-bank asset concentration;LU;Luxembourg;"LUX";"2019"; 98.45884;"";"";1
+"471";GFDD.OI.06;5-bank asset concentration;LU;Luxembourg;"LUX";"2018"; 95.96484;"";"";1
+"472";GFDD.OI.06;5-bank asset concentration;LU;Luxembourg;"LUX";"2017"; 91.57886;"";"";1
+"473";GFDD.OI.06;5-bank asset concentration;MO;Macao SAR, China;"MAC";"2020"; 90.94905;"";"";1
+"474";GFDD.OI.06;5-bank asset concentration;MO;Macao SAR, China;"MAC";"2019"; 89.05711;"";"";1
+"475";GFDD.OI.06;5-bank asset concentration;MO;Macao SAR, China;"MAC";"2018"; 89.41071;"";"";1
+"476";GFDD.OI.06;5-bank asset concentration;MO;Macao SAR, China;"MAC";"2017"; 87.70803;"";"";1
+"477";GFDD.OI.06;5-bank asset concentration;MG;Madagascar;"MDG";"2020";NA;"";"";1
+"478";GFDD.OI.06;5-bank asset concentration;MG;Madagascar;"MDG";"2019";100.00000;"";"";1
+"479";GFDD.OI.06;5-bank asset concentration;MG;Madagascar;"MDG";"2018";100.00000;"";"";1
+"480";GFDD.OI.06;5-bank asset concentration;MG;Madagascar;"MDG";"2017";100.00000;"";"";1
+"481";GFDD.OI.06;5-bank asset concentration;MW;Malawi;"MWI";"2020";NA;"";"";1
+"482";GFDD.OI.06;5-bank asset concentration;MW;Malawi;"MWI";"2019";NA;"";"";1
+"483";GFDD.OI.06;5-bank asset concentration;MW;Malawi;"MWI";"2018";NA;"";"";1
+"484";GFDD.OI.06;5-bank asset concentration;MW;Malawi;"MWI";"2017";NA;"";"";1
+"485";GFDD.OI.06;5-bank asset concentration;MY;Malaysia;"MYS";"2020"; 98.41644;"";"";1
+"486";GFDD.OI.06;5-bank asset concentration;MY;Malaysia;"MYS";"2019"; 85.46008;"";"";1
+"487";GFDD.OI.06;5-bank asset concentration;MY;Malaysia;"MYS";"2018"; 84.38601;"";"";1
+"488";GFDD.OI.06;5-bank asset concentration;MY;Malaysia;"MYS";"2017"; 84.53629;"";"";1
+"489";GFDD.OI.06;5-bank asset concentration;MV;Maldives;"MDV";"2020";NA;"";"";1
+"490";GFDD.OI.06;5-bank asset concentration;MV;Maldives;"MDV";"2019";NA;"";"";1
+"491";GFDD.OI.06;5-bank asset concentration;MV;Maldives;"MDV";"2018";NA;"";"";1
+"492";GFDD.OI.06;5-bank asset concentration;MV;Maldives;"MDV";"2017";NA;"";"";1
+"493";GFDD.OI.06;5-bank asset concentration;ML;Mali;"MLI";"2020";NA;"";"";1
+"494";GFDD.OI.06;5-bank asset concentration;ML;Mali;"MLI";"2019"; 74.18768;"";"";1
+"495";GFDD.OI.06;5-bank asset concentration;ML;Mali;"MLI";"2018"; 73.38599;"";"";1
+"496";GFDD.OI.06;5-bank asset concentration;ML;Mali;"MLI";"2017"; 72.72890;"";"";1
+"497";GFDD.OI.06;5-bank asset concentration;MT;Malta;"MLT";"2020";100.00000;"";"";1
+"498";GFDD.OI.06;5-bank asset concentration;MT;Malta;"MLT";"2019";100.00000;"";"";1
+"499";GFDD.OI.06;5-bank asset concentration;MT;Malta;"MLT";"2018";100.00000;"";"";1
+"500";GFDD.OI.06;5-bank asset concentration;MT;Malta;"MLT";"2017";100.00000;"";"";1
+"501";GFDD.OI.06;5-bank asset concentration;MH;Marshall Islands;"MHL";"2020";NA;"";"";1
+"502";GFDD.OI.06;5-bank asset concentration;MH;Marshall Islands;"MHL";"2019";NA;"";"";1
+"503";GFDD.OI.06;5-bank asset concentration;MH;Marshall Islands;"MHL";"2018";NA;"";"";1
+"504";GFDD.OI.06;5-bank asset concentration;MH;Marshall Islands;"MHL";"2017";NA;"";"";1
+"505";GFDD.OI.06;5-bank asset concentration;MR;Mauritania;"MRT";"2020";NA;"";"";1
+"506";GFDD.OI.06;5-bank asset concentration;MR;Mauritania;"MRT";"2019"; 92.90285;"";"";1
+"507";GFDD.OI.06;5-bank asset concentration;MR;Mauritania;"MRT";"2018"; 82.84457;"";"";1
+"508";GFDD.OI.06;5-bank asset concentration;MR;Mauritania;"MRT";"2017"; 87.41875;"";"";1
+"509";GFDD.OI.06;5-bank asset concentration;MU;Mauritius;"MUS";"2020"; 88.82724;"";"";1
+"510";GFDD.OI.06;5-bank asset concentration;MU;Mauritius;"MUS";"2019"; 79.10236;"";"";1
+"511";GFDD.OI.06;5-bank asset concentration;MU;Mauritius;"MUS";"2018"; 77.88977;"";"";1
+"512";GFDD.OI.06;5-bank asset concentration;MU;Mauritius;"MUS";"2017"; 80.30667;"";"";1
+"513";GFDD.OI.06;5-bank asset concentration;MX;Mexico;"MEX";"2020"; 55.49257;"";"";1
+"514";GFDD.OI.06;5-bank asset concentration;MX;Mexico;"MEX";"2019"; 55.64628;"";"";1
+"515";GFDD.OI.06;5-bank asset concentration;MX;Mexico;"MEX";"2018"; 55.28024;"";"";1
+"516";GFDD.OI.06;5-bank asset concentration;MX;Mexico;"MEX";"2017"; 61.67126;"";"";1
+"517";GFDD.OI.06;5-bank asset concentration;FM;Micronesia, Fed. Sts.;"FSM";"2020";NA;"";"";1
+"518";GFDD.OI.06;5-bank asset concentration;FM;Micronesia, Fed. Sts.;"FSM";"2019";NA;"";"";1
+"519";GFDD.OI.06;5-bank asset concentration;FM;Micronesia, Fed. Sts.;"FSM";"2018";NA;"";"";1
+"520";GFDD.OI.06;5-bank asset concentration;FM;Micronesia, Fed. Sts.;"FSM";"2017";NA;"";"";1
+"521";GFDD.OI.06;5-bank asset concentration;MD;Moldova;"MDA";"2020"; 94.87215;"";"";1
+"522";GFDD.OI.06;5-bank asset concentration;MD;Moldova;"MDA";"2019"; 86.23431;"";"";1
+"523";GFDD.OI.06;5-bank asset concentration;MD;Moldova;"MDA";"2018"; 87.00589;"";"";1
+"524";GFDD.OI.06;5-bank asset concentration;MD;Moldova;"MDA";"2017"; 87.88281;"";"";1
+"525";GFDD.OI.06;5-bank asset concentration;MC;Monaco;"MCO";"2020";NA;"";"";1
+"526";GFDD.OI.06;5-bank asset concentration;MC;Monaco;"MCO";"2019";NA;"";"";1
+"527";GFDD.OI.06;5-bank asset concentration;MC;Monaco;"MCO";"2018";NA;"";"";1
+"528";GFDD.OI.06;5-bank asset concentration;MC;Monaco;"MCO";"2017";NA;"";"";1
+"529";GFDD.OI.06;5-bank asset concentration;MN;Mongolia;"MNG";"2020";100.00000;"";"";1
+"530";GFDD.OI.06;5-bank asset concentration;MN;Mongolia;"MNG";"2019";100.00000;"";"";1
+"531";GFDD.OI.06;5-bank asset concentration;MN;Mongolia;"MNG";"2018"; 98.22893;"";"";1
+"532";GFDD.OI.06;5-bank asset concentration;MN;Mongolia;"MNG";"2017"; 96.28397;"";"";1
+"533";GFDD.OI.06;5-bank asset concentration;ME;Montenegro;"MNE";"2020";NA;"";"";1
+"534";GFDD.OI.06;5-bank asset concentration;ME;Montenegro;"MNE";"2019"; 80.41129;"";"";1
+"535";GFDD.OI.06;5-bank asset concentration;ME;Montenegro;"MNE";"2018"; 80.28614;"";"";1
+"536";GFDD.OI.06;5-bank asset concentration;ME;Montenegro;"MNE";"2017"; 74.47309;"";"";1
+"537";GFDD.OI.06;5-bank asset concentration;MA;Morocco;"MAR";"2020";NA;"";"";1
+"538";GFDD.OI.06;5-bank asset concentration;MA;Morocco;"MAR";"2019";100.00000;"";"";1
+"539";GFDD.OI.06;5-bank asset concentration;MA;Morocco;"MAR";"2018";100.00000;"";"";1
+"540";GFDD.OI.06;5-bank asset concentration;MA;Morocco;"MAR";"2017"; 99.26317;"";"";1
+"541";GFDD.OI.06;5-bank asset concentration;MZ;Mozambique;"MOZ";"2020"; 88.01919;"";"";1
+"542";GFDD.OI.06;5-bank asset concentration;MZ;Mozambique;"MOZ";"2019"; 88.24859;"";"";1
+"543";GFDD.OI.06;5-bank asset concentration;MZ;Mozambique;"MOZ";"2018"; 89.16943;"";"";1
+"544";GFDD.OI.06;5-bank asset concentration;MZ;Mozambique;"MOZ";"2017"; 92.54707;"";"";1
+"545";GFDD.OI.06;5-bank asset concentration;MM;Myanmar;"MMR";"2020";NA;"";"";1
+"546";GFDD.OI.06;5-bank asset concentration;MM;Myanmar;"MMR";"2019"; 97.84174;"";"";1
+"547";GFDD.OI.06;5-bank asset concentration;MM;Myanmar;"MMR";"2018"; 98.30793;"";"";1
+"548";GFDD.OI.06;5-bank asset concentration;MM;Myanmar;"MMR";"2017";100.00000;"";"";1
+"549";GFDD.OI.06;5-bank asset concentration;NA;Namibia;"NAM";"2020";NA;"";"";1
+"550";GFDD.OI.06;5-bank asset concentration;NA;Namibia;"NAM";"2019";NA;"";"";1
+"551";GFDD.OI.06;5-bank asset concentration;NA;Namibia;"NAM";"2018";NA;"";"";1
+"552";GFDD.OI.06;5-bank asset concentration;NA;Namibia;"NAM";"2017";NA;"";"";1
+"553";GFDD.OI.06;5-bank asset concentration;NR;Nauru;"NRU";"2020";NA;"";"";1
+"554";GFDD.OI.06;5-bank asset concentration;NR;Nauru;"NRU";"2019";NA;"";"";1
+"555";GFDD.OI.06;5-bank asset concentration;NR;Nauru;"NRU";"2018";NA;"";"";1
+"556";GFDD.OI.06;5-bank asset concentration;NR;Nauru;"NRU";"2017";NA;"";"";1
+"557";GFDD.OI.06;5-bank asset concentration;NP;Nepal;"NPL";"2020"; 59.62270;"";"";1
+"558";GFDD.OI.06;5-bank asset concentration;NP;Nepal;"NPL";"2019"; 51.56404;"";"";1
+"559";GFDD.OI.06;5-bank asset concentration;NP;Nepal;"NPL";"2018"; 53.46395;"";"";1
+"560";GFDD.OI.06;5-bank asset concentration;NP;Nepal;"NPL";"2017"; 55.63332;"";"";1
+"561";GFDD.OI.06;5-bank asset concentration;NL;Netherlands;"NLD";"2020"; 86.03455;"";"";1
+"562";GFDD.OI.06;5-bank asset concentration;NL;Netherlands;"NLD";"2019"; 85.03669;"";"";1
+"563";GFDD.OI.06;5-bank asset concentration;NL;Netherlands;"NLD";"2018"; 96.86993;"";"";1
+"564";GFDD.OI.06;5-bank asset concentration;NL;Netherlands;"NLD";"2017"; 96.09305;"";"";1
+"565";GFDD.OI.06;5-bank asset concentration;NC;New Caledonia;"NCL";"2020";NA;"";"";1
+"566";GFDD.OI.06;5-bank asset concentration;NC;New Caledonia;"NCL";"2019";NA;"";"";1
+"567";GFDD.OI.06;5-bank asset concentration;NC;New Caledonia;"NCL";"2018";NA;"";"";1
+"568";GFDD.OI.06;5-bank asset concentration;NC;New Caledonia;"NCL";"2017";NA;"";"";1
+"569";GFDD.OI.06;5-bank asset concentration;NZ;New Zealand;"NZL";"2020"; 94.89739;"";"";1
+"570";GFDD.OI.06;5-bank asset concentration;NZ;New Zealand;"NZL";"2019"; 95.19867;"";"";1
+"571";GFDD.OI.06;5-bank asset concentration;NZ;New Zealand;"NZL";"2018"; 95.30299;"";"";1
+"572";GFDD.OI.06;5-bank asset concentration;NZ;New Zealand;"NZL";"2017"; 95.39384;"";"";1
+"573";GFDD.OI.06;5-bank asset concentration;NI;Nicaragua;"NIC";"2020";NA;"";"";1
+"574";GFDD.OI.06;5-bank asset concentration;NI;Nicaragua;"NIC";"2019";NA;"";"";1
+"575";GFDD.OI.06;5-bank asset concentration;NI;Nicaragua;"NIC";"2018";NA;"";"";1
+"576";GFDD.OI.06;5-bank asset concentration;NI;Nicaragua;"NIC";"2017";NA;"";"";1
+"577";GFDD.OI.06;5-bank asset concentration;NE;Niger;"NER";"2020";NA;"";"";1
+"578";GFDD.OI.06;5-bank asset concentration;NE;Niger;"NER";"2019"; 86.55383;"";"";1
+"579";GFDD.OI.06;5-bank asset concentration;NE;Niger;"NER";"2018"; 86.62097;"";"";1
+"580";GFDD.OI.06;5-bank asset concentration;NE;Niger;"NER";"2017"; 85.31916;"";"";1
+"581";GFDD.OI.06;5-bank asset concentration;NG;Nigeria;"NGA";"2020"; 93.09720;"";"";1
+"582";GFDD.OI.06;5-bank asset concentration;NG;Nigeria;"NGA";"2019"; 96.18783;"";"";1
+"583";GFDD.OI.06;5-bank asset concentration;NG;Nigeria;"NGA";"2018"; 97.83888;"";"";1
+"584";GFDD.OI.06;5-bank asset concentration;NG;Nigeria;"NGA";"2017"; 95.79731;"";"";1
+"585";GFDD.OI.06;5-bank asset concentration;MK;North Macedonia;"MKD";"2020";NA;"";"";1
+"586";GFDD.OI.06;5-bank asset concentration;MK;North Macedonia;"MKD";"2019"; 95.69759;"";"";1
+"587";GFDD.OI.06;5-bank asset concentration;MK;North Macedonia;"MKD";"2018"; 89.78458;"";"";1
+"588";GFDD.OI.06;5-bank asset concentration;MK;North Macedonia;"MKD";"2017"; 89.15929;"";"";1
+"589";GFDD.OI.06;5-bank asset concentration;NO;Norway;"NOR";"2020"; 89.62040;"";"";1
+"590";GFDD.OI.06;5-bank asset concentration;NO;Norway;"NOR";"2019"; 86.56530;"";"";1
+"591";GFDD.OI.06;5-bank asset concentration;NO;Norway;"NOR";"2018"; 85.02094;"";"";1
+"592";GFDD.OI.06;5-bank asset concentration;NO;Norway;"NOR";"2017"; 83.98106;"";"";1
+"593";GFDD.OI.06;5-bank asset concentration;OM;Oman;"OMN";"2020"; 99.31505;"";"";1
+"594";GFDD.OI.06;5-bank asset concentration;OM;Oman;"OMN";"2019"; 99.08215;"";"";1
+"595";GFDD.OI.06;5-bank asset concentration;OM;Oman;"OMN";"2018"; 99.08144;"";"";1
+"596";GFDD.OI.06;5-bank asset concentration;OM;Oman;"OMN";"2017"; 98.99288;"";"";1
+"597";GFDD.OI.06;5-bank asset concentration;PK;Pakistan;"PAK";"2020"; 93.73055;"";"";1
+"598";GFDD.OI.06;5-bank asset concentration;PK;Pakistan;"PAK";"2019"; 88.43541;"";"";1
+"599";GFDD.OI.06;5-bank asset concentration;PK;Pakistan;"PAK";"2018"; 87.87472;"";"";1
+"600";GFDD.OI.06;5-bank asset concentration;PK;Pakistan;"PAK";"2017"; 86.42428;"";"";1
+"601";GFDD.OI.06;5-bank asset concentration;PW;Palau;"PLW";"2020";NA;"";"";1
+"602";GFDD.OI.06;5-bank asset concentration;PW;Palau;"PLW";"2019";NA;"";"";1
+"603";GFDD.OI.06;5-bank asset concentration;PW;Palau;"PLW";"2018";NA;"";"";1
+"604";GFDD.OI.06;5-bank asset concentration;PW;Palau;"PLW";"2017";NA;"";"";1
+"605";GFDD.OI.06;5-bank asset concentration;PA;Panama;"PAN";"2020"; 62.60190;"";"";1
+"606";GFDD.OI.06;5-bank asset concentration;PA;Panama;"PAN";"2019"; 59.52650;"";"";1
+"607";GFDD.OI.06;5-bank asset concentration;PA;Panama;"PAN";"2018"; 58.28497;"";"";1
+"608";GFDD.OI.06;5-bank asset concentration;PA;Panama;"PAN";"2017"; 56.30847;"";"";1
+"609";GFDD.OI.06;5-bank asset concentration;PG;Papua New Guinea;"PNG";"2020";NA;"";"";1
+"610";GFDD.OI.06;5-bank asset concentration;PG;Papua New Guinea;"PNG";"2019";NA;"";"";1
+"611";GFDD.OI.06;5-bank asset concentration;PG;Papua New Guinea;"PNG";"2018";NA;"";"";1
+"612";GFDD.OI.06;5-bank asset concentration;PG;Papua New Guinea;"PNG";"2017";NA;"";"";1
+"613";GFDD.OI.06;5-bank asset concentration;PY;Paraguay;"PRY";"2020"; 61.02675;"";"";1
+"614";GFDD.OI.06;5-bank asset concentration;PY;Paraguay;"PRY";"2019"; 60.69122;"";"";1
+"615";GFDD.OI.06;5-bank asset concentration;PY;Paraguay;"PRY";"2018"; 64.52599;"";"";1
+"616";GFDD.OI.06;5-bank asset concentration;PY;Paraguay;"PRY";"2017"; 65.11752;"";"";1
+"617";GFDD.OI.06;5-bank asset concentration;PE;Peru;"PER";"2020"; 82.15797;"";"";1
+"618";GFDD.OI.06;5-bank asset concentration;PE;Peru;"PER";"2019"; 79.16411;"";"";1
+"619";GFDD.OI.06;5-bank asset concentration;PE;Peru;"PER";"2018"; 79.97680;"";"";1
+"620";GFDD.OI.06;5-bank asset concentration;PE;Peru;"PER";"2017"; 80.00552;"";"";1
+"621";GFDD.OI.06;5-bank asset concentration;PH;Philippines;"PHL";"2020"; 78.87118;"";"";1
+"622";GFDD.OI.06;5-bank asset concentration;PH;Philippines;"PHL";"2019"; 69.30672;"";"";1
+"623";GFDD.OI.06;5-bank asset concentration;PH;Philippines;"PHL";"2018"; 69.74912;"";"";1
+"624";GFDD.OI.06;5-bank asset concentration;PH;Philippines;"PHL";"2017"; 71.61987;"";"";1
+"625";GFDD.OI.06;5-bank asset concentration;PL;Poland;"POL";"2020"; 91.06262;"";"";1
+"626";GFDD.OI.06;5-bank asset concentration;PL;Poland;"POL";"2019"; 73.52898;"";"";1
+"627";GFDD.OI.06;5-bank asset concentration;PL;Poland;"POL";"2018"; 62.10790;"";"";1
+"628";GFDD.OI.06;5-bank asset concentration;PL;Poland;"POL";"2017"; 65.69498;"";"";1
+"629";GFDD.OI.06;5-bank asset concentration;PT;Portugal;"PRT";"2020"; 90.26849;"";"";1
+"630";GFDD.OI.06;5-bank asset concentration;PT;Portugal;"PRT";"2019"; 88.41818;"";"";1
+"631";GFDD.OI.06;5-bank asset concentration;PT;Portugal;"PRT";"2018"; 87.59612;"";"";1
+"632";GFDD.OI.06;5-bank asset concentration;PT;Portugal;"PRT";"2017"; 84.71272;"";"";1
+"633";GFDD.OI.06;5-bank asset concentration;PR;Puerto Rico;"PRI";"2020";NA;"";"";1
+"634";GFDD.OI.06;5-bank asset concentration;PR;Puerto Rico;"PRI";"2019";NA;"";"";1
+"635";GFDD.OI.06;5-bank asset concentration;PR;Puerto Rico;"PRI";"2018";NA;"";"";1
+"636";GFDD.OI.06;5-bank asset concentration;PR;Puerto Rico;"PRI";"2017";NA;"";"";1
+"637";GFDD.OI.06;5-bank asset concentration;QA;Qatar;"QAT";"2020";100.00000;"";"";1
+"638";GFDD.OI.06;5-bank asset concentration;QA;Qatar;"QAT";"2019"; 99.93289;"";"";1
+"639";GFDD.OI.06;5-bank asset concentration;QA;Qatar;"QAT";"2018"; 99.93703;"";"";1
+"640";GFDD.OI.06;5-bank asset concentration;QA;Qatar;"QAT";"2017"; 99.93639;"";"";1
+"641";GFDD.OI.06;5-bank asset concentration;RO;Romania;"ROU";"2020"; 89.85473;"";"";1
+"642";GFDD.OI.06;5-bank asset concentration;RO;Romania;"ROU";"2019"; 75.24830;"";"";1
+"643";GFDD.OI.06;5-bank asset concentration;RO;Romania;"ROU";"2018"; 74.15422;"";"";1
+"644";GFDD.OI.06;5-bank asset concentration;RO;Romania;"ROU";"2017"; 73.44800;"";"";1
+"645";GFDD.OI.06;5-bank asset concentration;RU;Russian Federation;"RUS";"2020"; 44.66878;"";"";1
+"646";GFDD.OI.06;5-bank asset concentration;RU;Russian Federation;"RUS";"2019"; 41.68933;"";"";1
+"647";GFDD.OI.06;5-bank asset concentration;RU;Russian Federation;"RUS";"2018"; 43.95353;"";"";1
+"648";GFDD.OI.06;5-bank asset concentration;RU;Russian Federation;"RUS";"2017"; 35.14469;"";"";1
+"649";GFDD.OI.06;5-bank asset concentration;RW;Rwanda;"RWA";"2020"; 76.29556;"";"";1
+"650";GFDD.OI.06;5-bank asset concentration;RW;Rwanda;"RWA";"2019"; 75.92616;"";"";1
+"651";GFDD.OI.06;5-bank asset concentration;RW;Rwanda;"RWA";"2018"; 74.85297;"";"";1
+"652";GFDD.OI.06;5-bank asset concentration;RW;Rwanda;"RWA";"2017"; 76.53490;"";"";1
+"653";GFDD.OI.06;5-bank asset concentration;WS;Samoa;"WSM";"2020";NA;"";"";1
+"654";GFDD.OI.06;5-bank asset concentration;WS;Samoa;"WSM";"2019";NA;"";"";1
+"655";GFDD.OI.06;5-bank asset concentration;WS;Samoa;"WSM";"2018";NA;"";"";1
+"656";GFDD.OI.06;5-bank asset concentration;WS;Samoa;"WSM";"2017";NA;"";"";1
+"657";GFDD.OI.06;5-bank asset concentration;SM;San Marino;"SMR";"2020";NA;"";"";1
+"658";GFDD.OI.06;5-bank asset concentration;SM;San Marino;"SMR";"2019";NA;"";"";1
+"659";GFDD.OI.06;5-bank asset concentration;SM;San Marino;"SMR";"2018";NA;"";"";1
+"660";GFDD.OI.06;5-bank asset concentration;SM;San Marino;"SMR";"2017";NA;"";"";1
+"661";GFDD.OI.06;5-bank asset concentration;ST;São Tomé and Principe;"STP";"2020";NA;"";"";1
+"662";GFDD.OI.06;5-bank asset concentration;ST;São Tomé and Principe;"STP";"2019";NA;"";"";1
+"663";GFDD.OI.06;5-bank asset concentration;ST;São Tomé and Principe;"STP";"2018";NA;"";"";1
+"664";GFDD.OI.06;5-bank asset concentration;ST;São Tomé and Principe;"STP";"2017";NA;"";"";1
+"665";GFDD.OI.06;5-bank asset concentration;SA;Saudi Arabia;"SAU";"2020"; 84.08725;"";"";1
+"666";GFDD.OI.06;5-bank asset concentration;SA;Saudi Arabia;"SAU";"2019"; 82.55296;"";"";1
+"667";GFDD.OI.06;5-bank asset concentration;SA;Saudi Arabia;"SAU";"2018"; 78.26692;"";"";1
+"668";GFDD.OI.06;5-bank asset concentration;SA;Saudi Arabia;"SAU";"2017"; 77.53028;"";"";1
+"669";GFDD.OI.06;5-bank asset concentration;SN;Senegal;"SEN";"2020";NA;"";"";1
+"670";GFDD.OI.06;5-bank asset concentration;SN;Senegal;"SEN";"2019"; 60.29663;"";"";1
+"671";GFDD.OI.06;5-bank asset concentration;SN;Senegal;"SEN";"2018"; 56.36278;"";"";1
+"672";GFDD.OI.06;5-bank asset concentration;SN;Senegal;"SEN";"2017"; 56.61801;"";"";1
+"673";GFDD.OI.06;5-bank asset concentration;RS;Serbia;"";"2020"; 84.83154;"";"";1
+"674";GFDD.OI.06;5-bank asset concentration;RS;Serbia;"";"2019"; 80.97277;"";"";1
+"675";GFDD.OI.06;5-bank asset concentration;RS;Serbia;"";"2018"; 76.65152;"";"";1
+"676";GFDD.OI.06;5-bank asset concentration;RS;Serbia;"";"2017"; 77.29102;"";"";1
+"677";GFDD.OI.06;5-bank asset concentration;SC;Seychelles;"SYC";"2020";NA;"";"";1
+"678";GFDD.OI.06;5-bank asset concentration;SC;Seychelles;"SYC";"2019";NA;"";"";1
+"679";GFDD.OI.06;5-bank asset concentration;SC;Seychelles;"SYC";"2018";NA;"";"";1
+"680";GFDD.OI.06;5-bank asset concentration;SC;Seychelles;"SYC";"2017";NA;"";"";1
+"681";GFDD.OI.06;5-bank asset concentration;SL;Sierra Leone;"SLE";"2020";NA;"";"";1
+"682";GFDD.OI.06;5-bank asset concentration;SL;Sierra Leone;"SLE";"2019";NA;"";"";1
+"683";GFDD.OI.06;5-bank asset concentration;SL;Sierra Leone;"SLE";"2018";NA;"";"";1
+"684";GFDD.OI.06;5-bank asset concentration;SL;Sierra Leone;"SLE";"2017";NA;"";"";1
+"685";GFDD.OI.06;5-bank asset concentration;SG;Singapore;"SGP";"2020";NA;"";"";1
+"686";GFDD.OI.06;5-bank asset concentration;SG;Singapore;"SGP";"2019";100.00000;"";"";1
+"687";GFDD.OI.06;5-bank asset concentration;SG;Singapore;"SGP";"2018"; 93.94058;"";"";1
+"688";GFDD.OI.06;5-bank asset concentration;SG;Singapore;"SGP";"2017";100.00000;"";"";1
+"689";GFDD.OI.06;5-bank asset concentration;SX;Sint Maarten (Dutch part);"SXM";"2020";NA;"";"";1
+"690";GFDD.OI.06;5-bank asset concentration;SX;Sint Maarten (Dutch part);"SXM";"2019";NA;"";"";1
+"691";GFDD.OI.06;5-bank asset concentration;SX;Sint Maarten (Dutch part);"SXM";"2018";NA;"";"";1
+"692";GFDD.OI.06;5-bank asset concentration;SX;Sint Maarten (Dutch part);"SXM";"2017";NA;"";"";1
+"693";GFDD.OI.06;5-bank asset concentration;SK;Slovak Republic;"SVK";"2020";NA;"";"";1
+"694";GFDD.OI.06;5-bank asset concentration;SK;Slovak Republic;"SVK";"2019";100.00000;"";"";1
+"695";GFDD.OI.06;5-bank asset concentration;SK;Slovak Republic;"SVK";"2018";100.00000;"";"";1
+"696";GFDD.OI.06;5-bank asset concentration;SK;Slovak Republic;"SVK";"2017";100.00000;"";"";1
+"697";GFDD.OI.06;5-bank asset concentration;SI;Slovenia;"SVN";"2020";NA;"";"";1
+"698";GFDD.OI.06;5-bank asset concentration;SI;Slovenia;"SVN";"2019";NA;"";"";1
+"699";GFDD.OI.06;5-bank asset concentration;SI;Slovenia;"SVN";"2018";NA;"";"";1
+"700";GFDD.OI.06;5-bank asset concentration;SI;Slovenia;"SVN";"2017";NA;"";"";1
+"701";GFDD.OI.06;5-bank asset concentration;SB;Solomon Islands;"SLB";"2020";NA;"";"";1
+"702";GFDD.OI.06;5-bank asset concentration;SB;Solomon Islands;"SLB";"2019";NA;"";"";1
+"703";GFDD.OI.06;5-bank asset concentration;SB;Solomon Islands;"SLB";"2018";NA;"";"";1
+"704";GFDD.OI.06;5-bank asset concentration;SB;Solomon Islands;"SLB";"2017";NA;"";"";1
+"705";GFDD.OI.06;5-bank asset concentration;SO;Somalia;"SOM";"2020";NA;"";"";1
+"706";GFDD.OI.06;5-bank asset concentration;SO;Somalia;"SOM";"2019";NA;"";"";1
+"707";GFDD.OI.06;5-bank asset concentration;SO;Somalia;"SOM";"2018";NA;"";"";1
+"708";GFDD.OI.06;5-bank asset concentration;SO;Somalia;"SOM";"2017";NA;"";"";1
+"709";GFDD.OI.06;5-bank asset concentration;ZA;South Africa;"ZAF";"2020"; 99.86399;"";"";1
+"710";GFDD.OI.06;5-bank asset concentration;ZA;South Africa;"ZAF";"2019"; 99.70531;"";"";1
+"711";GFDD.OI.06;5-bank asset concentration;ZA;South Africa;"ZAF";"2018"; 99.51707;"";"";1
+"712";GFDD.OI.06;5-bank asset concentration;ZA;South Africa;"ZAF";"2017"; 99.26501;"";"";1
+"713";GFDD.OI.06;5-bank asset concentration;SS;South Sudan;"SSD";"2020";NA;"";"";1
+"714";GFDD.OI.06;5-bank asset concentration;SS;South Sudan;"SSD";"2019";NA;"";"";1
+"715";GFDD.OI.06;5-bank asset concentration;SS;South Sudan;"SSD";"2018";NA;"";"";1
+"716";GFDD.OI.06;5-bank asset concentration;SS;South Sudan;"SSD";"2017";NA;"";"";1
+"717";GFDD.OI.06;5-bank asset concentration;ES;Spain;"ESP";"2020"; 82.58269;"";"";1
+"718";GFDD.OI.06;5-bank asset concentration;ES;Spain;"ESP";"2019"; 76.28630;"";"";1
+"719";GFDD.OI.06;5-bank asset concentration;ES;Spain;"ESP";"2018"; 79.26758;"";"";1
+"720";GFDD.OI.06;5-bank asset concentration;ES;Spain;"ESP";"2017"; 87.87357;"";"";1
+"721";GFDD.OI.06;5-bank asset concentration;LK;Sri Lanka;"LKA";"2020"; 87.92467;"";"";1
+"722";GFDD.OI.06;5-bank asset concentration;LK;Sri Lanka;"LKA";"2019"; 84.10007;"";"";1
+"723";GFDD.OI.06;5-bank asset concentration;LK;Sri Lanka;"LKA";"2018"; 84.68713;"";"";1
+"724";GFDD.OI.06;5-bank asset concentration;LK;Sri Lanka;"LKA";"2017"; 84.13969;"";"";1
+"725";GFDD.OI.06;5-bank asset concentration;KN;St. Kitts and Nevis;"KNA";"2020";NA;"";"";1
+"726";GFDD.OI.06;5-bank asset concentration;KN;St. Kitts and Nevis;"KNA";"2019";NA;"";"";1
+"727";GFDD.OI.06;5-bank asset concentration;KN;St. Kitts and Nevis;"KNA";"2018";NA;"";"";1
+"728";GFDD.OI.06;5-bank asset concentration;KN;St. Kitts and Nevis;"KNA";"2017";NA;"";"";1
+"729";GFDD.OI.06;5-bank asset concentration;LC;St. Lucia;"LCA";"2020";NA;"";"";1
+"730";GFDD.OI.06;5-bank asset concentration;LC;St. Lucia;"LCA";"2019";NA;"";"";1
+"731";GFDD.OI.06;5-bank asset concentration;LC;St. Lucia;"LCA";"2018";NA;"";"";1
+"732";GFDD.OI.06;5-bank asset concentration;LC;St. Lucia;"LCA";"2017";NA;"";"";1
+"733";GFDD.OI.06;5-bank asset concentration;VC;St. Vincent and the Grenadines;"VCT";"2020";NA;"";"";1
+"734";GFDD.OI.06;5-bank asset concentration;VC;St. Vincent and the Grenadines;"VCT";"2019";NA;"";"";1
+"735";GFDD.OI.06;5-bank asset concentration;VC;St. Vincent and the Grenadines;"VCT";"2018";NA;"";"";1
+"736";GFDD.OI.06;5-bank asset concentration;VC;St. Vincent and the Grenadines;"VCT";"2017";NA;"";"";1
+"737";GFDD.OI.06;5-bank asset concentration;SD;Sudan;"SDN";"2020";NA;"";"";1
+"738";GFDD.OI.06;5-bank asset concentration;SD;Sudan;"SDN";"2019";NA;"";"";1
+"739";GFDD.OI.06;5-bank asset concentration;SD;Sudan;"SDN";"2018";NA;"";"";1
+"740";GFDD.OI.06;5-bank asset concentration;SD;Sudan;"SDN";"2017";NA;"";"";1
+"741";GFDD.OI.06;5-bank asset concentration;SR;Suriname;"SUR";"2020";NA;"";"";1
+"742";GFDD.OI.06;5-bank asset concentration;SR;Suriname;"SUR";"2019";NA;"";"";1
+"743";GFDD.OI.06;5-bank asset concentration;SR;Suriname;"SUR";"2018";NA;"";"";1
+"744";GFDD.OI.06;5-bank asset concentration;SR;Suriname;"SUR";"2017";NA;"";"";1
+"745";GFDD.OI.06;5-bank asset concentration;SE;Sweden;"SWE";"2020"; 77.09253;"";"";1
+"746";GFDD.OI.06;5-bank asset concentration;SE;Sweden;"SWE";"2019"; 77.36905;"";"";1
+"747";GFDD.OI.06;5-bank asset concentration;SE;Sweden;"SWE";"2018"; 76.58350;"";"";1
+"748";GFDD.OI.06;5-bank asset concentration;SE;Sweden;"SWE";"2017"; 79.56055;"";"";1
+"749";GFDD.OI.06;5-bank asset concentration;CH;Switzerland;"CHE";"2020"; 99.15402;"";"";1
+"750";GFDD.OI.06;5-bank asset concentration;CH;Switzerland;"CHE";"2019"; 95.54364;"";"";1
+"751";GFDD.OI.06;5-bank asset concentration;CH;Switzerland;"CHE";"2018"; 95.66571;"";"";1
+"752";GFDD.OI.06;5-bank asset concentration;CH;Switzerland;"CHE";"2017"; 95.59157;"";"";1
+"753";GFDD.OI.06;5-bank asset concentration;SY;Syrian Arab Republic;"SYR";"2020"; 63.57516;"";"";1
+"754";GFDD.OI.06;5-bank asset concentration;SY;Syrian Arab Republic;"SYR";"2019"; 89.07067;"";"";1
+"755";GFDD.OI.06;5-bank asset concentration;SY;Syrian Arab Republic;"SYR";"2018"; 88.41549;"";"";1
+"756";GFDD.OI.06;5-bank asset concentration;SY;Syrian Arab Republic;"SYR";"2017"; 86.81733;"";"";1
+"757";GFDD.OI.06;5-bank asset concentration;TW;Taiwan, China;"TWN";"2020"; 87.73587;"";"";1
+"758";GFDD.OI.06;5-bank asset concentration;TW;Taiwan, China;"TWN";"2019"; 85.09612;"";"";1
+"759";GFDD.OI.06;5-bank asset concentration;TW;Taiwan, China;"TWN";"2018"; 85.56061;"";"";1
+"760";GFDD.OI.06;5-bank asset concentration;TW;Taiwan, China;"TWN";"2017"; 83.37137;"";"";1
+"761";GFDD.OI.06;5-bank asset concentration;TJ;Tajikistan;"TJK";"2020"; 99.99315;"";"";1
+"762";GFDD.OI.06;5-bank asset concentration;TJ;Tajikistan;"TJK";"2019"; 98.45561;"";"";1
+"763";GFDD.OI.06;5-bank asset concentration;TJ;Tajikistan;"TJK";"2018"; 98.58559;"";"";1
+"764";GFDD.OI.06;5-bank asset concentration;TJ;Tajikistan;"TJK";"2017"; 98.99287;"";"";1
+"765";GFDD.OI.06;5-bank asset concentration;TZ;Tanzania;"TZA";"2020"; 74.87679;"";"";1
+"766";GFDD.OI.06;5-bank asset concentration;TZ;Tanzania;"TZA";"2019"; 52.19128;"";"";1
+"767";GFDD.OI.06;5-bank asset concentration;TZ;Tanzania;"TZA";"2018"; 52.44899;"";"";1
+"768";GFDD.OI.06;5-bank asset concentration;TZ;Tanzania;"TZA";"2017"; 49.43341;"";"";1
+"769";GFDD.OI.06;5-bank asset concentration;TH;Thailand;"THA";"2020"; 86.44986;"";"";1
+"770";GFDD.OI.06;5-bank asset concentration;TH;Thailand;"THA";"2019"; 74.97795;"";"";1
+"771";GFDD.OI.06;5-bank asset concentration;TH;Thailand;"THA";"2018"; 76.52323;"";"";1
+"772";GFDD.OI.06;5-bank asset concentration;TH;Thailand;"THA";"2017"; 75.42615;"";"";1
+"773";GFDD.OI.06;5-bank asset concentration;TL;Timor-Leste;"";"2020";NA;"";"";1
+"774";GFDD.OI.06;5-bank asset concentration;TL;Timor-Leste;"";"2019";NA;"";"";1
+"775";GFDD.OI.06;5-bank asset concentration;TL;Timor-Leste;"";"2018";NA;"";"";1
+"776";GFDD.OI.06;5-bank asset concentration;TL;Timor-Leste;"";"2017";NA;"";"";1
+"777";GFDD.OI.06;5-bank asset concentration;TG;Togo;"TGO";"2020";NA;"";"";1
+"778";GFDD.OI.06;5-bank asset concentration;TG;Togo;"TGO";"2019"; 84.70602;"";"";1
+"779";GFDD.OI.06;5-bank asset concentration;TG;Togo;"TGO";"2018"; 87.93130;"";"";1
+"780";GFDD.OI.06;5-bank asset concentration;TG;Togo;"TGO";"2017"; 87.62070;"";"";1
+"781";GFDD.OI.06;5-bank asset concentration;TO;Tonga;"TON";"2020";NA;"";"";1
+"782";GFDD.OI.06;5-bank asset concentration;TO;Tonga;"TON";"2019";NA;"";"";1
+"783";GFDD.OI.06;5-bank asset concentration;TO;Tonga;"TON";"2018";NA;"";"";1
+"784";GFDD.OI.06;5-bank asset concentration;TO;Tonga;"TON";"2017";NA;"";"";1
+"785";GFDD.OI.06;5-bank asset concentration;TT;Trinidad and Tobago;"TTO";"2020";100.00000;"";"";1
+"786";GFDD.OI.06;5-bank asset concentration;TT;Trinidad and Tobago;"TTO";"2019";100.00000;"";"";1
+"787";GFDD.OI.06;5-bank asset concentration;TT;Trinidad and Tobago;"TTO";"2018";NA;"";"";1
+"788";GFDD.OI.06;5-bank asset concentration;TT;Trinidad and Tobago;"TTO";"2017";NA;"";"";1
+"789";GFDD.OI.06;5-bank asset concentration;TN;Tunisia;"TUN";"2020";NA;"";"";1
+"790";GFDD.OI.06;5-bank asset concentration;TN;Tunisia;"TUN";"2019";NA;"";"";1
+"791";GFDD.OI.06;5-bank asset concentration;TN;Tunisia;"TUN";"2018";NA;"";"";1
+"792";GFDD.OI.06;5-bank asset concentration;TN;Tunisia;"TUN";"2017";NA;"";"";1
+"793";GFDD.OI.06;5-bank asset concentration;TR;Turkey;"TUR";"2020"; 81.15810;"";"";1
+"794";GFDD.OI.06;5-bank asset concentration;TR;Turkey;"TUR";"2019"; 81.08843;"";"";1
+"795";GFDD.OI.06;5-bank asset concentration;TR;Turkey;"TUR";"2018"; 80.72803;"";"";1
+"796";GFDD.OI.06;5-bank asset concentration;TR;Turkey;"TUR";"2017"; 81.46325;"";"";1
+"797";GFDD.OI.06;5-bank asset concentration;TM;Turkmenistan;"TKM";"2020";NA;"";"";1
+"798";GFDD.OI.06;5-bank asset concentration;TM;Turkmenistan;"TKM";"2019";NA;"";"";1
+"799";GFDD.OI.06;5-bank asset concentration;TM;Turkmenistan;"TKM";"2018";NA;"";"";1
+"800";GFDD.OI.06;5-bank asset concentration;TM;Turkmenistan;"TKM";"2017";NA;"";"";1
+"801";GFDD.OI.06;5-bank asset concentration;TC;Turks and Caicos Islands;"TCA";"2020";NA;"";"";1
+"802";GFDD.OI.06;5-bank asset concentration;TC;Turks and Caicos Islands;"TCA";"2019";NA;"";"";1
+"803";GFDD.OI.06;5-bank asset concentration;TC;Turks and Caicos Islands;"TCA";"2018";NA;"";"";1
+"804";GFDD.OI.06;5-bank asset concentration;TC;Turks and Caicos Islands;"TCA";"2017";NA;"";"";1
+"805";GFDD.OI.06;5-bank asset concentration;TV;Tuvalu;"TUV";"2020";NA;"";"";1
+"806";GFDD.OI.06;5-bank asset concentration;TV;Tuvalu;"TUV";"2019";NA;"";"";1
+"807";GFDD.OI.06;5-bank asset concentration;TV;Tuvalu;"TUV";"2018";NA;"";"";1
+"808";GFDD.OI.06;5-bank asset concentration;TV;Tuvalu;"TUV";"2017";NA;"";"";1
+"809";GFDD.OI.06;5-bank asset concentration;UG;Uganda;"UGA";"2020"; 91.68804;"";"";1
+"810";GFDD.OI.06;5-bank asset concentration;UG;Uganda;"UGA";"2019"; 75.78612;"";"";1
+"811";GFDD.OI.06;5-bank asset concentration;UG;Uganda;"UGA";"2018"; 75.97685;"";"";1
+"812";GFDD.OI.06;5-bank asset concentration;UG;Uganda;"UGA";"2017"; 76.48745;"";"";1
+"813";GFDD.OI.06;5-bank asset concentration;UA;Ukraine;"UKR";"2020"; 60.49677;"";"";1
+"814";GFDD.OI.06;5-bank asset concentration;UA;Ukraine;"UKR";"2019"; 61.05813;"";"";1
+"815";GFDD.OI.06;5-bank asset concentration;UA;Ukraine;"UKR";"2018"; 58.95872;"";"";1
+"816";GFDD.OI.06;5-bank asset concentration;UA;Ukraine;"UKR";"2017"; 56.21777;"";"";1
+"817";GFDD.OI.06;5-bank asset concentration;AE;United Arab Emirates;"ARE";"2020"; 84.34979;"";"";1
+"818";GFDD.OI.06;5-bank asset concentration;AE;United Arab Emirates;"ARE";"2019"; 83.99667;"";"";1
+"819";GFDD.OI.06;5-bank asset concentration;AE;United Arab Emirates;"ARE";"2018"; 78.00527;"";"";1
+"820";GFDD.OI.06;5-bank asset concentration;AE;United Arab Emirates;"ARE";"2017"; 77.61298;"";"";1
+"821";GFDD.OI.06;5-bank asset concentration;GB;United Kingdom;"GBR";"2020"; 68.36285;"";"";1
+"822";GFDD.OI.06;5-bank asset concentration;GB;United Kingdom;"GBR";"2019"; 60.38666;"";"";1
+"823";GFDD.OI.06;5-bank asset concentration;GB;United Kingdom;"GBR";"2018"; 58.73520;"";"";1
+"824";GFDD.OI.06;5-bank asset concentration;GB;United Kingdom;"GBR";"2017"; 61.88575;"";"";1
+"825";GFDD.OI.06;5-bank asset concentration;US;United States;"USA";"2020"; 46.24142;"";"";1
+"826";GFDD.OI.06;5-bank asset concentration;US;United States;"USA";"2019"; 45.73803;"";"";1
+"827";GFDD.OI.06;5-bank asset concentration;US;United States;"USA";"2018"; 45.70721;"";"";1
+"828";GFDD.OI.06;5-bank asset concentration;US;United States;"USA";"2017"; 46.77561;"";"";1
+"829";GFDD.OI.06;5-bank asset concentration;UY;Uruguay;"URY";"2020"; 98.70084;"";"";1
+"830";GFDD.OI.06;5-bank asset concentration;UY;Uruguay;"URY";"2019"; 98.43193;"";"";1
+"831";GFDD.OI.06;5-bank asset concentration;UY;Uruguay;"URY";"2018"; 98.46985;"";"";1
+"832";GFDD.OI.06;5-bank asset concentration;UY;Uruguay;"URY";"2017"; 98.37153;"";"";1
+"833";GFDD.OI.06;5-bank asset concentration;UZ;Uzbekistan;"UZB";"2020"; 87.98565;"";"";1
+"834";GFDD.OI.06;5-bank asset concentration;UZ;Uzbekistan;"UZB";"2019"; 75.09425;"";"";1
+"835";GFDD.OI.06;5-bank asset concentration;UZ;Uzbekistan;"UZB";"2018"; 75.87324;"";"";1
+"836";GFDD.OI.06;5-bank asset concentration;UZ;Uzbekistan;"UZB";"2017"; 77.65862;"";"";1
+"837";GFDD.OI.06;5-bank asset concentration;VU;Vanuatu;"VUT";"2020";NA;"";"";1
+"838";GFDD.OI.06;5-bank asset concentration;VU;Vanuatu;"VUT";"2019";NA;"";"";1
+"839";GFDD.OI.06;5-bank asset concentration;VU;Vanuatu;"VUT";"2018";NA;"";"";1
+"840";GFDD.OI.06;5-bank asset concentration;VU;Vanuatu;"VUT";"2017";NA;"";"";1
+"841";GFDD.OI.06;5-bank asset concentration;VE;Venezuela, RB;"VEN";"2020"; 88.87124;"";"";1
+"842";GFDD.OI.06;5-bank asset concentration;VE;Venezuela, RB;"VEN";"2019"; 86.30823;"";"";1
+"843";GFDD.OI.06;5-bank asset concentration;VE;Venezuela, RB;"VEN";"2018"; 87.77804;"";"";1
+"844";GFDD.OI.06;5-bank asset concentration;VE;Venezuela, RB;"VEN";"2017"; 85.18269;"";"";1
+"845";GFDD.OI.06;5-bank asset concentration;VN;Vietnam;"VNM";"2020"; 87.10758;"";"";1
+"846";GFDD.OI.06;5-bank asset concentration;VN;Vietnam;"VNM";"2019"; 48.41315;"";"";1
+"847";GFDD.OI.06;5-bank asset concentration;VN;Vietnam;"VNM";"2018"; 46.33524;"";"";1
+"848";GFDD.OI.06;5-bank asset concentration;VN;Vietnam;"VNM";"2017"; 44.11192;"";"";1
+"849";GFDD.OI.06;5-bank asset concentration;VI;Virgin Islands (U.S.);"VIR";"2020";NA;"";"";1
+"850";GFDD.OI.06;5-bank asset concentration;VI;Virgin Islands (U.S.);"VIR";"2019";NA;"";"";1
+"851";GFDD.OI.06;5-bank asset concentration;VI;Virgin Islands (U.S.);"VIR";"2018";NA;"";"";1
+"852";GFDD.OI.06;5-bank asset concentration;VI;Virgin Islands (U.S.);"VIR";"2017";NA;"";"";1
+"853";GFDD.OI.06;5-bank asset concentration;PS;West Bank and Gaza;"";"2020";NA;"";"";1
+"854";GFDD.OI.06;5-bank asset concentration;PS;West Bank and Gaza;"";"2019";NA;"";"";1
+"855";GFDD.OI.06;5-bank asset concentration;PS;West Bank and Gaza;"";"2018";NA;"";"";1
+"856";GFDD.OI.06;5-bank asset concentration;PS;West Bank and Gaza;"";"2017";NA;"";"";1
+"857";GFDD.OI.06;5-bank asset concentration;YE;Yemen, Rep.;"";"2020";NA;"";"";1
+"858";GFDD.OI.06;5-bank asset concentration;YE;Yemen, Rep.;"";"2019";NA;"";"";1
+"859";GFDD.OI.06;5-bank asset concentration;YE;Yemen, Rep.;"";"2018";NA;"";"";1
+"860";GFDD.OI.06;5-bank asset concentration;YE;Yemen, Rep.;"";"2017";100.00000;"";"";1
+"861";GFDD.OI.06;5-bank asset concentration;ZM;Zambia;"ZMB";"2020";NA;"";"";1
+"862";GFDD.OI.06;5-bank asset concentration;ZM;Zambia;"ZMB";"2019"; 91.93606;"";"";1
+"863";GFDD.OI.06;5-bank asset concentration;ZM;Zambia;"ZMB";"2018"; 87.37607;"";"";1
+"864";GFDD.OI.06;5-bank asset concentration;ZM;Zambia;"ZMB";"2017"; 94.22124;"";"";1
+"865";GFDD.OI.06;5-bank asset concentration;ZW;Zimbabwe;"ZWE";"2020"; 90.32189;"";"";1
+"866";GFDD.OI.06;5-bank asset concentration;ZW;Zimbabwe;"ZWE";"2019"; 86.10391;"";"";1
+"867";GFDD.OI.06;5-bank asset concentration;ZW;Zimbabwe;"ZWE";"2018"; 79.57492;"";"";1
+"868";GFDD.OI.06;5-bank asset concentration;ZW;Zimbabwe;"ZWE";"2017"; 75.10069;"";"";1

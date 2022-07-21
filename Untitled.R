@@ -12,11 +12,14 @@ require(DBI)
 
 # load index data
 states_df <- read.csv("data/index.csv", sep = ";") # 2017 - 2021
-colnames(states_df)[colnames(states_df) == "Country"] <- "country"
-colnames(states_df)[colnames(states_df) == "Year"] <- "year"
-unique_states <- unique(states_df$Country)
 
-# function to scrape 5-bank asset concentration from World Bank API
+#change colnames for db key coherence
+colnames(states_df) <- c("country", "year", "fintech_index")
+
+# create iteration vector for wb function
+unique_states <- unique(states_df$country)
+
+# function to scrape World Bank API by indicator and time (can easily add more fields)
 wb_api <- function(indicator, timeframe, filename) { 
   
   # formatting inputs and declaring vars
@@ -52,12 +55,123 @@ wb_api <- function(indicator, timeframe, filename) {
     
   }
   
-  # concatenate df's and write to file
-    bind_rows(banks_df) %>%
-    as_tibble() %>%
-    write.csv(paste0("data/", filename, ".csv"))
+    # concatenate df's
+    c_df <- bind_rows(banks_df)
+    
+    # add unique colnames
+    colnames(c_df)[colnames(c_df) == "countryiso3code"] <- "country_code"
+    colnames(c_df)[colnames(c_df) == "date"] <- "year"
+    
+    names <- colnames(c_df)
+    #print(paste0("Old colnames:", names))
+    
+    for (i in 1:length(names)) {
+      
+      if (names[i] != "country_code" & names[i] != "year") {
+        
+        names[i] <- paste0(filename, "_", names[i])
+        
+        }
+      
+    }
+    
+    colnames(c_df) <- names
+    #print(paste0("New colnames:", names))
+    print(paste0("Writing file:   ", "data/", filename, ".csv", " ..."))
+    
+    # write file
+    write.csv2(c_df, paste0("data/", filename, ".csv"))
   
 }
+
+# scrape 5-bank asset concentration data
+wb_api("GFDD.OI.06", "2017:2021", "banks_con")
+
+# read file for banks' market concentration
+banks_concentration_raw <- read.csv("data/banks_con.csv", sep = ";")
+
+# read sme financing data and format colnames for sql db key cohesion
+sme_fin_raw <- read.csv("data/sme_financing.csv", sep = ",")
+colnames(sme_fin_raw)[colnames(sme_fin_raw) == "COUNTRY"] <- "country_code"
+colnames(sme_fin_raw)[colnames(sme_fin_raw) == "YEAR"] <- "year"
+
+# get gdp growth data
+wb_api("NY.GDP.MKTP.KD.ZG", "2017:2021", "gdp_growth")
+
+# read gdp growth data
+gdp_growth <- read.csv("data/gdp_growth.csv", sep = ";")
+
+# read financial development index and format colname for sql db cohesion
+fin_dev <- read.csv("data/fd_index.csv", sep = ";")
+colnames(fin_dev)[colnames(fin_dev) == "code"] <- "country_code"
+
+# get urbanization data
+wb_api("SP.URB.TOTL.IN.ZS", "2017:2021", "urb_rate")
+
+# read urbanization data
+urb <- read.csv("data/urb_rate.csv", sep = ";")
+
+# get literacy data
+wb_api("SE.ADT.LITR.ZS", "2017:2021", "lit_rate")
+
+# read literacy data
+lit <- read.csv("data/lit_rate.csv", sep = ";")
+
+# foreign direct investment
+wb_api("BX.KLT.DINV.CD.WD", "2017:2021", "fdi")
+
+# read fdi data
+fdi <- read.csv("data/fdi.csv", sep = ";")
+
+# get country ISO, country name, country region, combine data
+ctry_reg_dat <- getURL("https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv") %>%
+  read.csv(text = .)
+colnames(ctry_reg_dat)[colnames(ctry_reg_dat) == "alpha.3"] <- "country_code"
+
+# make SQL db
+dis_db <- dbConnect(RSQLite::SQLite(), "dis_db.sqlite")
+
+# get list of df's from env
+df_l <- names(Filter(isTRUE, eapply(.GlobalEnv, is.data.frame))) 
+
+# write df's into SQL db
+for (i in df_l) {
+  
+  dbWriteTable(dis_db,i, eval(parse(text=i)))
+  
+}
+
+dbDisconnect(dis_db)
+
+# read tables from db and combine to final df
+dat_b<- dbConnect(RSQLite::SQLite(), "dis_db.sqlite")
+
+# sql query for combined dataset
+dat_raw <- dbGetQuery(dat_b, "
+                      SELECT *
+                      FROM states_df AS ind
+                      LEFT JOIN ctry_reg_dat AS iso
+                      ON ind.country = iso.name
+                      LEFT JOIN banks_concentration_raw AS b_con
+                      ON iso.country_code = b_con.country_code AND ind.year = b_con.year
+                      LEFT JOIN sme_fin_raw AS sme_fin
+                      ON iso.country_code = sme_fin.country_code AND ind.year = sme_fin.year
+                      LEFT JOIN gdp_growth
+                      ON iso.country_code = gdp_growth.country_code AND ind.year = gdp_growth.year
+                      LEFT JOIN fdi
+                      ON iso.country_code = fdi.country_code AND ind.year = fdi.year
+                      LEFT JOIN urb
+                      ON iso.country_code = urb.country_code AND ind.year = urb.year
+                      LEFT JOIN lit
+                      ON iso.country_code = lit.country_code AND ind.year = lit.year
+                      LEFT JOIN fin_dev
+                      ON iso.country_code = fin_dev.country_code AND ind.year = fin_dev.year
+                      ")
+
+dbDisconnect(dat_b)
+
+# clean data
+# make graphs
 
 ####                  ####
 #### Work in progress ####
@@ -155,114 +269,10 @@ for (i in 1:nrow(region_domains)) {
   
   print(head(nth_banks))
   
+  # finish this still
+  
 }
 
 ####                  ####
 ##########################
 ####                  ####
-
-
-# read file for banks' market concentration
-banks_concentration_raw <- read.csv("data/banks_con.csv")
-colnames(banks_concentration_raw)[colnames(banks_concentration_raw) == "countryiso3code"] <- "country_code"
-colnames(banks_concentration_raw)[colnames(banks_concentration_raw) == "date"] <- "year"
-
-# filter desired states
-# do this after reading and combining tables from db
-market_concentration <- banks_concentration_raw %>%
-  filter(country.value %in% unique_states)
-
-# read sme financing data
-sme_fin_raw <- read.csv("data/sme_financing.csv", sep = ",")
-colnames(sme_fin_raw)[colnames(sme_fin_raw) == "COUNTRY"] <- "country_code"
-colnames(sme_fin_raw)[colnames(sme_fin_raw) == "YEAR"] <- "year"
-
-# get gdp growth data
-# wb_api("NY.GDP.MKTP.KD.ZG", "2017:2021", "gdp_growth")
-
-# read gdp growth data
-gdp_growth <- read.csv("data/gdp_growth.csv")
-colnames(gdp_growth)[colnames(gdp_growth) == "countryiso3code"] <- "country_code"
-colnames(gdp_growth)[colnames(gdp_growth) == "date"] <- "year"
-
-# read financial development index
-fin_dev <- read.csv("data/fd_index.csv", sep = ";")
-colnames(fin_dev)[colnames(fin_dev) == "code"] <- "country_code"
-
-# get urbanization data
-# wb_api("SP.URB.TOTL.IN.ZS", "2017:2021", "urb_rate")
-
-# read urbanization data
-urb <- read.csv("data/urb_rate.csv")
-colnames(urb)[colnames(urb) == "countryiso3code"] <- "country_code"
-colnames(urb)[colnames(urb) == "date"] <- "year"
-
-# get literacy data
-# SE.ADT.LITR.ZS
-# wb_api("SE.ADT.LITR.ZS", "2017:2021", "lit_rate")
-
-# read literacy data
-lit <- read.csv("data/lit_rate.csv")
-colnames(lit)[colnames(lit) == "countryiso3code"] <- "country_code"
-colnames(lit)[colnames(lit) == "date"] <- "year"
-
-# look at it over time for these 4 states
-# then look at it for 2021 only for more states, with more granular detail 
-# (FINDEXABLE index, for 2020, start of pandemic, where this need was more acute than ever; are the two indices comparable?)
-# Findexable also has from 2020 - 2021, maybe can do pandemic comparison stuff?
-
-# foreign direct investment
-# wb_api("BX.KLT.DINV.CD.WD", "2017:2021", "fdi")
-
-# read fdi data
-fdi <- read.csv("data/fdi.csv", sep = ";")
-colnames(fdi)[colnames(fdi) == "countryiso3code"] <- "country_code"
-colnames(fdi)[colnames(fdi) == "date"] <- "year"
-
-# get country ISO, country name, country region, combine data
-ctry_reg_dat <- getURL("https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv") %>%
-  read.csv(text = .)
-colnames(ctry_reg_dat)[colnames(ctry_reg_dat) == "alpha.3"] <- "country_code"
-
-# make SQL db
-dis_db <- dbConnect(RSQLite::SQLite(), "dis_db.sqlite")
-
-# get list of df's from env
-df_l <- names(Filter(isTRUE, eapply(.GlobalEnv, is.data.frame))) 
-dbWriteTable(dis_db, "lit" , lit)
-
-# write df's into SQL db
-for (i in df_l) {
-  
-  dbWriteTable(dis_db,i, eval(parse(text=i)))
-  
-}
-
-dbDisconnect(dis_db)
-
-# read tables from db and combine to final df
-dat<- dbConnect(RSQLite::SQLite(), "dis_db.sqlite")
-
-
-
-###############################
-### Not sure if going there ###
-###############################
-
-  
-
-
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
