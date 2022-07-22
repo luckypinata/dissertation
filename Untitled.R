@@ -171,8 +171,8 @@ dat_raw <- dbGetQuery(dat_b, "
 
 dbDisconnect(dat_b)
 
-# import and wranglew financing gap data to make into graph
-dat_f1 <- read.csv("fin_gap_dat.csv", sep = ";") %>%
+# import and wrangle financing gap data to make into graph
+dat_f1 <- read.csv("data/fin_gap_dat.csv", sep = ";") %>%
   select(1,2,5,6) %>%
   drop_na()
 colnames(dat_f1) <- c("country", "region", "fin_gap",  "fin_gap_pcnt")
@@ -181,13 +181,14 @@ dat_f1$fin_gap_pcnt <- as.numeric(dat_f1$fin_gap_pcnt)
 dat_f1 <- dat_f1 %>% drop_na()
 dat_f1$country[dat_f1$country == "Russian Federation"] <- "Russia"
 
+# load map data
 world_map <- map_data("world")
 
+#create plot f1
 f1 <- ggplot(dat_f1) +
   geom_map(
     dat = world_map, map = world_map, aes(map_id = region),
-    fill = "white", color = "#7f7f7f", size = 0.25
-  ) +
+    fill = "white", color = "#7f7f7f", size = 0.25) +
   geom_map(map = world_map, aes(map_id = country, fill = fin_gap_pcnt), size = 0.25) +
   scale_fill_gradient(low = "lightblue", high = "darkblue", name = "SME Financing Gap\n (% of GDP)") +
   expand_limits(x = world_map$long, y = world_map$lat) 
@@ -196,7 +197,20 @@ f1
 
 sme_empl_dat <- read.csv("data/sme_employment_data.csv", sep = ";")
 
-# make visuals for percentage employment of SMEs in economies here using sme_empl_dat
+sme_empl_final <- sme_empl_dat %>%
+  drop_na() %>%
+  rowwise() %>%
+  mutate(pcnt = sum(c(X1.9,X10.19,X20.49,X50.249))/Total) %>%
+  select(c(X.Country, pcnt))
+
+avg_sme_empl_share <- mean(sme_empl_final$pcnt)
+
+f2 <- ggplot(data = sme_empl_final, mapping=aes(y=X.Country,x=pcnt,fill=X.Country)) + 
+  geom_bar(stat="identity") +
+  geom_vline(xintercept = mean(sme_empl_final$pcnt, na.rm=TRUE)) + # add value to line
+  theme(legend.position = "none")
+  # remove background grid, make axis labels, add title, change col scheme?
+f2
 
 
 # clean data
