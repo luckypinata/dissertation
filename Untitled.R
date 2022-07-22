@@ -9,6 +9,7 @@ require(jsonlite)
 require(RCurl)
 require(RSQLite)
 require(DBI)
+require(maps)
 
 # load index data
 states_df <- read.csv("data/index.csv", sep = ";") # 2017 - 2021
@@ -169,6 +170,34 @@ dat_raw <- dbGetQuery(dat_b, "
                       ")
 
 dbDisconnect(dat_b)
+
+# import and wranglew financing gap data to make into graph
+dat_f1 <- read.csv("fin_gap_dat.csv", sep = ";") %>%
+  select(1,2,5,6) %>%
+  drop_na()
+colnames(dat_f1) <- c("country", "region", "fin_gap",  "fin_gap_pcnt")
+dat_f1$fin_gap_pcnt <- gsub(pattern = "[\"%]", "", x = dat_f1$fin_gap_pcnt)
+dat_f1$fin_gap_pcnt <- as.numeric(dat_f1$fin_gap_pcnt)
+dat_f1 <- dat_f1 %>% drop_na()
+dat_f1$country[dat_f1$country == "Russian Federation"] <- "Russia"
+
+world_map <- map_data("world")
+
+f1 <- ggplot(dat_f1) +
+  geom_map(
+    dat = world_map, map = world_map, aes(map_id = region),
+    fill = "white", color = "#7f7f7f", size = 0.25
+  ) +
+  geom_map(map = world_map, aes(map_id = country, fill = fin_gap_pcnt), size = 0.25) +
+  scale_fill_gradient(low = "lightblue", high = "darkblue", name = "SME Financing Gap\n (% of GDP)") +
+  expand_limits(x = world_map$long, y = world_map$lat) 
+  # remove background grid, x and y axes as well as labels, change color scheme.
+f1
+
+sme_empl_dat <- read.csv("data/sme_employment_data.csv", sep = ";")
+
+# make visuals for percentage employment of SMEs in economies here using sme_empl_dat
+
 
 # clean data
 # make graphs
